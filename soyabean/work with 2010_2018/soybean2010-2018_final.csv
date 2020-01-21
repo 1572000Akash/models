@@ -1,0 +1,460 @@
+Year,District,Sowing Area(Lakh ha),Estimated Production(Lakh metric tonnes),Soil_types,Altitude(m),Humidity(%),Basins,Rainfall(mm),Max Temperature,Min Temperature,Avg Temperature,Expected Yield(kg/ha)
+2010,Ujjain,4.435,5.526,Medium Black,494,70.75,Chambal Basin,713.5,32.5,24,27.75,1246
+2010,Mandsaur,2.58,2.83,Medium Black,440,67.25,Chambal Basin,676.8,33.75,25,28.75,1097
+2010,Neemuch,1.25,1.489,Medium Black,452,65.25,Chambal Basin,821.7,33.75,25,29,1191
+2010,Ratlam,2.046,2.508,Medium Black,480,70.5,Chambal Basin,689,33.25,24.25,28,1226
+2010,Dewas,3.181,3.722,Medium Black,535,72.5,Narmada Basin,785.1,32.25,24,27.75,1170
+2010,Shajapur,3.39,3.397,Medium Black,445,68.5,Chambal Basin,620.5,33,24.5,28.25,1002
+2010,Agar,1.2934,1.2678,Medium Black,171,68.9583333333333,Chambal Basin,499.3,32.1666666666667,24.7083333333333,28.2083333333333,959
+2010,Bhopal,0.99,1.02,Medium Black,527,71.25,Betwa Basin,786.1,32.75,24.75,28,1030
+2010,Sehore,3.089,3.314,Medium and Deep Black,502,70.75,Chambal Basin,658.1,32.75,24.5,28,1073
+2010,Raisen,1.776,1.835,Medium and Deep Black,445,71.25,Betwa Basin,812.5,32.75,25,28.25,1033
+2010,Vidisha,2.21,2.484,Medium and Deep Black,424,71.25,Betwa Basin,823.6,32.75,25,28.25,1124
+2010,Rajgarh,2.969,3.049,Medium Black,1555,70.5,Chambal Basin,703.5,33.25,24.25,28,1027
+2010,Betul,1.96,1.989,Shallow Black,658,78,Narmada Basin,1112.1,30.75,22.75,26.25,1015
+2010,Hoshangabad,2.006,2.55,Deep Black,278,72,Narmada Basin,1083.1,33.75,25,28.5,1271
+2010,Harda,1.665,1.858,Deep Black,296,72,Narmada Basin,981.9,33.25,25,28.5,1116
+2010,Indore,2.265,2.589,Medium Black,550,73,Chambal Basin,958.8,32.25,24.25,27.75,1143
+2010,Dhar,2.56,2.706,Medium Black,559,73.75,Narmada Basin,828.5,32.5,24.25,27.75,1057
+2010,Jhabua,0.51,0.52,Medium Black,318,72.25,Narmada Basin,639.8,34,25,28.75,1020
+2010,Alirajpur,0.131,0.137,Alluvium,288,72.25,Narmada Basin,723.8,34,25,28.75,1046
+2010,Khargone,0.557,0.639,Medium Black,258,72.75,Narmada Basin,750.2,33,25,28.25,1147
+2010,Barwani,0.319,0.351,Medium Black,178,75,Narmada Basin,868,32.75,24.5,27.75,1100
+2010,Khandwa,1.456,1.705,Medium Black,309,73,Narmada Basin,909.6,33,24.5,28.5,1171
+2010,Burhanpur,0.151,0.173,Medium Black,247,75,Tapti Basin,1027.6,32.25,24.25,27.5,1146
+2010,Balaghat,0.3,0.36,Red and Yellow,318,75.25,Wainganga Basin,1337.6,32.75,24.25,27.75,1200
+2010,Jabalpur,0.048,0.049,Deep Black,412,71.75,Narmada Basin,1398.4,33.25,24.75,28.5,1021
+2010,Katni,0.016,0.017,"Mixed Red and Black, Deep Black",304,69,Ken Basin,508,34,25,29,1063
+2010,Chhindwara,1.66,1.813,Shallow Black,675,77.25,Wainganga Basin,1133.5,30.75,23.25,26.25,1092
+2010,Mandla,0.025,0.023,Red and Yellow Medium Black,445,73.5,Narmada Basin,1490.5,32.5,24,27.5,920
+2010,Seoni,1.086,1.249,Mixed Red and Black,611,76.5,Narmada Basin,1216.2,31.5,23.75,27.25,1150
+2010,Narsinghpur,0.994,1.007,Deep Black,347,70.75,Narmada Basin,785.5,32.5,25,28.5,1013
+2010,Dindori,0.08,0.084,Red and yellow,640,73,Narmada Basin,1048.4,31.75,23,27,1050
+2010,Sagar,3.151,3.378,Medium and Deep Black,427,69.5,Betwa Basin,783.5,33,25,28.75,1072
+2010,Damoh,0.551,0.56,Medium and Deep Black,595,68.5,Ken Basin,1028.1,34,25.25,29.5,1016
+2010,Panna,0.14,0.137,"Mixed Red and Black, Deep Black",410,65.25,Ken Basin,741.3,35,26,30.25,979
+2010,Tikamgarh,0.41,0.428,Mixed Red and Black,349,65.5,Betwa Basin,574.5,34.75,26,29.75,1044
+2010,Chhattarpur,0.335,0.379,Mixed Red and Black,305,64.25,Betwa Basin,915.8,35.75,27,30.75,1131
+2010,Gwalior,0.01,0.009,Alluvium,211,62.75,Sindh Basin,921.3,36,27.5,31.25,900
+2010,Shivpuri,0.95,0.989,Alluvium,468,64.25,Chambal Basin,844.6,34.75,26,30,1041
+2010,Guna,1.93,2.065,Medium and Deep Black,474,67,Chambal Basin,803,33.75,25.5,29,1070
+2010,Ashoknagar,0.923,0.99,Alluvium,499,66.75,Sindh Basin,853.9,33.75,25.25,29.25,1073
+2010,Datia,0.001,0.001,Mixed Red and Black,420,63,Sindh Basin,785.1,35.75,27,30.75,1000
+2010,Morena,0.004,0.004,Alluvium,177,62.25,Sindh Basin,801.3,36,27.75,31.5,1000
+2010,Sheopur,0.14,0.143,Alluvium,456,61.25,Chambal Basin,611.7,35.75,27,31.25,1021
+2010,Bhind,0.003333333,0.002333333,Alluvium,192,62.25,Sindh Basin,0,36.25,28,31.75,730.5
+2010,Rewa,0.383,0.364,Medium and Black,304,63.75,Tons Basin,813.7,35.5,26.25,30.25,950
+2010,Sidhi,0.02,0.019,Red and Yellow,272,74.5,Son Basin,835,31.5,23.5,27.25,950
+2010,Satna,0.393,0.383,Mixed Red and Black,315,64.5,Tons Basin,663.4,35,26,30.25,975
+2010,Singrauli,0.002,0.002,"Red soil, Alluvial & Lateritic soil",609,66,Son Basin,806.2,35.75,25.5,30.25,1000
+2010,Shahdol,0.096,0.098,Red and Yellow Medium Black,464,70.25,Son Basin,818.9,33.25,24,27.75,1021
+2010,Anuppur,0.035,0.033,Red and Yellow Medium Black,505,70.25,Son Basin,845,33.25,24,27.75,943
+2010,Umaria,0.014,0.014,Red and Yellow Medium Black,2430,70,Son Basin,883.7,34,24.5,28.75,1000
+2011,Ujjain,4.537,5.267,Medium Black,494,76.75,Chambal Basin,1081.8,30.75,24,27,1161
+2011,Mandsaur,2.58,3.032,Medium Black,440,74.5,Chambal Basin,1052.4,31.25,24.75,27.75,1175
+2011,Neemuch,1.201,1.661,Medium Black,452,73.25,Chambal Basin,1103.7,32,24.75,27.75,1383
+2011,Ratlam,2.116,2.412,Medium Black,480,78,Chambal Basin,1254.9,30.5,24,27,1140
+2011,Dewas,3.131,3.798,Medium Black,535,77.5,Narmada Basin,751.7,30.75,23.75,27,1213
+2011,Shajapur,3.401,3.979,Medium Black,445,74.75,Chambal Basin,1267.5,31.25,24.5,27.75,1170
+2011,Agar,1.2934,1.2678,Medium Black,171,68.9583333333333,Chambal Basin,499.3,32.1666666666667,24.7083333333333,28.2083333333333,959
+2011,Bhopal,1.027,1.006,Medium Black,527,77.5,Betwa Basin,1174.7,30.75,24.25,27.5,980
+2011,Sehore,3.025,2.338,Medium and Deep Black,502,77.75,Chambal Basin,1127.7,30.75,24.25,27.5,773
+2011,Raisen,1.535,1.197,Medium and Deep Black,445,76,Betwa Basin,1421.8,30.75,24.75,27.5,780
+2011,Vidisha,2.51,2.115,Medium and Deep Black,424,76,Betwa Basin,1367.8,30.75,24.75,27.5,843
+2011,Rajgarh,3.026,4.058,Medium Black,1555,78,Chambal Basin,1576.2,30.5,24,27,1341
+2011,Betul,2.05,1.853,Shallow Black,658,80.75,Narmada Basin,843.2,29.5,23,25.5,904
+2011,Hoshangabad,2.057,1.378,Deep Black,278,78,Narmada Basin,1340.8,31.5,24.5,27.5,670
+2011,Harda,1.71,0.984,Deep Black,296,76,Narmada Basin,1044.6,32,24.75,28,575
+2011,Indore,2.408,2.593,Medium Black,550,78.25,Chambal Basin,1015.8,30.75,24,27,1077
+2011,Dhar,2.6,3.227,Medium Black,559,78.75,Narmada Basin,775.9,30.25,24,27,1241
+2011,Jhabua,0.483,0.519,Medium Black,318,78.25,Narmada Basin,926.6,31.5,25,27.5,1075
+2011,Alirajpur,0.157,0.165,Alluvium,288,78.25,Narmada Basin,631.6,31.5,25,27.5,1051
+2011,Khargone,0.4,0.448,Medium Black,258,73.75,Narmada Basin,759.8,31.75,25,28,1120
+2011,Barwani,0.305,0.342,Medium Black,178,76,Narmada Basin,558.5,31.25,25,27.5,1121
+2011,Khandwa,1.585,1.913,Medium Black,309,73.5,Narmada Basin,1062.1,32,25,28,1207
+2011,Burhanpur,0.147,0.163,Medium Black,247,74.5,Tapti Basin,769.8,31.25,24.5,27.75,1109
+2011,Balaghat,0.006,0.007,Red and Yellow,318,77.5,Wainganga Basin,1194.9,31.25,23.75,27,1167
+2011,Jabalpur,0.152,0.178,Deep Black,412,76.25,Narmada Basin,1372.9,31.5,24.5,27.5,1171
+2011,Katni,0.017,0.018,"Mixed Red and Black, Deep Black",304,73.25,Ken Basin,710.3,31.75,24.75,28.25,1059
+2011,Chhindwara,1.89,2.136,Shallow Black,675,79.75,Wainganga Basin,1099.7,29.25,22.75,25.75,1130
+2011,Mandla,0.024,0.023,Red and Yellow Medium Black,445,78.75,Narmada Basin,1499.5,31,23.5,26.5,958
+2011,Seoni,1.171,1.23,Mixed Red and Black,611,79.75,Narmada Basin,1186.5,30.25,23.25,26.25,1050
+2011,Narsinghpur,1.015,1.073,Deep Black,347,74.75,Narmada Basin,1071.7,31,24.75,28,1057
+2011,Dindori,0.109,0.104,Red and yellow,640,76.25,Narmada Basin,1419.6,30.25,22.75,26,954
+2011,Sagar,2.88,3.105,Medium and Deep Black,427,73.25,Betwa Basin,1292.2,31.5,25,28.25,1078
+2011,Damoh,0.607,0.575,Medium and Deep Black,595,72.25,Ken Basin,1349.3,32.25,25.25,28.5,947
+2011,Panna,0.395,0.385,"Mixed Red and Black, Deep Black",410,66.75,Ken Basin,1070,33.5,26.25,29.75,975
+2011,Tikamgarh,0.438,0.416,Mixed Red and Black,349,67.5,Betwa Basin,1121.4,33.25,26.25,29.5,950
+2011,Chhattarpur,0.585,0.614,Mixed Red and Black,305,66.75,Betwa Basin,1078.1,34,26.5,30.5,1050
+2011,Gwalior,0.01,0.008,Alluvium,211,64,Sindh Basin,780.6,34.5,27.5,30.75,800
+2011,Shivpuri,1.257,1.693,Alluvium,468,67.25,Chambal Basin,903.1,32.75,26.25,29.25,1347
+2011,Guna,1.88,2.525,Medium and Deep Black,474,72.75,Chambal Basin,1676.9,31.5,25.5,28.25,1343
+2011,Ashoknagar,0.991,1.227,Alluvium,499,71,Sindh Basin,1266.4,31.75,25.5,28.5,1238
+2011,Datia,0.039,0.029,Mixed Red and Black,420,63.75,Sindh Basin,751.7,34.5,27.25,30.75,744
+2011,Morena,0.004,0.003,Alluvium,177,63.25,Sindh Basin,712.1,35.25,27.5,31.25,750
+2011,Sheopur,0.458,0.481,Alluvium,456,66,Chambal Basin,1088,34,27.25,30.25,1050
+2011,Bhind,0.001,0.001,Alluvium,192,63.5,Sindh Basin,827,35.5,28,31.25,1000
+2011,Rewa,0.52,0.546,Medium and Black,304,66,Tons Basin,1106.9,33.5,26.5,29.75,1050
+2011,Sidhi,0.095,0.096,Red and Yellow,272,67.75,Son Basin,1709.9,32.75,24.25,28,1011
+2011,Satna,0.001,0.001,Mixed Red and Black,315,66.75,Tons Basin,1027,33.5,26.25,29.5,1000
+2011,Singrauli,0.57,0.556,"Red soil, Alluvial & Lateritic soil",609,68.25,Son Basin,1525.1,34,26,29.75,975
+2011,Shahdol,0.113,0.114,Red and Yellow Medium Black,464,74.5,Son Basin,1106.4,31.5,23.5,27.25,1009
+2011,Anuppur,0.055,0.052,Red and Yellow Medium Black,505,74.5,Son Basin,1296.2,31.5,23.5,27.25,945
+2011,Umaria,0.026,0.025,Red and Yellow Medium Black,2430,75.75,Son Basin,1325.5,31.75,24.25,27.5,962
+2012,Ujjain,4.505,5.519,Medium Black,494,73.75,Chambal Basin,994.8,31,24.25,27.25,1225
+2012,Mandsaur,2.61,3.197,Medium Black,440,71.25,Chambal Basin,904.4,31.75,24.75,27.75,1225
+2012,Neemuch,1.296,1.485,Medium Black,452,69.25,Chambal Basin,799.1,32.5,24.75,28.5,1146
+2012,Ratlam,2.14,2.568,Medium Black,480,74.75,Chambal Basin,1018.4,31.25,24.25,27,1200
+2012,Dewas,3.2,3.92,Medium Black,535,74.75,Narmada Basin,904.5,30.75,24.25,27,1225
+2012,Shajapur,3.495,4.334,Medium Black,445,70.75,Chambal Basin,898.9,31.5,24.75,27.75,1240
+2012,Agar,1.2934,1.2678,Medium Black,171,68.9583333333333,Chambal Basin,499.3,32.1666666666667,24.7083333333333,28.2083333333333,959
+2012,Bhopal,1.084,1.312,Medium Black,527,71.5,Betwa Basin,1140.3,31.75,24.5,27.75,1210
+2012,Sehore,3.048,3.49,Medium and Deep Black,502,72.5,Chambal Basin,1315,31.25,24.5,27.75,1145
+2012,Raisen,1.985,1.342,Medium and Deep Black,445,69.5,Betwa Basin,1053.1,32.25,25.25,28.5,676
+2012,Vidisha,2.551,2.89,Medium and Deep Black,424,69.5,Betwa Basin,955.2,32.25,25.25,28.5,1133
+2012,Rajgarh,3.021,3.097,Medium Black,1555,74.75,Chambal Basin,988.9,31.25,24.25,27,1025
+2012,Betul,2.056,2.301,Shallow Black,658,77.75,Narmada Basin,1565.4,30,23,26.25,1119
+2012,Hoshangabad,2.1,1.602,Deep Black,278,72.75,Narmada Basin,1732.3,32,24.75,28,763
+2012,Harda,1.752,1.559,Deep Black,296,73.25,Narmada Basin,1589.9,32.25,24.75,28.25,890
+2012,Indore,2.222,2.678,Medium Black,550,75.5,Chambal Basin,1016,30.25,24.25,27,1205
+2012,Dhar,2.733,3.034,Medium Black,559,76.75,Narmada Basin,759.4,30.25,24.25,27,1110
+2012,Jhabua,0.617,0.697,Medium Black,318,76.25,Narmada Basin,1014,31.5,25,27.75,1130
+2012,Alirajpur,0.175,0.193,Alluvium,288,76.25,Narmada Basin,928.8,31.5,25,27.75,1103
+2012,Khargone,0.55,0.607,Medium Black,258,72.5,Narmada Basin,739,31.75,25.25,28.25,1104
+2012,Barwani,0.305,0.352,Medium Black,178,74.25,Narmada Basin,475.1,31.5,24.5,27.75,1154
+2012,Khandwa,1.653,1.901,Medium Black,309,72.75,Narmada Basin,1159.5,31.75,25,28.25,1150
+2012,Burhanpur,0.18,0.208,Medium Black,247,73.5,Tapti Basin,1072,31.25,24.75,27.75,1156
+2012,Balaghat,0.002,0.002,Red and Yellow,318,74,Wainganga Basin,1173.6,32.25,24.25,27.75,1000
+2012,Jabalpur,0.121,0.136,Deep Black,412,68.25,Narmada Basin,1283.7,33,25.25,28.5,1124
+2012,Katni,0.13,0.137,"Mixed Red and Black, Deep Black",304,65.25,Ken Basin,1038.7,33.75,25.5,29.25,1054
+2012,Chhindwara,1.8,1.89,Shallow Black,675,75.25,Wainganga Basin,1078.7,30.25,23.5,26.25,1050
+2012,Mandla,0.028,0.032,Red and Yellow Medium Black,445,72.25,Narmada Basin,1387.9,32.25,23.5,27.25,1143
+2012,Seoni,1.094,1.207,Mixed Red and Black,611,75,Narmada Basin,1118.5,31,23.75,27,1103
+2012,Narsinghpur,1.08,1.247,Deep Black,347,66.25,Narmada Basin,1039.5,32.25,25.25,29,1155
+2012,Dindori,0.1,0.1,Red and yellow,640,71.25,Narmada Basin,1190.9,31.5,23.25,27,1000
+2012,Sagar,2.774,3.398,Medium and Deep Black,427,65.75,Betwa Basin,912.3,32.75,25.75,29,1225
+2012,Damoh,0.876,1.029,Medium and Deep Black,595,64,Ken Basin,1097.6,33.75,26,29.75,1175
+2012,Panna,0.185,0.214,"Mixed Red and Black, Deep Black",410,59.75,Ken Basin,1094.7,35.25,27,31,1157
+2012,Tikamgarh,0.435,0.48,Mixed Red and Black,349,60.5,Betwa Basin,817.8,34.25,27,30.5,1103
+2012,Chhattarpur,0.591,0.667,Mixed Red and Black,305,59,Betwa Basin,835.6,35.5,28.5,32.75,1129
+2012,Gwalior,0.065,0.068,Alluvium,211,52.75,Sindh Basin,850.7,37,28.75,32.75,1046
+2012,Shivpuri,1.2,1.482,Alluvium,468,57.75,Chambal Basin,949.7,34,27,30.5,1235
+2012,Guna,2.049,1.873,Medium and Deep Black,474,64.25,Chambal Basin,759.5,33.25,26,29.25,914
+2012,Ashoknagar,1.01,1.177,Alluvium,499,63.25,Sindh Basin,822.3,33,26,29.25,1165
+2012,Datia,0.062,0.052,Mixed Red and Black,420,54.75,Sindh Basin,904.5,36,28.25,32.25,839
+2012,Morena,0.008,0.007,Alluvium,177,51.25,Sindh Basin,838.9,37.25,29.25,33.25,875
+2012,Sheopur,0.277,0.32,Alluvium,456,55,Chambal Basin,754.4,36,28,31.75,1155
+2012,Bhind,0.004,0.003,Alluvium,192,51.5,Sindh Basin,730.1,37.75,29.75,33.5,750
+2012,Rewa,0.42,0.485,Medium and Black,304,59,Tons Basin,1224.2,35.5,27,31,1155
+2012,Sidhi,0.06,0.066,Red and Yellow,272,69.25,Son Basin,1487.4,32.25,23.5,27.75,1100
+2012,Satna,0.305,0.32,Mixed Red and Black,315,59.5,Tons Basin,959.6,35,27,30.75,1049
+2012,Singrauli,0.02,0.022,"Red soil, Alluvial & Lateritic soil",609,61.25,Son Basin,1404.8,35.25,26.5,31,1100
+2012,Shahdol,0.1,0.105,Red and Yellow Medium Black,464,67.75,Son Basin,982.9,32.75,24.25,28,1050
+2012,Anuppur,0.035,0.037,Red and Yellow Medium Black,505,67.75,Son Basin,1109.6,32.75,24.25,28,1057
+2012,Umaria,0.019,0.019,Red and Yellow Medium Black,2430,67.25,Son Basin,814.2,33.5,24.75,28.75,1000
+2013,Ujjain,4.552,4.256,Medium Black,494,75.5,Chambal Basin,1272.9,30.5,23.5,26.75,935
+2013,Mandsaur,2.795,2.46,Medium Black,440,71,Chambal Basin,1110.6,32,24.5,28,880
+2013,Neemuch,1.357,1.174,Medium Black,452,69,Chambal Basin,1294.8,32.75,24.75,28.25,865
+2013,Ratlam,2.326,1.965,Medium Black,480,76.25,Chambal Basin,1353,30.75,24,27,845
+2013,Dewas,3.255,2.881,Medium Black,535,77.5,Narmada Basin,1166,30.25,23.5,26.5,885
+2013,Shajapur,3.787,3.314,Medium Black,445,73.75,Chambal Basin,1371.3,31.25,24.25,27.25,875
+2013,Agar,1.2934,1.2678,Medium Black,527,68.5,Chambal Basin,0,33,24.5,28.25,959
+2013,Bhopal,1.053,0.658,Medium and Deep Black,502,75,Betwa Basin,1374.6,31.5,24.25,27.25,625
+2013,Sehore,2.912,2.49,Medium and Deep Black,445,76,Chambal Basin,1480.8,30.75,24,27,855
+2013,Raisen,1.196,0.299,Medium and Deep Black,424,72.25,Betwa Basin,1601.4,31.75,24.5,27.75,250
+2013,Vidisha,3.272,2.372,Medium Black,1555,72.25,Betwa Basin,1614.7,31.75,24.5,27.75,725
+2013,Rajgarh,3.155,2.732,Shallow Black,658,76.25,Chambal Basin,1576,30.75,24,27,866
+2013,Betul,2.3,1.076,Deep Black,278,82,Narmada Basin,1684,28.75,22.75,25.25,468
+2013,Hoshangabad,1.98,0.495,Deep Black,296,77.25,Narmada Basin,2102.8,31.25,24,26.75,250
+2013,Harda,1.7,0.34,Medium Black,550,77.75,Narmada Basin,1837.6,31,24,27.25,200
+2013,Indore,2.212,2.212,Medium Black,559,78,Chambal Basin,1619.1,30,23.5,26.5,1000
+2013,Dhar,2.794,3.316,Medium Black,318,79,Narmada Basin,1296.7,29.75,23.5,26.5,1187
+2013,Jhabua,0.614,0.519,Alluvium,288,77.25,Narmada Basin,1292.9,31.25,24.5,27.5,845
+2013,Alirajpur,0.244,0.232,Medium Black,258,77.25,Narmada Basin,1407.7,31.25,24.5,27.5,951
+2013,Morena,0.011142857142857,0.007428571428571,Alluvium,177,53.6071428571429,Sindh Basin,638.671428571429,36.7857142857143,28.7857142857143,32.6428571428571,753.285714285714
+2013,Khargone,0.821,0.821,Medium Black,178,75.75,Narmada Basin,1033,30.5,24.5,27.5,1000
+2013,Barwani,0.352,0.367,Medium Black,309,77.75,Narmada Basin,935.8,30.5,24.25,27,1043
+2013,Khandwa,1.945,2.237,Medium Black,247,76.25,Narmada Basin,1456.4,31,24.5,27.5,1150
+2013,Burhanpur,0.173,0.169,Red and Yellow,318,77.75,Tapti Basin,1488.4,30.5,24.25,26.75,977
+2013,Balaghat,0.002,0.001,Deep Black,412,75.25,Wainganga Basin,1428.8,32.25,23.75,27.75,500
+2013,Jabalpur,0.247,0.093,"Mixed Red and Black, Deep Black",304,71.5,Narmada Basin,2109.7,32.75,24.5,28.25,377
+2013,Katni,0.013,0.005,Shallow Black,675,68,Ken Basin,1342.6,33.5,25,28.75,385
+2013,Chhindwara,1.69,0.93,Red and Yellow Medium Black,445,78.75,Wainganga Basin,1408,29.5,22.75,25.75,550
+2013,Mandla,0.032,0.013,Mixed Red and Black,611,73.75,Narmada Basin,1828.1,31.75,23.25,27.25,406
+2013,Seoni,0.895,0.38,Deep Black,347,78,Narmada Basin,1734.7,30.5,23,26.5,425
+2013,Narsinghpur,0.825,0.165,Red and yellow,640,70,Narmada Basin,1821,31.75,24.75,28.5,200
+2013,Dindori,0.1,0.035,Medium and Deep Black,427,73.75,Narmada Basin,1229.1,31,23,26.25,350
+2013,Sagar,3.185,0.796,Medium and Deep Black,595,69,Betwa Basin,1934.5,32.75,25,28.25,250
+2013,Damoh,0.998,0.276,"Mixed Red and Black, Deep Black",410,67.25,Ken Basin,1793.8,33.5,25.25,29.25,277
+2013,Panna,0.387,0.135,Mixed Red and Black,349,60.75,Ken Basin,1621.9,34.5,26.5,30.75,349
+2013,Tikamgarh,0.737,0.313,Mixed Red and Black,305,62.5,Betwa Basin,1314.8,34.5,26,29.75,425
+2013,Chhattarpur,0.842,0.274,Alluvium,211,60.75,Betwa Basin,1502.4,35,28.25,32.75,325
+2013,Gwalior,0.065,0.026,Alluvium,468,52.25,Sindh Basin,1027.4,36.75,28.25,32.5,400
+2013,Shivpuri,1.58,0.395,Medium and Deep Black,474,58.5,Chambal Basin,1331.7,34.5,26.75,30.5,250
+2013,Guna,2.453,0.859,Alluvium,499,65.25,Chambal Basin,1678.5,33,25.25,29.25,350
+2013,Ashoknagar,1.831,1.19,Mixed Red and Black,420,64.5,Sindh Basin,1469.5,33.5,25.25,29,650
+2013,Datia,0.2,0.09,Alluvium,177,56,Sindh Basin,1166,35.75,27.5,31.75,450
+2013,Sheopur,0.21,0.084,Alluvium,456,54.75,Chambal Basin,1018.8,36,27.75,31.75,400
+2013,Bhind,0.003,0.001,Alluvium,192,50.75,Sindh Basin,1103,37.25,28.75,33,333
+2013,Rewa,0.394,0.138,Medium and Black,304,60.25,Tons Basin,1479.2,34.5,27,30.5,350
+2013,Sidhi,0.079,0.016,Red and Yellow,272,63.75,Son Basin,1327.3,33.5,24.5,28.5,203
+2013,Satna,0.8,0.2,Mixed Red and Black,315,61,Tons Basin,1351.2,34.25,26.25,30.5,250
+2013,Singrauli,0.1228,0.1194,"Red soil, Alluvial & Lateritic soil",609,62.5,Son Basin,1030.9,35,26,30.5,875
+2013,Shahdol,0.142,0.028,Red and Yellow Medium Black,464,69.25,Son Basin,1055.3,32.25,23.5,27.75,197
+2013,Anuppur,0.058,0.013,Red and Yellow Medium Black,505,69.25,Son Basin,1268.6,32.25,23.5,27.75,224
+2013,Umaria,0.042,0.008,Red and Yellow Medium Black,2430,69.25,Son Basin,1175.9,33,24.25,28.25,190
+2014,Ujjain,4.657,4.652,Medium Black,494,64.75,Chambal Basin,648.9,33,24.5,28.75,999
+2014,Mandsaur,2.835,2.773,Medium Black,440,64.25,Chambal Basin,802.3,33.5,25.5,29,978
+2014,Neemuch,1.485,1.492,Medium Black,452,63.5,Chambal Basin,830.6,33.5,25.25,29,1005
+2014,Ratlam,2.242,2.477,Medium Black,480,66.5,Chambal Basin,614.3,32.5,24.5,28.5,1105
+2014,Dewas,3.294,3.376,Medium Black,535,64.5,Narmada Basin,684.9,33,24.5,28.5,1025
+2014,Shajapur,2.541,2.579,Medium Black,445,62,Chambal Basin,753.6,33.75,25.25,29.5,1015
+2014,Agar,1.105,1.123,Medium Black,505,74.75,Chambal Basin,0,31.25,24.5,27.75,1016
+2014,Bhopal,0.83,0.592,Medium and Deep Black,527,61.75,Betwa Basin,880.7,33.75,25.5,29.5,713
+2014,Sehore,2.722,2.216,Medium and Deep Black,502,62,Chambal Basin,941.7,33.75,25.25,29.25,814
+2014,Raisen,0.591,0.454,Medium and Deep Black,445,60.75,Betwa Basin,1036.8,33.75,26,29.75,768
+2014,Balaghat,0.0775,0.074,Deep Black,412,73.4,Wainganga Basin,1234.84,32.5,24.1,27.8,966.75
+2014,Vidisha,2.863,2.376,Medium Black,424,60.75,Betwa Basin,1020.6,33.75,26,29.75,830
+2014,Rajgarh,2.878,2.475,Shallow Black,1555,66.5,Chambal Basin,1017.5,32.5,24.5,28.5,860
+2014,Betul,2.255,2.084,Deep Black,658,67.25,Narmada Basin,1061.5,31.75,23.5,27.5,924
+2014,Hoshangabad,1.08,0.782,Deep Black,278,63,Narmada Basin,1143.8,34.25,25.75,29.5,724
+2014,Harda,1.21,0.926,Medium Black,296,61.75,Narmada Basin,1173.2,34.75,25.75,30,765
+2014,Indore,2.217,2.716,Medium Black,550,65.5,Chambal Basin,811.2,33,24.5,28.5,1225
+2014,Dhar,2.678,3.08,Medium Black,559,65.75,Narmada Basin,736.2,33,24.5,28.5,1150
+2014,Jhabua,0.577,0.452,Alluvium,318,68,Narmada Basin,793.2,33.75,25.25,29,783
+2014,Alirajpur,0.224,0.167,Medium Black,288,68,Narmada Basin,949.5,33.75,25.25,29,746
+2014,Khargone,0.685,0.569,Medium Black,258,62.75,Narmada Basin,857.4,34,25.5,29.5,831
+2014,Barwani,0.275,0.191,Medium Black,178,65.25,Narmada Basin,728.9,33.5,25.25,29,695
+2014,Khandwa,1.697,1.609,Medium Black,309,61.25,Narmada Basin,1275.7,34.5,25.75,29.75,948
+2014,Burhanpur,0.169,0.114,Red and Yellow,247,62.5,Tapti Basin,1100.2,33.75,25.5,29.25,675
+2014,Jabalpur,0.088,0.039,Deep Black,412,61.5,Narmada Basin,968.8,34.25,25.5,29.75,443
+2014,Katni,0.01,0.006,"Mixed Red and Black, Deep Black",304,60,Ken Basin,900.3,34.75,25.75,29.75,600
+2014,Chhindwara,1.007,0.809,Shallow Black,675,65.75,Wainganga Basin,807,31.75,23.75,27.5,803
+2014,Mandla,0.01,0.006,Red and Yellow Medium Black,445,65.25,Narmada Basin,1229.1,33.25,24,28.25,600
+2014,Seoni,0.532,0.422,Mixed Red and Black,611,66,Narmada Basin,880.3,32.75,24,27.75,793
+2014,Narsinghpur,0.542,0.325,Deep Black,347,59.75,Narmada Basin,915.2,33.25,26,30,600
+2014,Dindori,0.105,0.073,Red and yellow,640,66.25,Narmada Basin,1152.8,32.25,23.5,27.25,695
+2014,Sagar,3.21,2.391,Medium and Deep Black,427,59,Betwa Basin,865.5,34.25,26,30,745
+2014,Damoh,0.965,0.731,Medium and Deep Black,595,58.25,Ken Basin,824.4,35,26.5,30.5,758
+2014,Panna,0.278,0.202,"Mixed Red and Black, Deep Black",410,53.75,Ken Basin,709,35.75,27.5,31.5,727
+2014,Tikamgarh,0.557,0.4,Mixed Red and Black,349,54,Betwa Basin,868.4,36,27.5,31.5,718
+2014,Chhattarpur,0.574,0.441,Mixed Red and Black,305,52.75,Betwa Basin,807,36.5,29,33.75,768
+2014,Gwalior,0.039,0.033,Alluvium,211,45.75,Sindh Basin,712.4,38,29.75,33.75,846
+2014,Shivpuri,1.326,0.995,Alluvium,468,52.25,Chambal Basin,817.2,35.75,27.5,31.5,750
+2014,Guna,1.947,1.213,Medium and Deep Black,474,57.25,Chambal Basin,927.4,34.5,26.5,30.5,623
+2014,Ashoknagar,1.346,1.088,Alluvium,499,56.25,Sindh Basin,851.2,35,26.75,30.5,808
+2014,Datia,0.12,0.086,Mixed Red and Black,420,49,Sindh Basin,724.3,37.25,28.75,33,717
+2014,Morena,0.012,0.009,Alluvium,177,50.75,Sindh Basin,493.5,37.25,28.75,32.75,750
+2014,Sheopur,0.296,0.213,Alluvium,456,50.5,Chambal Basin,678,37,28.75,32.75,720
+2014,Bhind,0.003,0.003,Alluvium,192,43.75,Sindh Basin,510.6,38.75,30.25,34.5,1000
+2014,Rewa,0.547,0.339,Medium and Black,304,54.25,Tons Basin,957.9,36,27.5,31.5,620
+2014,Sidhi,0.022,0.014,Red and Yellow,272,70.75,Son Basin,1242.7,31.75,23.25,27.25,636
+2014,Satna,0.58,0.412,Mixed Red and Black,315,54.75,Tons Basin,808.9,35.5,27.25,31.5,710
+2014,Singrauli,0.1228,0.1194,"Red soil, Alluvial & Lateritic soil",609,59,Son Basin,698.3,35.75,26.75,31,875
+2014,Shahdol,0.146,0.096,Red and Yellow Medium Black,464,63.75,Son Basin,990.1,33.5,24.5,28.5,658
+2014,Anuppur,0.048,0.031,Red and Yellow Medium Black,505,63.75,Son Basin,1307.7,33.5,24.5,28.5,646
+2014,Umaria,0.042,0.027,Red and Yellow Medium Black,2430,62.5,Son Basin,919.6,34.25,25.25,29.25,643
+2015,Ujjain,4.325,2.967,Medium Black,494,65.75,Chambal Basin,1521.2,32,24.25,28,686
+2015,Mandsaur,2.75,1.953,Medium Black,440,63.75,Chambal Basin,900.7,32.75,25,28.5,710
+2015,Neemuch,1.401,0.989,Medium Black,452,63,Chambal Basin,741.6,32.75,25,28.75,706
+2015,Ratlam,2.188,1.571,Medium Black,480,67,Chambal Basin,1236.2,32,24.5,28,718
+2015,Dewas,3.289,1.618,Medium Black,535,66.75,Narmada Basin,1257.9,31.75,24,27.75,492
+2015,Shajapur,2.176,1.329,Medium Black,445,64,Chambal Basin,1578.5,32.25,25,28.75,611
+2015,Balaghat,0.0775,0.074,Deep Black,412,73.4,Wainganga Basin,1234.84,32.5,24.1,27.8,966.75
+2015,Agar,1.178,0.72,Red,505,70.75,Chambal Basin,0,31.5,24.75,27.75,611
+2015,Bhopal,1.096,0.672,Medium and Deep Black,527,65.5,Betwa Basin,1101.8,32.5,25.25,28.5,613
+2015,Sehore,2.899,1.922,Medium and Deep Black,502,66.25,Chambal Basin,1182.5,32.25,24.5,28.25,663
+2015,Raisen,1.022,0.535,Medium and Deep Black,445,64.75,Betwa Basin,1206,32.5,25.25,28.75,523
+2015,Vidisha,2.855,2.027,Medium and Deep Black,424,64.75,Betwa Basin,1015.4,32.5,25.25,28.75,710
+2015,Rajgarh,3.205,2.449,Medium Black,1555,67,Chambal Basin,1565.3,32,24.5,28,764
+2015,Betul,2.092,0.489,Shallow Black,658,71.5,Narmada Basin,1240,30.75,23,26.5,234
+2015,Hoshangabad,1.066,0.327,Deep Black,278,69,Narmada Basin,1342.3,32.5,24.5,28.25,307
+2015,Harda,1.283,0.339,Deep Black,296,69.5,Narmada Basin,1205.7,33,24.5,28.25,264
+2015,Indore,2.058,1.068,Medium Black,550,67.5,Chambal Basin,1329.4,32,24,27.5,519
+2015,Dhar,2.621,2.626,Medium Black,559,68,Narmada Basin,1021.6,32,24,27.75,1002
+2015,Jhabua,0.465,0.231,Medium Black,318,69.5,Narmada Basin,776.1,32.75,24.75,28.5,497
+2015,Alirajpur,0.234,0.163,Alluvium,288,69.5,Narmada Basin,875.6,32.75,24.75,28.5,697
+2015,Khargone,0.816,0.529,Medium Black,258,64.75,Narmada Basin,800.7,32.75,25.25,28.75,648
+2015,Barwani,0.338,0.169,Medium Black,178,65.5,Narmada Basin,644.8,33,25.25,28.75,500
+2015,Khandwa,1.754,1.245,Medium Black,309,66.25,Narmada Basin,1103.8,33.25,25,28.75,710
+2015,Burhanpur,0.186,0.12,Medium Black,247,66,Tapti Basin,866.6,32.5,24.5,28,645
+2015,Jabalpur,0.147,0.068,Deep Black,412,68.75,Narmada Basin,1043.9,33.25,24.25,28.25,463
+2015,Katni,0.016,0.007,"Mixed Red and Black, Deep Black",304,65,Ken Basin,832.4,33.75,25,28.75,438
+2015,Chhindwara,1.049,0.389,Shallow Black,675,70.75,Wainganga Basin,1133.3,30.75,23,26.5,371
+2015,Mandla,0.03,0.007,Red and Yellow Medium Black,445,74,Narmada Basin,1195.8,31.75,23,26.75,233
+2015,Seoni,0.515,0.194,Mixed Red and Black,611,73.5,Narmada Basin,1013.7,31.25,23,26.75,377
+2015,Narsinghpur,0.798,0.379,Deep Black,347,66.25,Narmada Basin,1006.1,31.75,25,28.75,475
+2015,Dindori,0.104,0.069,Red and yellow,640,73.75,Narmada Basin,1362.9,30.5,22.75,26,663
+2015,Sagar,3.185,1.688,Medium and Deep Black,427,64.75,Betwa Basin,765.7,32.75,25,28.75,530
+2015,Damoh,0.852,0.505,Medium and Deep Black,595,64,Ken Basin,971.4,33.75,25.25,29.5,593
+2015,Panna,0.285,0.196,"Mixed Red and Black, Deep Black",410,54.25,Ken Basin,777.3,35.25,27.75,31.5,688
+2015,Tikamgarh,0.535,0.267,Mixed Red and Black,349,55,Betwa Basin,685,35,26.75,30.75,499
+2015,Chhattarpur,0.7,0.477,Mixed Red and Black,305,53.25,Betwa Basin,1133.3,35.25,28.5,32.75,681
+2015,Gwalior,0.036,0.018,Alluvium,211,46.25,Sindh Basin,861.3,37,29.5,33.25,500
+2015,Shivpuri,1.252,0.893,Alluvium,468,54.25,Chambal Basin,769.4,34.75,27,30.75,713
+2015,Guna,2.191,1.54,Medium and Deep Black,474,58.5,Chambal Basin,1201.7,33.25,26.25,30,703
+2015,Ashoknagar,1.227,0.685,Alluvium,499,57.75,Sindh Basin,896.6,33.75,26.25,29.75,558
+2015,Datia,0.086,0.039,Mixed Red and Black,420,48.75,Sindh Basin,679.6,36.25,28.75,32.25,453
+2015,Morena,0.027,0.011,Alluvium,177,44.25,Sindh Basin,567.9,38.5,29.75,34,407
+2015,Sheopur,0.41,0.243,Alluvium,456,51.25,Chambal Basin,608.8,36,28,32,593
+2015,Bhind,0.004,0.002,Alluvium,192,45.25,Sindh Basin,545,37.25,29.75,33.75,500
+2015,Satna,0.450125,0.2995,Mixed Red and Black,315,60.875,Tons Basin,1005.1375,34.5625,26.84375,30.5625,822.125
+2015,Rewa,0.572,0.166,Medium and Black,304,54.5,Tons Basin,803.1,35,27.75,31.25,290
+2015,Sidhi,0.03,0.011,Red and Yellow,272,76.25,Son Basin,806,31,24,27,367
+2015,Singrauli,0.1228,0.1194,"Red soil, Alluvial & Lateritic soil",609,59,Son Basin,799.6,34.75,25.75,30.5,875
+2015,Shahdol,0.149,0.043,Red and Yellow Medium Black,464,70.75,Son Basin,787.7,31.75,23.25,27.25,289
+2015,Anuppur,0.056,0.021,Red and Yellow Medium Black,505,70.75,Son Basin,770.9,31.75,23.25,27.25,375
+2015,Umaria,0.049,0.021,Red and Yellow Medium Black,2430,66.75,Son Basin,1003.5,33.5,24,28.25,429
+2016,Ujjain,4.55,5.437,Medium Black,494,73.5,Chambal Basin,1202.8,31,24.25,27.25,1195
+2016,Mandsaur,2.828,3.108,Medium Black,440,69.75,Chambal Basin,1037.1,32,25,28.25,1209
+2016,Neemuch,1.44,1.568,Medium Black,452,68.25,Chambal Basin,1113.3,32.5,25,28.5,1219
+2016,Ratlam,2.3,2.528,Medium Black,480,73.5,Chambal Basin,1353.6,31,24.25,27.75,1242
+2016,Dewas,3.374,4.032,Medium Black,535,75,Narmada Basin,923.9,30.5,24.25,27,1254
+2016,Shajapur,2.526,2.945,Medium Black,445,72.5,Chambal Basin,1162.8,31.25,24.75,28,1136
+2016,Agar,1.286,1.487,Medium Black,505,73.75,Chambal Basin,1360.3,31.25,24.25,27.25,1129
+2016,Bhopal,0.916,0.839,Medium Black,527,75,Betwa Basin,1576.8,31,24.75,27.75,872
+2016,Sehore,2.96,3.567,Medium and Deep Black,502,75.25,Chambal Basin,1489.6,31,24.5,27.75,916
+2016,Raisen,0.58,0.492,Medium and Deep Black,445,74,Betwa Basin,1469.9,31,25.25,28,837
+2016,Vidisha,2.272,1.777,Medium and Deep Black,424,74,Betwa Basin,1531.8,31,25.25,28,876
+2016,Rajgarh,3.12,3.607,Medium Black,1555,73.5,Chambal Basin,1377.8,31,24.25,27.75,997
+2016,Betul,2.2,2.207,Shallow Black,658,78.5,Narmada Basin,1046.1,29.5,23.5,26,918
+2016,Hoshangabad,0.855,0.726,Deep Black,278,76.75,Narmada Basin,2171.5,31.5,24.75,27.75,894
+2016,Harda,1.1,0.95,Deep Black,296,77,Narmada Basin,996.1,31.75,24.75,27.75,987
+2016,Indore,2.226,2.638,Medium Black,550,75,Chambal Basin,922,30.5,24.25,26.75,1205
+2016,Dhar,2.875,3.574,Medium Black,559,75.5,Narmada Basin,959.4,30.5,24.25,26.75,1302
+2016,Balaghat,0.0775,0.074,Deep Black,412,73.4,Wainganga Basin,1234.84,32.5,24.1,27.8,966.75
+2016,Jhabua,0.632,0.592,Medium Black,318,74.25,Narmada Basin,1079.5,31.75,25,28.25,915
+2016,Alirajpur,0.234,0.194,Alluvium,288,74.25,Narmada Basin,1093.9,31.75,25,28.25,991
+2016,Khargone,0.7,0.512,Medium Black,258,72.25,Narmada Basin,734.9,31.75,25,27.75,978
+2016,Barwani,0.3,0.229,Medium Black,178,71.75,Narmada Basin,603,32,24.75,28.25,964
+2016,Khandwa,1.557,1.353,Medium Black,309,72.75,Narmada Basin,1001.3,31.75,25,28,1055
+2016,Burhanpur,0.16,0.145,Medium Black,247,73,Tapti Basin,830.9,31.5,24.5,27.5,1052
+2016,Jabalpur,0.147,0.111,Deep Black,412,75.5,Narmada Basin,1485.9,31.75,24.75,28,1000
+2016,Katni,0.016,0.01,"Mixed Red and Black, Deep Black",304,73,Ken Basin,1410.4,32.25,25.25,28.5,1000
+2016,Chhindwara,0.957,0.804,Shallow Black,675,77.75,Wainganga Basin,1049.7,30,23.5,26.25,984
+2016,Mandla,0.03,0.019,Red and Yellow Medium Black,445,79,Narmada Basin,1547.3,30.75,23.5,27,909
+2016,Seoni,0.33,0.248,Mixed Red and Black,611,78.75,Narmada Basin,1236.3,30.25,23.5,26.5,933
+2016,Narsinghpur,0.64,0.543,Deep Black,347,74.25,Narmada Basin,1187.3,30.75,25,28.25,965
+2016,Dindori,0.104,0.08,Red and yellow,640,78,Narmada Basin,1477,29.75,23.25,25.75,884
+2016,Sagar,2.8,2.164,Medium and Deep Black,427,74.25,Betwa Basin,1392.9,31.75,25,28,871
+2016,Damoh,0.9,0.661,Medium and Deep Black,595,72.5,Ken Basin,1623.3,32.5,25.75,29,905
+2016,Panna,0.285,0.217,"Mixed Red and Black, Deep Black",410,65,Ken Basin,1747.5,34,27.25,30.5,880
+2016,Tikamgarh,0.4,0.302,Mixed Red and Black,349,66,Betwa Basin,836.5,33.75,26.5,30,841
+2016,Chhattarpur,0.47,0.35,Mixed Red and Black,305,65,Betwa Basin,1049.7,34.5,28.5,32.75,926
+2016,Gwalior,0.007,0.005,Alluvium,211,59.75,Sindh Basin,632,35.25,28.5,32,833
+2016,Shivpuri,0.75,0.686,Alluvium,468,63.75,Chambal Basin,883.7,33.5,27,30,897
+2016,Guna,2,1.85,Medium and Deep Black,474,68.75,Chambal Basin,1319.2,32.25,26,29,1050
+2016,Ashoknagar,1.3,1.138,Alluvium,499,68,Sindh Basin,1064.3,32.75,26,29,1115
+2016,Datia,0.002,0.002,Mixed Red and Black,420,61,Sindh Basin,631.6,35,28,31.5,1000
+2016,Bhind,0.003333333285714,0.002333333285714,Alluvium,192,53.75,Sindh Basin,601.214285714286,36.9642857142857,29.0357142857143,32.8928571428571,730.5
+2016,Morena,0.017,0.014,Alluvium,177,44.75,Sindh Basin,564.3,37.25,29.75,33.5,824
+2016,Sheopur,0.21,0.184,Alluvium,456,61.75,Chambal Basin,727.9,35,27.75,31,956
+2016,Rewa,0.538,0.428,Medium and Black,304,64.75,Tons Basin,1275.1,34,27.5,30.5,914
+2016,Sidhi,0.03,0.023,Red and Yellow,272,72.5,Son Basin,1376.6,31.25,24,27.25,767
+2016,Satna,0.81,0.499,Mixed Red and Black,315,55,Tons Basin,1703.6,35,27.75,31,914
+2016,Singrauli,0.02,0.016,"Red soil, Alluvial & Lateritic soil",609,62.75,Son Basin,1298.3,34,26.25,30,800
+2016,Shahdol,0.149,0.121,Red and Yellow Medium Black,464,76.25,Son Basin,1162.2,31,24,27,1000
+2016,Anuppur,0.056,0.046,Red and Yellow Medium Black,505,76.25,Son Basin,1053.4,31,24,27,1000
+2016,Umaria,0.051,0.04,Red and Yellow Medium Black,2430,74,Son Basin,1335.2,32.25,24.5,28.25,784
+2017,Ujjain,4.471,4.225,Medium Black,494,69.5,Chambal Basin,814.1,31.5,24.25,27.5,945
+2017,Mandsaur,2.7,2.714,Medium Black,440,65,Chambal Basin,668.8,32.75,25.5,28.5,1005
+2017,Neemuch,1.356,1.336,Medium Black,452,63.75,Chambal Basin,801,33,25.25,28.75,985
+2017,Ratlam,2.2,1.956,Medium Black,480,69,Chambal Basin,977.8,31.75,24.75,27.75,889
+2017,Dewas,3.275,3.193,Medium Black,535,71.5,Narmada Basin,810.2,31.5,24.25,27.5,975
+2017,Shajapur,2.48,2.244,Medium Black,445,68.5,Chambal Basin,663.2,32,25.25,28.25,905
+2017,Agar,1.2,1.092,Medium Black,505,62,Chambal Basin,815.5,33.75,25.25,29.5,910
+2017,Bhopal,0.952,0.619,Medium and Deep Black,527,70.75,Betwa Basin,806,31.75,25,28,650
+2017,Sehore,2.699,2.47,Medium and Deep Black,502,72,Chambal Basin,905.4,31.5,24.5,27.75,915
+2017,Raisen,0.868,0.426,Medium and Deep Black,445,68.5,Betwa Basin,927.4,32,25.25,28.75,491
+2017,Vidisha,2.775,1.715,Medium Black,424,68.5,Betwa Basin,811.9,32,25.25,28.75,618
+2017,Rajgarh,3.094,2.8,Shallow Black,1555,69,Chambal Basin,840.6,31.75,24.75,27.75,905
+2017,Betul,2.25,1.217,Deep Black,658,76,Narmada Basin,808,30.25,23.25,26.25,541
+2017,Hoshangabad,0.91,0.705,Deep Black,278,73,Narmada Basin,1044,32,24.75,28.25,775
+2017,Harda,1.2,0.99,Medium Black,296,73.25,Narmada Basin,675.9,32.5,24.75,28.5,825
+2017,Indore,2.17,1.768,Medium Black,550,71.5,Chambal Basin,777,31.5,24,27.5,815
+2017,Dhar,2.794,2.864,Medium Black,559,72.25,Narmada Basin,761.8,31,24.25,27.5,1025
+2017,Jhabua,0.637,0.622,Alluvium,318,69.5,Narmada Basin,845.6,32.75,25.5,28.75,976
+2017,Alirajpur,0.165,0.156,Medium Black,288,69.5,Narmada Basin,787.3,32.75,25.5,28.75,945
+2017,Khargone,0.593,0.366,Medium Black,258,68.25,Narmada Basin,775.6,32.5,25.25,28.25,617
+2017,Barwani,0.324,0.209,Medium Black,178,67.75,Narmada Basin,645.8,32.75,25.25,28.5,645
+2017,Khandwa,1.545,1.241,Medium Black,309,68.5,Narmada Basin,977.8,32.75,25.25,28.5,803
+2017,Burhanpur,0.15,0.136,Red and Yellow,247,69,Tapti Basin,911.4,32,24.75,28.25,907
+2017,Jabalpur,0.016,0.01,Deep Black,412,71.5,Narmada Basin,902.5,32.5,25,28.5,625
+2017,Katni,0.015,0.01,"Mixed Red and Black, Deep Black",304,69.25,Ken Basin,1115.8,32.75,25.5,28.75,667
+2017,Chhindwara,0.229,0.177,Shallow Black,675,75.75,Wainganga Basin,883,30,23.25,26.25,773
+2017,Mandla,0.027,0.019,Red and Yellow Medium Black,445,76,Narmada Basin,944.1,31,23.75,27.25,704
+2017,Seoni,0.398,0.291,Mixed Red and Black,611,76.75,Narmada Basin,907.3,30.5,23.5,26.75,731
+2017,Narsinghpur,0.325,0.236,Deep Black,347,68.5,Narmada Basin,777,31,25.75,28.75,726
+2017,Sagar,1.96,1.176,Medium and Deep Black,427,68.75,Betwa Basin,884.1,32.25,25,28.5,600
+2017,Damoh,0.483,0.242,Medium and Deep Black,595,67.75,Ken Basin,726.8,33.25,26,29.5,501
+2017,Panna,0.085,0.047,"Mixed Red and Black, Deep Black",410,60.5,Ken Basin,857.4,34.75,27.5,31,553
+2017,Tikamgarh,0.137,0.093,Mixed Red and Black,349,60.75,Betwa Basin,599,34.25,27,30.75,679
+2017,Chhattarpur,0.308,0.208,Mixed Red and Black,305,60.25,Betwa Basin,883,35,29.75,33.25,675
+2017,Gwalior,0.17,0.132,Alluvium,211,51.75,Sindh Basin,631.8,36.5,29,32.75,776
+2017,Shivpuri,0.79,0.593,Alluvium,468,60,Chambal Basin,523.2,33.75,26.75,30.25,751
+2017,Guna,1.53,1.209,Medium and Deep Black,474,63.25,Chambal Basin,808.4,33,26.25,29.5,790
+2017,Balaghat,0.0775,0.074,Red and Yellow,318,73.4,Wainganga Basin,1234.84,32.5,24.1,27.8,966.75
+2017,Ashoknagar,1.4,1.372,Alluvium,499,62.75,Sindh Basin,849.4,33,26.25,29.5,980
+2017,Datia,0.068,0.049,Mixed Red and Black,420,55,Sindh Basin,585.9,35.5,28.25,32.25,721
+2017,Morena,0.006,0.004,Alluvium,177,58.75,Sindh Basin,492.7,36,28.75,32.25,667
+2017,Sheopur,0.29,0.265,Alluvium,456,54,Chambal Basin,436,35.5,28.25,31.75,914
+2017,Bhind,0.005,0.004,Alluvium,192,59.25,Sindh Basin,492.8,36,28.75,32.5,800
+2017,Rewa,0.238,0.184,Medium and Black,304,61,Tons Basin,891.6,34.25,27.25,30.5,773
+2017,Sidhi,0.018,0.013,Red and Yellow,272,72.25,Son Basin,748,31,24.25,27,722
+2017,Satna,0.468,0.358,Mixed Red and Black,315,65,Tons Basin,743.2,34,27,30.5,765
+2017,Singrauli,0.002,0.001,"Red soil, Alluvial & Lateritic soil",609,68.25,Son Basin,866.9,34.25,26,30.25,500
+2017,Shahdol,0.135,0.099,Red and Yellow Medium Black,464,72.5,Son Basin,743.5,31.25,24,27.25,733
+2017,Anuppur,0.057,0.046,Red and Yellow Medium Black,505,72.5,Son Basin,934.9,31.25,24,27.25,807
+2017,Umaria,0.037,0.03,Red and Yellow Medium Black,2430,70.25,Son Basin,728.6,33,24.75,28.5,811
+2017,Dindori,0.095,0.069,Red and Yellow,640,75.25,Narmada Basin,914.8,30.25,22.75,26.25,726
+2018,Ujjain,4.724,5.645,Medium Black,494,71.75,Chambal Basin,776.5,30.75,24.5,27.5,1195
+2018,Mandsaur,3.293,3.981,Medium Black,440,68,Chambal Basin,877.9,31.75,25,28.25,1209
+2018,Neemuch,1.773,2.162,Medium Black,452,67,Chambal Basin,1058.7,32.25,25,28.25,1219
+2018,Ratlam,3.121,3.876,Medium Black,480,72,Chambal Basin,945.7,31,24.5,27.5,1242
+2018,Dewas,3.814,4.783,Medium Black,535,71.75,Narmada Basin,675.5,30.75,24.25,27,1254
+2018,Shajapur,2.55,2.896,Medium Black,445,70.75,Chambal Basin,760.9,31.25,24.75,28,1136
+2018,Agar,1.698,1.917,Medium Black,505,64,Chambal Basin,820,32.25,25,28.75,1129
+2018,Bhopal,1.26,1.099,Medium Black,527,72,Betwa Basin,838.1,31.25,24.75,27.75,872
+2018,Sehore,2.767,2.535,Medium and Deep Black,502,73,Chambal Basin,892.9,30.75,24.5,27.5,916
+2018,Raisen,0.753,0.63,Medium and Deep Black,445,70.5,Betwa Basin,1191.113,31.5,25.25,28.25,837
+2018,Vidisha,3.255,2.851,Medium and Deep Black,424,70.5,Betwa Basin,916.2,31.5,25.25,28.25,876
+2018,Rajgarh,3.026,3.017,Medium Black,1555,72,Chambal Basin,809,31,24.5,27.5,997
+2018,Betul,2.15,1.974,Shallow Black,658,75.75,Narmada Basin,637.4,29.5,23.25,26,918
+2018,Hoshangabad,0.682,0.61,Deep Black,278,73.5,Narmada Basin,1090.4,31.25,24.75,27.75,894
+2018,Harda,1.45,1.431,Deep Black,296,72.75,Narmada Basin,781.2,31.5,24.75,27.75,987
+2018,Indore,2.115,2.549,Medium Black,550,72,Chambal Basin,811.9,30.75,24,27.25,1205
+2018,Dhar,2.736,3.562,Medium Black,559,72.25,Narmada Basin,684.4,30.5,24.25,27,1302
+2018,Jhabua,0.645,0.59,Medium Black,318,70.75,Narmada Basin,774.5,31.75,25.25,28.25,915
+2018,Alirajpur,0.224,0.222,Alluvium,288,70.75,Narmada Basin,688.2,31.75,25.25,28.25,991
+2018,Khargone,0.766,0.749,Medium Black,258,68,Narmada Basin,707.3,31.75,25.5,28.25,978
+2018,Barwani,0.337,0.325,Medium Black,178,68,Narmada Basin,619.2,32.25,25,28.25,964
+2018,Khandwa,1.631,1.721,Medium Black,309,68.5,Narmada Basin,1038.2,31.75,25.25,28.5,1055
+2018,Burhanpur,0.191,0.201,Medium Black,247,68.5,Tapti Basin,829.7,31.75,24.75,28,1052
+2018,Balaghat,0.0775,0,Red and Yellow,318,65,Wainganga Basin,1039.3,34,24.5,28.75,966.75
+2018,Jabalpur,0.001,0.001,Deep Black,412,70,Narmada Basin,1082.1,31.75,25.25,28.25,1000
+2018,Katni,0.015,0.015,"Mixed Red and Black, Deep Black",304,69.5,Ken Basin,1082.8,32,25.5,28.75,1000
+2018,Chhindwara,0.186,0.183,Shallow Black,675,74.75,Wainganga Basin,763.3,29.25,23.25,26,984
+2018,Mandla,0.022,0.02,Red and Yellow Medium Black,445,75.5,Narmada Basin,1073.7,31,24,26.75,909
+2018,Seoni,0.03,0.028,Mixed Red and Black,611,75.5,Narmada Basin,812,30,23.5,26.5,933
+2018,Narsinghpur,0.201,0.194,Deep Black,347,69.25,Narmada Basin,940.2,31,25.25,28.5,965
+2018,Dindori,0.095,0.077176471,Red and yellow,640,75.25,Narmada Basin,1059.8,29.75,23,26,884
+2018,Sagar,1.924,1.676,Medium and Deep Black,427,69.25,Betwa Basin,901.8,31.75,25.5,28.25,871
+2018,Damoh,0.592,0.536,Medium and Deep Black,595,67.25,Ken Basin,989,33,26.25,29.25,905
+2018,Panna,0.075,0.066,"Mixed Red and Black, Deep Black",410,62.5,Ken Basin,890.6,33.75,27.75,30.75,880
+2018,Tikamgarh,0.182,0.153,Mixed Red and Black,349,63.5,Betwa Basin,1305.4,33.5,27,30.5,841
+2018,Chhattarpur,0.43,0.398,Mixed Red and Black,305,63.25,Betwa Basin,763.3,34.25,29.75,33,926
+2018,Gwalior,0.012,0.01,Alluvium,211,56.25,Sindh Basin,759.7,35.75,29,32.25,833
+2018,Shivpuri,1.189,1.066,Alluvium,468,64,Chambal Basin,994.9,33.5,26.75,29.75,897
+2018,Guna,1.953,2.05,Medium and Deep Black,474,66.75,Chambal Basin,910.1,32.5,25.75,29,1050
+2018,Ashoknagar,1.626,1.813,Alluvium,499,65.5,Sindh Basin,894.6,32.5,26,29,1115
+2018,Sheopur,0.183,0.175,Alluvium,456,59.25,Chambal Basin,799.2,34.75,28,31.25,956
+2018,Rewa,0.175,0.16,Medium and Black,304,62.5,Tons Basin,928.5,33.75,27.5,30.5,914
+2018,Satna,0.244,0.223,Mixed Red and Black,315,60.5,Tons Basin,784.2,34.25,27.25,30.5,914
+2018,Shahdol,0.002,0.002,Red and Yellow Medium Black,464,72.25,Son Basin,886.5,31,24.25,27,1000
+2018,Anuppur,0.001,0.001,Red and Yellow Medium Black,505,72.25,Son Basin,927.2,31,24.25,27,1000
+2018,Umaria,0.035,0.023,Red and Yellow Medium Black,2430,69.46875,Son Basin,1023.275,33.15625,24.53125,28.4375,727.375
+2018,Singrauli,0.1228,0.1194,"Red soil, Alluvial & Lateritic soil",609,63.375,Son Basin,1053.7625,34.84375,26.09375,30.40625,875
+2018,Sidhi,0.04425,0.03225,Red and Yellow,272,70.875,Son Basin,1191.6125,31.875,23.90625,27.5,719.5
+2018,Datia,0.07225,0.0435,Mixed Red and Black,420,56.40625,Sindh Basin,778.5875,35.75,27.96875,31.8125,740.5
+2018,Bhind,0.003333333285714,0.002333333285714,Alluvium,192,53.75,Sindh Basin,601.214285714286,36.9642857142857,29.0357142857143,32.8928571428571,730.5
+2018,Morena,0.011142857142857,0.007428571428571,Alluvium,177,53.6071428571429,Sindh Basin,638.671428571429,36.7857142857143,28.7857142857143,32.6428571428571,753.285714285714

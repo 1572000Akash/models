@@ -1,0 +1,451 @@
+Year,District,Sowing Area( hactare),Estimated Production( metric tonnes),Soil_types,Basins
+2010,Jabalpur,95395,158625,Deep Black,Narmada Basin
+2010,Katni,66642,70815,"Mixed Red and Black, Deep Black",Ken Basin
+2010,Balaghat,14689,19492,Red and Yellow,Wainganga Basin
+2010,Chindwara,111114,425244,Shallow Black,Wainganga Basin
+2010,Seoni,108784,90484,Mixed Red and Black,Narmada Basin
+2010,Mandla,29737,23004,Red and Yellow Medium Black,Narmada Basin
+2010,Narshinghpur,65069,169418,Deep Black,Narmada Basin
+2010,Sagar,172960,244514,Medium and Deep Black,Betwa Basin
+2010,Damoh,72082,136316,Medium and Deep Black,Ken Basin
+2010,Panna,68249,97074,"Mixed Red and Black, Deep Black",Ken Basin
+2010,Tikamgarh,100959,168328,Mixed Red and Black,Betwa Basin
+2010,Chhatarpur,142689,203935,Mixed Red and Black,Betwa Basin
+2010,Rewa,155731,158014,Medium and Black,Tons Basin
+2010,Sidhi,55104,45403,Red and Yellow,Son Basin
+2010,Singrouli,32340,34956,"Red soil, Alluvial & Lateritic soil",Son Basin
+2010,Satna,143238,173098,Mixed Red and Black,Tons Basin
+2010,Shahdol,24140,16849,Red and Yellow Medium Black,Son Basin
+2010,Anuppur,13072,8778,Red and Yellow Medium Black,Son Basin
+2010,Umaria,26237,20476,Red and Yellow Medium Black,Son Basin
+2010,Dindori,31749,19070,Red and yellow,Narmada Basin
+2010,Bhopal,72028,147055,Medium Black,Betwa Basin
+2010,Sehore,192079,401066,Medium and Deep Black,Chambal Basin
+2010,Raisen,185266,376514,Medium and Deep Black,Betwa Basin
+2010,Vidisha,198099,370361,Medium and Deep Black,Betwa Basin
+2010,Rajgarh,77694,145348,Medium Black,Chambal Basin
+2010,Indore,101511,220142,Medium Black,Chambal Basin
+2010,Dhar,158890,354861,Medium Black,Narmada Basin
+2010,Jhabua,23901,44554,Medium Black,Narmada Basin
+2010,Alirajpur,13700,24847,Alluvium,Narmada Basin
+2010,Khargone,82828,224946,Medium Black,Narmada Basin
+2010,Barwani,31879,49080,Medium Black,Narmada Basin
+2010,Khandwa,72002,120084,Medium Black,Narmada Basin
+2010,Burhanpur,10799,19398,Medium Black,Tapti Basin
+2010,Ujjain,128916,318571,Medium Black,Chambal Basin
+2010,Mandsour,63723,156950,Medium Black,Chambal Basin
+2010,Neemuch,29213,61841,Medium Black,Chambal Basin
+2010,Ratlam,74317,218287,Medium Black,Chambal Basin
+2010,Dewas,99107,247949,Medium Black,Narmada Basin
+2010,Shajapur,83862,221344,Medium Black,Chambal Basin
+2010,Morena,81506,179778,Alluvium,Sindh Basin
+2010,Sheopur,47120,144007,Alluvium,Chambal Basin
+2010,Bhind,84642,214197,Alluvium,Sindh Basin
+2010,Gwalior,83400,189873,Alluvium,Sindh Basin
+2010,Shivpuri,139816,250416,Alluvium,Chambal Basin
+2010,Guna,79261,127375,Alluvium,Chambal Basin
+2010,Ashoknagar,109105,173044,Alluvium,Sindh Basin
+2010,Betul,123889,290873,Shallow Black,Narmada Basin
+2010,Datia,116695,181637,Mixed Red and Black,Sindh Basin
+2010,Hoshangabad,232477,700109,Deep Black,Narmada Basin
+2010,Harda,131290,406978,Deep Black,Narmada Basin
+2011,Jabalpur,95775,280496,Deep Black,Narmada Basin
+2011,Katni,66945,59027,"Mixed Red and Black, Deep Black",Ken Basin
+2011,Balaghat,15102,22942,Red and Yellow,Wainganga Basin
+2011,Chindwara,114454,388857,Shallow Black,Wainganga Basin
+2011,Seoni,111663,102116,Mixed Red and Black,Narmada Basin
+2011,Mandla,17528,16696,Red and Yellow Medium Black,Narmada Basin
+2011,Narshinghpur,68842,226878,Deep Black,Narmada Basin
+2011,Sagar,172481,186539,Medium and Deep Black,Betwa Basin
+2011,Damoh,71811,171444,Medium and Deep Black,Ken Basin
+2011,Panna,62814,89133,"Mixed Red and Black, Deep Black",Ken Basin
+2011,Tikamgarh,78021,98994,Mixed Red and Black,Betwa Basin
+2011,Chhatarpur,140174,169099,Mixed Red and Black,Betwa Basin
+2011,Rewa,134395,111301,Medium and Black,Tons Basin
+2011,Sidhi,53834,38122,Red and Yellow,Son Basin
+2011,Singrouli,30855,35112,"Red soil, Alluvial & Lateritic soil",Son Basin
+2011,Satna,125361,119063,Mixed Red and Black,Tons Basin
+2011,Shahdol,24655,17117,Red and Yellow Medium Black,Son Basin
+2011,Anuppur,10883,6963,Red and Yellow Medium Black,Son Basin
+2011,Umaria,26022,19931,Red and Yellow Medium Black,Son Basin
+2011,Dindori,27663,16037,Red and yellow,Narmada Basin
+2011,Bhopal,75338,127546,Medium Black,Betwa Basin
+2011,Sehore,204158,327233,Medium and Deep Black,Chambal Basin
+2011,Raisen,182321,278393,Medium and Deep Black,Betwa Basin
+2011,Vidisha,206858,341573,Medium and Deep Black,Betwa Basin
+2011,Rajgarh,94128,140386,Medium Black,Chambal Basin
+2011,Indore,107884,271277,Medium Black,Chambal Basin
+2011,Dhar,192953,453526,Medium Black,Narmada Basin
+2011,Jhabua,27515,51628,Medium Black,Narmada Basin
+2011,Alirajpur,15612,28584,Alluvium,Narmada Basin
+2011,Khargone,92036,276617,Medium Black,Narmada Basin
+2011,Barwani,38103,83053,Medium Black,Narmada Basin
+2011,Khandwa,82399,154778,Medium Black,Narmada Basin
+2011,Burhanpur,10790,24756,Medium Black,Tapti Basin
+2011,Ujjain,135129,237773,Medium Black,Chambal Basin
+2011,Mandsour,57370,122687,Medium Black,Chambal Basin
+2011,Neemuch,38524,92087,Medium Black,Chambal Basin
+2011,Ratlam,68719,276787,Medium Black,Chambal Basin
+2011,Dewas,137337,247471,Medium Black,Narmada Basin
+2011,Shajapur,90836,182142,Medium Black,Chambal Basin
+2011,Morena,95981,221759,Alluvium,Sindh Basin
+2011,Sheopur,69702,173500,Alluvium,Chambal Basin
+2011,Bhind,89927,185215,Alluvium,Sindh Basin
+2011,Gwalior,93835,254063,Alluvium,Sindh Basin
+2011,Shivpuri,147056,298074,Alluvium,Chambal Basin
+2011,Guna,88906,187919,Alluvium,Chambal Basin
+2011,Ashoknagar,110298,193043,Alluvium,Sindh Basin
+2011,Betul,130273,260159,Shallow Black,Narmada Basin
+2011,Datia,116097,137266,Mixed Red and Black,Sindh Basin
+2011,Hoshangabad,242251,853964,Deep Black,Narmada Basin
+2011,Harda,141511,560655,Deep Black,Narmada Basin
+2012,Jabalpur,100107,243281,Deep Black,Narmada Basin
+2012,Katni,81114,199357,"Mixed Red and Black, Deep Black",Ken Basin
+2012,Balaghat,16951,20130,Red and Yellow,Wainganga Basin
+2012,Chindwara,126936,278799,Shallow Black,Wainganga Basin
+2012,Seoni,120707,242742,Mixed Red and Black,Narmada Basin
+2012,Mandla,37423,62159,Red and Yellow Medium Black,Narmada Basin
+2012,Narshinghpur,77318,176403,Deep Black,Narmada Basin
+2012,Sagar,195622,351131,Medium and Deep Black,Betwa Basin
+2012,Damoh,91557,150254,Medium and Deep Black,Ken Basin
+2012,Panna,70946,143847,"Mixed Red and Black, Deep Black",Ken Basin
+2012,Tikamgarh,137811,371047,Mixed Red and Black,Betwa Basin
+2012,Chhatarpur,163932,412496,Mixed Red and Black,Betwa Basin
+2012,Rewa,151795,297386,Medium and Black,Tons Basin
+2012,Sidhi,57049,88546,Red and Yellow,Son Basin
+2012,Singrouli,32636,50328,"Red soil, Alluvial & Lateritic soil",Son Basin
+2012,Satna,149484,321517,Mixed Red and Black,Tons Basin
+2012,Shahdol,26577,49154,Red and Yellow Medium Black,Son Basin
+2012,Anuppur,11637,14752,Red and Yellow Medium Black,Son Basin
+2012,Umaria,27956,51384,Red and Yellow Medium Black,Son Basin
+2012,Dindori,28978,31782,Red and yellow,Narmada Basin
+2012,Bhopal,77021,207547,Medium Black,Betwa Basin
+2012,Sehore,223937,644654,Medium and Deep Black,Chambal Basin
+2012,Raisen,222167,663866,Medium and Deep Black,Betwa Basin
+2012,Vidisha,242856,470375,Medium and Deep Black,Betwa Basin
+2012,Rajgarh,137077,323835,Medium Black,Chambal Basin
+2012,Indore,113426,511291,Medium Black,Chambal Basin
+2012,Dhar,160816,433339,Medium Black,Narmada Basin
+2012,Jhabua,30438,65451,Medium Black,Narmada Basin
+2012,Alirajpur,14773,28261,Alluvium,Narmada Basin
+2012,Khargone,88847,262543,Medium Black,Narmada Basin
+2012,Barwani,38149,136268,Medium Black,Narmada Basin
+2012,Khandwa,90028,231552,Medium Black,Narmada Basin
+2012,Burhanpur,10618,28148,Medium Black,Tapti Basin
+2012,Ujjain,150445,402096,Medium Black,Chambal Basin
+2012,Mandsour,88019,366951,Medium Black,Chambal Basin
+2012,Neemuch,43071,132142,Medium Black,Chambal Basin
+2012,Ratlam,94679,185282,Medium Black,Chambal Basin
+2012,Dewas,148723,479929,Medium Black,Narmada Basin
+2012,Shajapur,117308,350739,Medium Black,Chambal Basin
+2012,Morena,104099,412147,Alluvium,Sindh Basin
+2012,Sheopur,78723,352679,Alluvium,Chambal Basin
+2012,Bhind,94557,303846,Alluvium,Sindh Basin
+2012,Gwalior,112519,396967,Alluvium,Sindh Basin
+2012,Shivpuri,194843,532820,Alluvium,Chambal Basin
+2012,Guna,105476,328821,Alluvium,Chambal Basin
+2012,Ashoknagar,123302,291230,Alluvium,Sindh Basin
+2012,Betul,133799,344936,Shallow Black,Narmada Basin
+2012,Datia,100696,212083,Mixed Red and Black,Sindh Basin
+2012,Hoshangabad,250555,1186378,Deep Black,Narmada Basin
+2012,Harda,150976,694367,Deep Black,Narmada Basin
+2013,Jabalpur,109232,299369,Deep Black,Narmada Basin
+2013,Katni,91899,259726,"Mixed Red and Black, Deep Black",Ken Basin
+2013,Balaghat,18316,23716,Red and Yellow,Wainganga Basin
+2013,Chindwara,138574,438736,Shallow Black,Wainganga Basin
+2013,Seoni,132113,374258,Mixed Red and Black,Narmada Basin
+2013,Mandla,40709,69961,Red and Yellow Medium Black,Narmada Basin
+2013,Narshinghpur,81995,240816,Deep Black,Narmada Basin
+2013,Sagar,213446,449696,Medium and Deep Black,Betwa Basin
+2013,Damoh,82427,167966,Medium and Deep Black,Ken Basin
+2013,Panna,82540,156445,"Mixed Red and Black, Deep Black",Ken Basin
+2013,Tikamgarh,146730,376243,Mixed Red and Black,Betwa Basin
+2013,Chhatarpur,176279,436147,Mixed Red and Black,Betwa Basin
+2013,Rewa,156877,383745,Medium and Black,Tons Basin
+2013,Sidhi,57322,132652,Red and Yellow,Son Basin
+2013,Singrouli,33337,65591,"Red soil, Alluvial & Lateritic soil",Son Basin
+2013,Satna,142461,448587,Mixed Red and Black,Tons Basin
+2013,Shahdol,27772,69210,Red and Yellow Medium Black,Son Basin
+2013,Anuppur,13374,20455,Red and Yellow Medium Black,Son Basin
+2013,Umaria,29133,57128,Red and Yellow Medium Black,Son Basin
+2013,Dindori,30298,45359,Red and yellow,Narmada Basin
+2013,Bhopal,82297,247868,Medium Black,Betwa Basin
+2013,Sehore,237507,503877,Medium and Deep Black,Chambal Basin
+2013,Raisen,232568,788547,Medium and Deep Black,Betwa Basin
+2013,Vidisha,254407,446263,Medium and Deep Black,Betwa Basin
+2013,Rajgarh,165106,462594,Medium Black,Chambal Basin
+2013,Indore,118434,582817,Medium Black,Chambal Basin
+2013,Dhar,166594,548037,Medium Black,Narmada Basin
+2013,Jhabua,39065,108169,Medium Black,Narmada Basin
+2013,Alirajpur,17561,53421,Alluvium,Narmada Basin
+2013,Khargone,101916,290562,Medium Black,Narmada Basin
+2013,Barwani,34868,105232,Medium Black,Narmada Basin
+2013,Khandwa,105505,363043,Medium Black,Narmada Basin
+2013,Burhanpur,11061,31767,Medium Black,Tapti Basin
+2013,Ujjain,204840,622908,Medium Black,Chambal Basin
+2013,Mandsour,86845,358928,Medium Black,Chambal Basin
+2013,Neemuch,42218,162835,Medium Black,Chambal Basin
+2013,Ratlam,103540,306441,Medium Black,Chambal Basin
+2013,Dewas,169544,550848,Medium Black,Narmada Basin
+2013,Shajapur,126239,260684,Medium Black,Chambal Basin
+2013,Morena,100612,382423,Alluvium,Sindh Basin
+2013,Sheopur,80781,354225,Alluvium,Chambal Basin
+2013,Bhind,94920,358415,Alluvium,Sindh Basin
+2013,Gwalior,115404,420858,Alluvium,Sindh Basin
+2013,Shivpuri,201934,664134,Alluvium,Chambal Basin
+2013,Guna,113743,425775,Alluvium,Chambal Basin
+2013,Ashoknagar,125817,325956,Alluvium,Sindh Basin
+2013,Betul,136956,408540,Shallow Black,Narmada Basin
+2013,Datia,117620,263370,Mixed Red and Black,Sindh Basin
+2013,Hoshangabad,259950,1015365,Deep Black,Narmada Basin
+2013,Harda,148339,580816,Deep Black,Narmada Basin
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2014,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2015,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2016,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2017,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,
+2018,,,,,

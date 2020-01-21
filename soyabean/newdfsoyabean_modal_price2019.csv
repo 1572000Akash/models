@@ -1,0 +1,2003 @@
+arrival_date,state,variety,district,modal_price
+Jan,Madhya Pradesh,Other,Shehdol,3295.83333333333
+Jan,Madhya Pradesh,Soyabeen,Ashoknagar,3357.14285714286
+Jan,Madhya Pradesh,Other,Vidisha,3404.13043478261
+Jan,Madhya Pradesh,Other,Umariya,3440
+Jan,Madhya Pradesh,Other,Tikamgarh,3315
+Jan,Madhya Pradesh,Other,Shivpuri,3522.90909090909
+Jan,Madhya Pradesh,Other,Sheopur,3472.85714285714
+Jan,Madhya Pradesh,Other,Shajapur,3572.17117117117
+Jan,Madhya Pradesh,Other,Seoni,3075
+Jan,Madhya Pradesh,Other,Sehore,3501
+Jan,Madhya Pradesh,Other,Satna,3191.5625
+Jan,Madhya Pradesh,Other,Sagar,3247.5
+Jan,Madhya Pradesh,Other,Rewa,3192.4
+Jan,Madhya Pradesh,Other,Ratlam,3575.43181818182
+Jan,Madhya Pradesh,Other,Rajgarh,3563.72727272727
+Jan,Madhya Pradesh,Other,Raisen,3295.68
+Jan,Madhya Pradesh,Other,Panna,3110
+Jan,Madhya Pradesh,Other,Neemuch,3440.26086956522
+Jan,Madhya Pradesh,Other,Narsinghpur,3440.36363636364
+Jan,Madhya Pradesh,Other,Mandsaur,3543.82
+Jan,Madhya Pradesh,Other,Khargone,3541.41791044776
+Jan,Madhya Pradesh,Other,Khandwa,3548.93333333333
+Jan,Madhya Pradesh,Other,Indore,3452.52272727273
+Jan,Madhya Pradesh,Other,Hoshangabad,3123.1
+Jan,Madhya Pradesh,Soyabeen,Badwani,3024
+Jan,Madhya Pradesh,Other,Guna,3471.18681318681
+Jan,Madhya Pradesh,Soyabeen,Bhopal,3404
+Jan,Madhya Pradesh,Soyabeen,Chhindwara,2769
+Jan,Madhya Pradesh,Yellow,Damoh,3448.8064516129
+Jan,Madhya Pradesh,Yellow,Chhindwara,3327.22222222222
+Jan,Madhya Pradesh,Yellow,Chhatarpur,3440
+Jan,Madhya Pradesh,Yellow,Burhanpur,3584.04545454545
+Jan,Madhya Pradesh,Yellow,Bhopal,3498.16666666667
+Jan,Madhya Pradesh,Yellow,Betul,3544.29411764706
+Jan,Madhya Pradesh,Yellow,Badwani,3571.09523809524
+Jan,Madhya Pradesh,Sup,Indore,3000
+Jan,Madhya Pradesh,Soyabeen,Ujjain,352.969230769231
+Jan,Madhya Pradesh,Soyabeen,Shivpuri,3460.88888888889
+Jan,Madhya Pradesh,Soyabeen,Sheopur,3547.42105263158
+Jan,Madhya Pradesh,Soyabeen,Sehore,3670.10526315789
+Jan,Madhya Pradesh,Soyabeen,Sagar,3422.91489361702
+Jan,Madhya Pradesh,Soyabeen,Ratlam,3654.16666666667
+Jan,Madhya Pradesh,Soyabeen,Rajgarh,3532.64705882353
+Jan,Madhya Pradesh,Soyabeen,Panna,3305
+Jan,Madhya Pradesh,Soyabeen,Morena,3475
+Jan,Madhya Pradesh,Soyabeen,Mandsaur,3499
+Jan,Madhya Pradesh,Soyabeen,Khargone,3497.17391304348
+Jan,Madhya Pradesh,Soyabeen,Harda,3507.70588235294
+Jan,Madhya Pradesh,Soyabeen,Guna,3421.93333333333
+Jan,Madhya Pradesh,Soyabeen,Dindori,3400
+Jan,Madhya Pradesh,Soyabeen,Dewas,3499.10810810811
+Jan,Madhya Pradesh,Soyabeen,Chhatarpur,3448.92307692308
+Jan,Madhya Pradesh,Yellow,Datia,3490
+Jan,Madhya Pradesh,Other,Dhar,3364.44444444444
+Jan,Madhya Pradesh,Other,Damoh,3435.66666666667
+Jan,Gujarat,Soyabeen,Vadodara(Baroda),3225
+Jan,Gujarat,Soyabeen,Rajkot,3483.33333333333
+Jan,Gujarat,Soyabeen,Junagarh,3514.47368421053
+Jan,Gujarat,Soyabeen,Jamnagar,3435.71428571429
+Jan,Gujarat,Soyabeen,Dahod,3742.27272727273
+Jan,Gujarat,Soyabeen,Amreli,3455
+Jan,Gujarat,Other,Surat,2875
+Jan,Gujarat,Other,Sabarkantha,3608.2
+Jan,Gujarat,Other,Rajkot,2783.33333333333
+Jan,Gujarat,Other,Junagarh,3265
+Jan,Gujarat,Other,Dahod,3187.5
+Jan,Gujarat,Other,Amreli,3361.66666666667
+Jan,Chattisgarh,Yellow,Rajnandgaon,3582.52631578947
+Jan,Chattisgarh,Yellow,Raipur,3000
+Jan,Chattisgarh,Yellow,Mungeli,3486.75
+Jan,Chattisgarh,Yellow,Kabirdham,3430.46666666667
+Jan,Chattisgarh,Yellow,Durg,3457.33333333333
+Jan,Chattisgarh,Soyabeen,Rajnandgaon,3399
+Jan,Chattisgarh,Soyabeen,Raipur,3242.5
+Jan,Chattisgarh,Other,Rajnandgaon,2950
+Jan,Chattisgarh,Other,Durg,3411
+Jan,Chattisgarh,Other,Balodabazar,3144.66666666667
+Jan,Chattisgarh,Local,Rajnandgaon,3596.16666666667
+Jan,Gujarat,Yellow,Rajkot,3482.14285714286
+Jan,Madhya Pradesh,Other,Dewas,3491.78125
+Jan,Gujarat,Yellow,Sabarkantha,3509.7619047619
+Jan,Karnataka,Local,Belgaum,3615.5
+Jan,Madhya Pradesh,Other,Chhindwara,3370.70588235294
+Jan,Madhya Pradesh,Other,Chhatarpur,3554.44444444444
+Jan,Madhya Pradesh,Other,Bhopal,3568
+Jan,Madhya Pradesh,Other,Betul,3680
+Jan,Madhya Pradesh,Other,Badwani,3243.75
+Jan,Madhya Pradesh,Other,Ashoknagar,3511.31818181818
+Jan,Madhya Pradesh,Other,Anupur,3000
+Jan,Madhya Pradesh,Other,Alirajpur,3289.35483870968
+Jan,Madhya Pradesh,Local,Sagar,3400
+Jan,Madhya Pradesh,Local,Mandsaur,3367.5
+Jan,Madhya Pradesh,Local,Dindori,3391.5
+Jan,Madhya Pradesh,Black,Tikamgarh,3168.75
+Jan,Madhya Pradesh,Black,Seoni,3276.75
+Jan,Madhya Pradesh,Black,Rajgarh,3517.77777777778
+Jan,Madhya Pradesh,Black,Raisen,3280.83333333333
+Jan,Madhya Pradesh,Black,Chhatarpur,3000
+Jan,Karnataka,Soyabeen,Haveri,3590.87096774194
+Jan,Karnataka,Soyabeen,Gulbarga,3248.125
+Jan,Karnataka,Soyabeen,Dharwad,3468.5
+Jan,Karnataka,Soyabeen,Bidar,3635
+Jan,Karnataka,Soyabeen,Belgaum,3403.75
+Jan,Karnataka,Soyabeen,Bangalore,4600
+Jan,Karnataka,Other,Belgaum,3800
+Jan,Gujarat,Yellow,Surat,3737
+Jan,Madhya Pradesh,Yellow,Dewas,3526.23076923077
+Jan,Madhya Pradesh,Yellow,Ashoknagar,3424.59459459459
+Jan,Madhya Pradesh,Yellow,Gwalior,3278
+Jan,Maharashtra,Yellow,Nagpur,3438.87234042553
+Jan,Maharashtra,Yellow,Latur,3612.34246575342
+Jan,Maharashtra,Yellow,Jalgaon,3582.09090909091
+Jan,Maharashtra,Yellow,Jalana,3577.5
+Jan,Maharashtra,Yellow,Hingoli,3574.45
+Jan,Maharashtra,Yellow,Chandrapur,3597.08823529412
+Jan,Maharashtra,Yellow,Buldhana,3552.0534351145
+Jan,Maharashtra,Yellow,Nanded,3530.40540540541
+Jan,Maharashtra,Yellow,Bhandara,3375
+Jan,Maharashtra,Yellow,Aurangabad,3459.77777777778
+Jan,Maharashtra,Yellow,Amarawati,3468.03448275862
+Jan,Maharashtra,Yellow,Akola,3524.83050847458
+Jan,Maharashtra,Yellow,Ahmednagar,3221.42857142857
+Jan,Maharashtra,Other,Vashim,3561.35416666667
+Jan,Maharashtra,Other,Sholapur,3653.42857142857
+Jan,Maharashtra,Other,Parbhani,3498.2
+Jan,Maharashtra,Yellow,Beed,3588.33333333333
+Jan,Maharashtra,Yellow,Nandurbar,3575
+Jan,Maharashtra,Yellow,Nashik,3361.5
+Jan,Maharashtra,Yellow,Osmanabad,3633.59459459459
+Jan,Uttar Pradesh,Yellow,Lalitpur,3253.27777777778
+Jan,Uttar Pradesh,Soyabeen,Kanpur,4584.78260869565
+Jan,Rajasthan,Yellow,Chittorgarh,3591.25
+Jan,Rajasthan,Other,Udaipur,3500
+Jan,Rajasthan,Other,Tonk,3050
+Jan,Rajasthan,Other,Swai Madhopur,3571.5
+Jan,Rajasthan,Other,Kota,3495.74193548387
+Jan,Rajasthan,Other,Jhalawar,3604.59813084112
+Jan,Rajasthan,Other,Chittorgarh,3592.37142857143
+Jan,Rajasthan,Other,Bundi,3550.96739130435
+Jan,Rajasthan,Other,Bhilwara,3550
+Jan,Rajasthan,Other,Baran,3596.76923076923
+Jan,Maharashtra,Yellow,Yavatmal,3530.75396825397
+Jan,Maharashtra,Yellow,Wardha,3485.06956521739
+Jan,Maharashtra,Yellow,Vashim,3633.52941176471
+Jan,Madhya Pradesh,Yellow,Dhar,3597.86725663717
+Jan,Maharashtra,Yellow,Parbhani,3575.69444444444
+Jan,Maharashtra,Other,Osmanabad,3714.14285714286
+Jan,Maharashtra,Other,Nashik,3644.47058823529
+Jan,Maharashtra,Yellow,Pune,3600.5
+Jan,Maharashtra,Other,Nanded,3580.375
+Jan,Madhya Pradesh,Yellow,Sagar,3484.41758241758
+Jan,Madhya Pradesh,Yellow,Ratlam,3620.11904761905
+Jan,Madhya Pradesh,Yellow,Rajgarh,3558.9203539823
+Jan,Madhya Pradesh,Yellow,Raisen,3344.3
+Jan,Madhya Pradesh,Yellow,Neemuch,3648.33333333333
+Jan,Madhya Pradesh,Yellow,Narsinghpur,3295.5
+Jan,Madhya Pradesh,Yellow,Morena,3437.5
+Jan,Madhya Pradesh,Yellow,Sehore,3562.62365591398
+Jan,Madhya Pradesh,Yellow,Mandsaur,3583.33333333333
+Jan,Madhya Pradesh,Yellow,Katni,3355
+Jan,Madhya Pradesh,Yellow,Jhabua,3419.64864864865
+Jan,Madhya Pradesh,Yellow,Jabalpur,2510
+Jan,Madhya Pradesh,Yellow,Indore,3630.75675675676
+Jan,Madhya Pradesh,Yellow,Hoshangabad,3541.79411764706
+Jan,Madhya Pradesh,Yellow,Harda,3545.42105263158
+Jan,Maharashtra,Other,Nandurbar,3622.06666666667
+Jan,Madhya Pradesh,Yellow,Khandwa,3595.625
+Jan,Madhya Pradesh,Yellow,Seoni,3389
+Jan,Madhya Pradesh,Yellow,Khargone,3422.5
+Jan,Madhya Pradesh,Yellow,Shivpuri,3512.57142857143
+Jan,Maharashtra,Other,Nagpur,3515.22222222222
+Jan,Madhya Pradesh,Yellow,Shajapur,3520.06097560976
+Jan,Maharashtra,Other,Latur,3650.6
+Jan,Maharashtra,Other,Jalgaon,3729.29545454545
+Jan,Maharashtra,Other,Jalana,3544.58333333333
+Jan,Maharashtra,Other,Chandrapur,3614.78947368421
+Jan,Maharashtra,Other,Buldhana,3551.92307692308
+Jan,Maharashtra,Other,Hingoli,3540.60606060606
+Jan,Maharashtra,Other,Aurangabad,3613.83333333333
+Jan,Maharashtra,Other,Amarawati,3451.69696969697
+Jan,Maharashtra,Other,Akola,3444
+Jan,Maharashtra,Other,Ahmednagar,3585.78873239437
+Jan,Madhya Pradesh,Yellow,Vidisha,3496.11111111111
+Jan,Madhya Pradesh,Yellow,Tikamgarh,3503.96774193548
+Jan,Maharashtra,Other,Beed,3617.78787878788
+Jan,Madhya Pradesh,Yellow,Ujjain,3605.5641025641
+Feb,Madhya Pradesh,Yellow,Datia,3305
+Feb,Madhya Pradesh,Other,Shehdol,3443.54545454545
+Feb,Madhya Pradesh,Other,Sheopur,3356.625
+Feb,Madhya Pradesh,Other,Shivpuri,3559.24444444444
+Feb,Madhya Pradesh,Yellow,Gwalior,3475
+Feb,Madhya Pradesh,Other,Umariya,3530
+Feb,Madhya Pradesh,Yellow,Dhar,3559.79347826087
+Feb,Madhya Pradesh,Other,Shajapur,3577.00925925926
+Feb,Madhya Pradesh,Yellow,Dewas,3499.86666666667
+Feb,Madhya Pradesh,Other,Tikamgarh,3558
+Feb,Madhya Pradesh,Other,Seoni,3200
+Feb,Madhya Pradesh,Other,Raisen,3386.31578947368
+Feb,Madhya Pradesh,Other,Satna,3008.95238095238
+Feb,Madhya Pradesh,Other,Sagar,3373.55555555556
+Feb,Madhya Pradesh,Other,Rewa,2974.75
+Feb,Madhya Pradesh,Other,Ratlam,3558.94871794872
+Feb,Madhya Pradesh,Other,Rajgarh,3485.88235294118
+Feb,Madhya Pradesh,Other,Panna,3250
+Feb,Madhya Pradesh,Other,Neemuch,3412.35294117647
+Feb,Madhya Pradesh,Other,Mandsaur,3541.43333333333
+Feb,Madhya Pradesh,Yellow,Damoh,3516.30769230769
+Feb,Madhya Pradesh,Other,Narsinghpur,3498.07692307692
+Feb,Madhya Pradesh,Other,Sehore,3550.4
+Feb,Madhya Pradesh,Yellow,Chhindwara,3392
+Feb,Madhya Pradesh,Soyabeen,Guna,3452.16666666667
+Feb,Madhya Pradesh,Yellow,Burhanpur,3455.30769230769
+Feb,Madhya Pradesh,Other,Vidisha,3301.44444444444
+Feb,Madhya Pradesh,Other,Khargone,3553
+Feb,Madhya Pradesh,Soyabeen,Ashoknagar,3368.75
+Feb,Madhya Pradesh,Soyabeen,Bhopal,3434.125
+Feb,Madhya Pradesh,Soyabeen,Chhatarpur,3438.53846153846
+Feb,Madhya Pradesh,Soyabeen,Dewas,3491.71052631579
+Feb,Madhya Pradesh,Soyabeen,Dindori,3200
+Feb,Madhya Pradesh,Soyabeen,Harda,3447.2962962963
+Feb,Madhya Pradesh,Soyabeen,Khargone,3441.21052631579
+Feb,Madhya Pradesh,Soyabeen,Mandsaur,3515.86486486487
+Feb,Madhya Pradesh,Yellow,Chhatarpur,3475
+Feb,Madhya Pradesh,Soyabeen,Panna,3000
+Feb,Madhya Pradesh,Soyabeen,Ratlam,3624.5
+Feb,Madhya Pradesh,Soyabeen,Sagar,3392.5
+Feb,Madhya Pradesh,Soyabeen,Sehore,3605.8
+Feb,Madhya Pradesh,Soyabeen,Sheopur,3360.66666666667
+Feb,Madhya Pradesh,Soyabeen,Shivpuri,3549.9375
+Feb,Madhya Pradesh,Soyabeen,Ujjain,346.533333333333
+Feb,Madhya Pradesh,Yellow,Ashoknagar,3477.41304347826
+Feb,Madhya Pradesh,Yellow,Badwani,3600.66666666667
+Feb,Madhya Pradesh,Yellow,Betul,3555.48484848485
+Feb,Madhya Pradesh,Yellow,Bhopal,3477.44444444444
+Feb,Madhya Pradesh,Soyabeen,Rajgarh,3505.1875
+Feb,Madhya Pradesh,Other,Khandwa,3407.5
+Feb,Madhya Pradesh,Local,Vidisha,3500
+Feb,Chattisgarh,Other,Balodabazar,3182.92857142857
+Feb,Karnataka,Soyabeen,Dharwad,3521.94230769231
+Feb,Karnataka,Soyabeen,Gadag,2712
+Feb,Karnataka,Soyabeen,Gulbarga,3378.64705882353
+Feb,Karnataka,Soyabeen,Haveri,3566.04166666667
+Feb,Madhya Pradesh,Black,Raisen,3396
+Feb,Madhya Pradesh,Black,Rajgarh,3465
+Feb,Madhya Pradesh,Black,Shivpuri,3177.5
+Feb,Madhya Pradesh,Black,Tikamgarh,3490
+Feb,Madhya Pradesh,Local,Chhindwara,3545
+Feb,Madhya Pradesh,Local,Dindori,3368.38461538461
+Feb,Karnataka,Soyabeen,Bidar,3632.56666666667
+Feb,Madhya Pradesh,Local,Mandsaur,3700
+Feb,Madhya Pradesh,Other,Alirajpur,3266.55172413793
+Feb,Madhya Pradesh,Other,Ashoknagar,3331.9
+Feb,Madhya Pradesh,Other,Badwani,3375
+Feb,Madhya Pradesh,Other,Burhanpur,3411
+Feb,Madhya Pradesh,Other,Chhatarpur,3519
+Feb,Madhya Pradesh,Other,Chhindwara,3394.46666666667
+Feb,Madhya Pradesh,Other,Damoh,3367.8
+Feb,Madhya Pradesh,Other,Datia,3515
+Feb,Madhya Pradesh,Other,Dewas,3466.90909090909
+Feb,Madhya Pradesh,Other,Dhar,3408.33333333333
+Feb,Madhya Pradesh,Other,Indore,3470
+Feb,Karnataka,Soyabeen,Belgaum,3608.85714285714
+Feb,Karnataka,Soyabeen,Bangalore,4530
+Feb,Karnataka,Local,Belgaum,3576.5
+Feb,Chattisgarh,Other,Durg,3650
+Feb,Chattisgarh,Other,Kabirdham,3100
+Feb,Chattisgarh,Other,Rajnandgaon,3300
+Feb,Chattisgarh,Soyabeen,Raipur,3456
+Feb,Chattisgarh,Soyabeen,Rajnandgaon,3399.2
+Feb,Chattisgarh,Yellow,Durg,3529.16666666667
+Feb,Chattisgarh,Yellow,Kabirdham,3338
+Feb,Chattisgarh,Yellow,Mungeli,3395
+Feb,Chattisgarh,Yellow,Raipur,3200
+Feb,Chattisgarh,Yellow,Rajnandgaon,3580.90476190476
+Feb,Gujarat,Other,Amreli,3288.75
+Feb,Gujarat,Other,Bhavnagar,3108.33333333333
+Feb,Gujarat,Other,Rajkot,2495.625
+Feb,Gujarat,Other,Sabarkantha,3690.63333333333
+Feb,Gujarat,Other,Surat,2956.25
+Feb,Gujarat,Soyabeen,Amreli,3397.5
+Feb,Gujarat,Soyabeen,Dahod,3714.52380952381
+Feb,Gujarat,Soyabeen,Jamnagar,3250
+Feb,Gujarat,Soyabeen,Junagarh,3501.84210526316
+Feb,Madhya Pradesh,Yellow,Harda,3534.16129032258
+Feb,Gujarat,Soyabeen,Rajkot,3440
+Feb,Gujarat,Yellow,Rajkot,3441.66666666667
+Feb,Gujarat,Yellow,Sabarkantha,3526.92307692308
+Feb,Chattisgarh,Local,Rajnandgaon,3591.1875
+Feb,Madhya Pradesh,Yellow,Hoshangabad,3544.58620689655
+Feb,Madhya Pradesh,Yellow,Ujjain,3609.0380952381
+Feb,Madhya Pradesh,Yellow,Jabalpur,2800
+Feb,Maharashtra,Yellow,Nagpur,3440.25
+Feb,Maharashtra,Yellow,Latur,3593.44827586207
+Feb,Madhya Pradesh,Yellow,Indore,3609.18918918919
+Feb,Maharashtra,Yellow,Jalgaon,3508.5
+Feb,Maharashtra,Yellow,Jalana,3591.21052631579
+Feb,Maharashtra,Yellow,Hingoli,3587
+Feb,Maharashtra,Yellow,Chandrapur,3579.35294117647
+Feb,Maharashtra,Yellow,Buldhana,3503.55555555556
+Feb,Maharashtra,Yellow,Bhandara,3180
+Feb,Maharashtra,Yellow,Beed,3594.72972972973
+Feb,Maharashtra,Yellow,Aurangabad,3600
+Feb,Maharashtra,Yellow,Amarawati,3431.3137254902
+Feb,Maharashtra,Yellow,Akola,3487.59574468085
+Feb,Maharashtra,Yellow,Ahmednagar,3387.5
+Feb,Maharashtra,Other,Vashim,3541.23684210526
+Feb,Maharashtra,Yellow,Nanded,3490.86956521739
+Feb,Maharashtra,Other,Sholapur,3331
+Feb,Maharashtra,Yellow,Nashik,3475.66666666667
+Feb,Maharashtra,Yellow,Parbhani,3541.5306122449
+Feb,Uttar Pradesh,Yellow,Lalitpur,3375.29411764706
+Feb,Uttar Pradesh,Soyabeen,Kanpur,4525.55555555556
+Feb,Rajasthan,Yellow,Chittorgarh,3595.78571428571
+Feb,Rajasthan,Other,Udaipur,3450
+Feb,Rajasthan,Other,Tonk,3100
+Feb,Rajasthan,Other,Swai Madhopur,3541.25
+Feb,Rajasthan,Other,Kota,3508.30508474576
+Feb,Rajasthan,Other,Jhalawar,3550.59183673469
+Feb,Rajasthan,Other,Chittorgarh,3547.42105263158
+Feb,Rajasthan,Other,Bundi,3562.23863636364
+Feb,Rajasthan,Other,Baran,3543.46753246753
+Feb,Maharashtra,Yellow,Yavatmal,3519.2
+Feb,Maharashtra,Yellow,Wardha,3475.55056179775
+Feb,Maharashtra,Yellow,Vashim,3587.96875
+Feb,Maharashtra,Yellow,Pune,3595.5
+Feb,Maharashtra,Yellow,Osmanabad,3608.90322580645
+Feb,Maharashtra,Other,Satara,3750
+Feb,Madhya Pradesh,Other,Hoshangabad,3239.16666666667
+Feb,Maharashtra,Other,Osmanabad,3496.66666666667
+Feb,Madhya Pradesh,Yellow,Khandwa,3558.0625
+Feb,Madhya Pradesh,Yellow,Khargone,3369.23076923077
+Feb,Madhya Pradesh,Yellow,Mandsaur,3609.16666666667
+Feb,Madhya Pradesh,Yellow,Morena,3163.5
+Feb,Madhya Pradesh,Yellow,Narsinghpur,3354.55555555556
+Feb,Madhya Pradesh,Yellow,Neemuch,3600.35294117647
+Feb,Madhya Pradesh,Yellow,Raisen,3260.75
+Feb,Madhya Pradesh,Yellow,Rajgarh,3555.03921568627
+Feb,Madhya Pradesh,Yellow,Ratlam,3606.60975609756
+Feb,Madhya Pradesh,Yellow,Katni,3100
+Feb,Madhya Pradesh,Yellow,Sagar,3451.45945945946
+Feb,Madhya Pradesh,Yellow,Shajapur,3474.04938271605
+Feb,Madhya Pradesh,Yellow,Shivpuri,3517.47222222222
+Feb,Madhya Pradesh,Yellow,Tikamgarh,3477
+Feb,Madhya Pradesh,Other,Guna,3486.28235294118
+Feb,Madhya Pradesh,Yellow,Vidisha,3463.67901234568
+Feb,Maharashtra,Other,Ahmednagar,3519.39130434783
+Feb,Maharashtra,Other,Akola,3510.66666666667
+Feb,Maharashtra,Other,Amarawati,3492.86206896552
+Feb,Maharashtra,Other,Parbhani,3475
+Feb,Madhya Pradesh,Yellow,Sehore,3555.37037037037
+Feb,Madhya Pradesh,Yellow,Jhabua,3470.03333333333
+Feb,Madhya Pradesh,Yellow,Seoni,2850
+Feb,Maharashtra,Other,Latur,3649
+Feb,Maharashtra,Other,Aurangabad,3602.54545454545
+Feb,Maharashtra,Other,Beed,3583.81481481481
+Feb,Maharashtra,Other,Buldhana,3514.77272727273
+Feb,Maharashtra,Other,Chandrapur,3618.82352941176
+Feb,Maharashtra,Other,Hingoli,3533.88888888889
+Feb,Maharashtra,Other,Jalana,3583.66666666667
+Feb,Maharashtra,Other,Jalgaon,3506.5
+Feb,Maharashtra,Other,Nagpur,3577.73333333333
+Feb,Maharashtra,Other,Nandurbar,3600.31578947368
+Feb,Maharashtra,Other,Nashik,3584.3137254902
+Feb,Maharashtra,Other,Nanded,3574.5
+Mar,Madhya Pradesh,Other,Hoshangabad,3002.5
+Mar,Madhya Pradesh,Other,Mandla,3200
+Mar,Madhya Pradesh,Other,Guna,3408.21052631579
+Mar,Madhya Pradesh,Other,Dhar,3349.73333333333
+Mar,Madhya Pradesh,Other,Dewas,3470.89655172414
+Mar,Madhya Pradesh,Other,Indore,3509.8275862069
+Mar,Madhya Pradesh,Other,Damoh,3465
+Mar,Madhya Pradesh,Other,Chhindwara,3409.42857142857
+Mar,Madhya Pradesh,Other,Chhatarpur,3317.66666666667
+Mar,Madhya Pradesh,Other,Khandwa,3353.33333333333
+Mar,Madhya Pradesh,Other,Khargone,3522.27027027027
+Mar,Gujarat,Other,Rajkot,2606.375
+Mar,Madhya Pradesh,Other,Mandsaur,3481.5
+Mar,Madhya Pradesh,Other,Narsinghpur,3369.625
+Mar,Madhya Pradesh,Soyabeen,Guna,3227.75
+Mar,Madhya Pradesh,Soyabeen,Dewas,3495
+Mar,Madhya Pradesh,Soyabeen,Chhindwara,3500
+Mar,Madhya Pradesh,Soyabeen,Chhatarpur,3333.80555555556
+Mar,Madhya Pradesh,Soyabeen,Bhopal,3409.41176470588
+Mar,Madhya Pradesh,Soyabeen,Ashoknagar,3100
+Mar,Madhya Pradesh,Other,Vidisha,3319.9375
+Mar,Madhya Pradesh,Other,Shivpuri,3484.63414634146
+Mar,Madhya Pradesh,Other,Sheopur,3348.44444444444
+Mar,Madhya Pradesh,Other,Burhanpur,3100.33333333333
+Mar,Madhya Pradesh,Other,Shehdol,3381.14285714286
+Mar,Madhya Pradesh,Other,Seoni,3100
+Mar,Madhya Pradesh,Other,Sehore,3430
+Mar,Madhya Pradesh,Other,Satna,3125.6
+Mar,Madhya Pradesh,Other,Sagar,2992.25
+Mar,Madhya Pradesh,Other,Rewa,3042
+Mar,Madhya Pradesh,Other,Ratlam,3562.33720930233
+Mar,Madhya Pradesh,Other,Rajgarh,3438.46153846154
+Mar,Madhya Pradesh,Other,Raisen,3327.15789473684
+Mar,Madhya Pradesh,Other,Neemuch,3475
+Mar,Madhya Pradesh,Other,Shajapur,3489.30357142857
+Mar,Madhya Pradesh,Other,Badwani,3430.2
+Mar,Madhya Pradesh,Black,Tikamgarh,3200
+Mar,Madhya Pradesh,Other,Alirajpur,3302.62962962963
+Mar,Karnataka,Soyabeen,Gulbarga,3202.07692307692
+Mar,Karnataka,Soyabeen,Gadag,2728
+Mar,Karnataka,Soyabeen,Dharwad,3458.63636363636
+Mar,Karnataka,Soyabeen,Bidar,3587
+Mar,Karnataka,Soyabeen,Belgaum,3681.5
+Mar,Karnataka,Soyabeen,Bangalore,4350
+Mar,Karnataka,Local,Belgaum,3561.05263157895
+Mar,Karnataka,Soyabeen,Haveri,3526.68
+Mar,Gujarat,Yellow,Sabarkantha,3370
+Mar,Gujarat,Soyabeen,Rajkot,3300
+Mar,Gujarat,Soyabeen,Junagarh,3473.75
+Mar,Gujarat,Soyabeen,Jamnagar,3100
+Mar,Gujarat,Soyabeen,Dahod,3661.57894736842
+Mar,Gujarat,Soyabeen,Amreli,3312.5
+Mar,Gujarat,Other,Surat,3229
+Mar,Gujarat,Other,Sabarkantha,2829
+Mar,Gujarat,Yellow,Rajkot,3407.5
+Mar,Madhya Pradesh,Other,Ashoknagar,3351.5
+Mar,Chattisgarh,Yellow,Rajnandgaon,3470.29411764706
+Mar,Chattisgarh,Yellow,Kabirdham,3323.85
+Mar,Madhya Pradesh,Local,Mandsaur,3587.5
+Mar,Madhya Pradesh,Local,Dindori,3313.85714285714
+Mar,Madhya Pradesh,Local,Chhindwara,3366.25
+Mar,Gujarat,Other,Amreli,3200
+Mar,Madhya Pradesh,Black,Shivpuri,3575
+Mar,Madhya Pradesh,Black,Rajgarh,3200
+Mar,Madhya Pradesh,Black,Raisen,3186.66666666667
+Mar,Chattisgarh,Yellow,Mungeli,3320.4375
+Mar,Madhya Pradesh,Black,Chhatarpur,3050
+Mar,Chattisgarh,Local,Bilaspur,3000
+Mar,Chattisgarh,Local,Rajnandgaon,3482.70588235294
+Mar,Chattisgarh,Other,Balodabazar,2909.625
+Mar,Chattisgarh,Other,Durg,3298
+Mar,Chattisgarh,Soyabeen,Raipur,2000
+Mar,Chattisgarh,Soyabeen,Rajnandgaon,3399
+Mar,Chattisgarh,Yellow,Durg,3375
+Mar,Madhya Pradesh,Soyabeen,Harda,3444.51724137931
+Mar,Madhya Pradesh,Soyabeen,Khargone,3365.83333333333
+Mar,Madhya Pradesh,Soyabeen,Sheopur,3379.52941176471
+Mar,Madhya Pradesh,Soyabeen,Morena,2705
+Mar,Maharashtra,Yellow,Buldhana,3463.13793103448
+Mar,Maharashtra,Yellow,Beed,3490.52941176471
+Mar,Maharashtra,Yellow,Aurangabad,3148
+Mar,Maharashtra,Yellow,Amarawati,3418.69230769231
+Mar,Maharashtra,Yellow,Akola,3493.28260869565
+Mar,Maharashtra,Yellow,Ahmednagar,3333.33333333333
+Mar,Maharashtra,Other,Vashim,3541.47272727273
+Mar,Maharashtra,Other,Sholapur,3512.75
+Mar,Maharashtra,Other,Satara,3650
+Mar,Maharashtra,Other,Pune,3600
+Mar,Maharashtra,Other,Parbhani,3431
+Mar,Maharashtra,Other,Osmanabad,3613.9
+Mar,Maharashtra,Other,Nashik,3532.29268292683
+Mar,Maharashtra,Other,Nandurbar,3528.44444444444
+Mar,Maharashtra,Other,Nanded,3563.5
+Mar,Maharashtra,Other,Nagpur,3543.375
+Mar,Maharashtra,Other,Latur,3626.22222222222
+Mar,Maharashtra,Other,Jalgaon,3491.11111111111
+Mar,Maharashtra,Other,Jalana,3487.5
+Mar,Maharashtra,Other,Hingoli,3515.7619047619
+Mar,Maharashtra,Other,Chandrapur,3565
+Mar,Maharashtra,Yellow,Chandrapur,3552.09090909091
+Mar,Maharashtra,Other,Buldhana,3469.09090909091
+Mar,Maharashtra,Yellow,Hingoli,3536.2037037037
+Mar,Maharashtra,Yellow,Jalgaon,3500
+Mar,Uttar Pradesh,Yellow,Lalitpur,3322.28571428571
+Mar,Uttar Pradesh,Soyabeen,Kanpur,4570.625
+Mar,Rajasthan,Yellow,Chittorgarh,3558.53333333333
+Mar,Rajasthan,Other,Udaipur,3360
+Mar,Rajasthan,Other,Swai Madhopur,3278.66666666667
+Mar,Rajasthan,Other,Kota,3503.35
+Mar,Rajasthan,Other,Jhalawar,3534.63829787234
+Mar,Rajasthan,Other,Chittorgarh,3417.34482758621
+Mar,Rajasthan,Other,Bundi,3482.72222222222
+Mar,Rajasthan,Other,Baran,3535.91780821918
+Mar,Maharashtra,Yellow,Yavatmal,3491.8275862069
+Mar,Maharashtra,Yellow,Wardha,3449.34736842105
+Mar,Maharashtra,Yellow,Vashim,3548.38235294118
+Mar,Maharashtra,Yellow,Pune,3352.33333333333
+Mar,Maharashtra,Yellow,Parbhani,3550.54761904762
+Mar,Maharashtra,Yellow,Osmanabad,3563.44
+Mar,Maharashtra,Yellow,Nashik,3660
+Mar,Maharashtra,Yellow,Nandurbar,3225
+Mar,Maharashtra,Yellow,Nanded,3489.38461538461
+Mar,Maharashtra,Yellow,Nagpur,3418.18421052632
+Mar,Maharashtra,Yellow,Latur,3598.01538461538
+Mar,Maharashtra,Yellow,Jalana,3574.6
+Mar,Madhya Pradesh,Soyabeen,Mandsaur,3549
+Mar,Maharashtra,Other,Beed,3560.1935483871
+Mar,Maharashtra,Other,Amarawati,3419.66666666667
+Mar,Madhya Pradesh,Yellow,Harda,3494.22222222222
+Mar,Madhya Pradesh,Yellow,Gwalior,3076
+Mar,Madhya Pradesh,Yellow,Dhar,3477.31818181818
+Mar,Madhya Pradesh,Yellow,Dewas,3458.36842105263
+Mar,Madhya Pradesh,Yellow,Datia,3380
+Mar,Madhya Pradesh,Yellow,Damoh,3407.63157894737
+Mar,Madhya Pradesh,Yellow,Chhindwara,3400.75
+Mar,Madhya Pradesh,Yellow,Chhatarpur,3429.16666666667
+Mar,Madhya Pradesh,Yellow,Burhanpur,3422.45454545455
+Mar,Madhya Pradesh,Yellow,Bhopal,3401.77142857143
+Mar,Madhya Pradesh,Yellow,Betul,3543.5
+Mar,Madhya Pradesh,Yellow,Badwani,3498
+Mar,Madhya Pradesh,Yellow,Ashoknagar,3471.54545454545
+Mar,Madhya Pradesh,Soyabeen,Ujjain,345.108333333333
+Mar,Madhya Pradesh,Soyabeen,Tikamgarh,3500
+Mar,Madhya Pradesh,Soyabeen,Shivpuri,3443.33333333333
+Mar,Madhya Pradesh,Soyabeen,Sehore,3621.27272727273
+Mar,Madhya Pradesh,Soyabeen,Sagar,3368.44827586207
+Mar,Madhya Pradesh,Soyabeen,Ratlam,3578.88235294118
+Mar,Madhya Pradesh,Soyabeen,Rajgarh,3463.33333333333
+Mar,Madhya Pradesh,Soyabeen,Panna,3570
+Mar,Madhya Pradesh,Yellow,Hoshangabad,3466.86666666667
+Mar,Maharashtra,Other,Aurangabad,3561.16666666667
+Mar,Madhya Pradesh,Yellow,Indore,3568.62857142857
+Mar,Madhya Pradesh,Yellow,Katni,2680.5
+Mar,Maharashtra,Other,Akola,3488
+Mar,Maharashtra,Other,Ahmednagar,3442.88
+Mar,Maharashtra,Black,Hingoli,3437
+Mar,Madhya Pradesh,Yellow,Vidisha,3407.47540983607
+Mar,Madhya Pradesh,Yellow,Ujjain,3576.41414141414
+Mar,Madhya Pradesh,Yellow,Tikamgarh,3458.10344827586
+Mar,Madhya Pradesh,Yellow,Shivpuri,3489.33333333333
+Mar,Madhya Pradesh,Yellow,Shajapur,3453.13888888889
+Mar,Madhya Pradesh,Yellow,Seoni,3243
+Mar,Madhya Pradesh,Yellow,Sehore,3531.47142857143
+Mar,Madhya Pradesh,Yellow,Sagar,3374.90769230769
+Mar,Madhya Pradesh,Yellow,Rewa,3000
+Mar,Madhya Pradesh,Yellow,Ratlam,3566.86956521739
+Mar,Madhya Pradesh,Yellow,Rajgarh,3485.15053763441
+Mar,Madhya Pradesh,Yellow,Raisen,3328.47058823529
+Mar,Madhya Pradesh,Yellow,Neemuch,3577.875
+Mar,Madhya Pradesh,Yellow,Narsinghpur,3383.66666666667
+Mar,Madhya Pradesh,Yellow,Morena,3012
+Mar,Madhya Pradesh,Yellow,Mandsaur,3605
+Mar,Madhya Pradesh,Yellow,Khargone,3361.25
+Mar,Madhya Pradesh,Yellow,Khandwa,3478.83870967742
+Mar,Madhya Pradesh,Yellow,Jhabua,3519.90909090909
+Mar,Madhya Pradesh,Yellow,Jabalpur,2872.5
+Apr,Chattisgarh,Local,Rajnandgaon,3572
+Apr,Madhya Pradesh,Soyabeen,Shivpuri,3385.66666666667
+Apr,Madhya Pradesh,Yellow,Ratlam,3593.8
+Apr,Madhya Pradesh,Yellow,Sagar,3452.88888888889
+Apr,Madhya Pradesh,Yellow,Sehore,3513.72058823529
+Apr,Madhya Pradesh,Yellow,Seoni,3368
+Apr,Madhya Pradesh,Yellow,Shajapur,3474.03225806452
+Apr,Madhya Pradesh,Yellow,Shivpuri,3560.24242424242
+Apr,Madhya Pradesh,Yellow,Tikamgarh,3484.12407407407
+Apr,Madhya Pradesh,Yellow,Ujjain,3591.76
+Apr,Madhya Pradesh,Yellow,Vidisha,3380.35294117647
+Apr,Maharashtra,Other,Ahmednagar,3523.48571428571
+Apr,Maharashtra,Other,Akola,3351
+Apr,Maharashtra,Other,Amarawati,3478.56
+Apr,Maharashtra,Other,Aurangabad,3543.33333333333
+Apr,Maharashtra,Other,Beed,3591.5
+Apr,Maharashtra,Other,Buldhana,3496.875
+Apr,Maharashtra,Other,Chandrapur,3598.90909090909
+Apr,Maharashtra,Other,Hingoli,3539.66666666667
+Apr,Madhya Pradesh,Yellow,Rajgarh,3533.91358024691
+Apr,Maharashtra,Other,Jalana,3316.66666666667
+Apr,Madhya Pradesh,Yellow,Raisen,3223.25
+Apr,Madhya Pradesh,Yellow,Narsinghpur,3299.2
+Apr,Madhya Pradesh,Yellow,Badwani,3554.25
+Apr,Madhya Pradesh,Yellow,Betul,3575.78947368421
+Apr,Madhya Pradesh,Yellow,Bhopal,3400.88888888889
+Apr,Madhya Pradesh,Yellow,Burhanpur,3391.83333333333
+Apr,Madhya Pradesh,Yellow,Chhatarpur,3466.66666666667
+Apr,Madhya Pradesh,Yellow,Chhindwara,3461
+Apr,Madhya Pradesh,Yellow,Damoh,3499.28571428571
+Apr,Madhya Pradesh,Yellow,Datia,3220
+Apr,Madhya Pradesh,Yellow,Dewas,3512.71052631579
+Apr,Madhya Pradesh,Yellow,Dhar,3517.93670886076
+Apr,Madhya Pradesh,Yellow,Harda,3536.24
+Apr,Madhya Pradesh,Yellow,Hoshangabad,3556.44827586207
+Apr,Madhya Pradesh,Yellow,Indore,3649.40740740741
+Apr,Madhya Pradesh,Yellow,Jhabua,3506.90909090909
+Apr,Madhya Pradesh,Yellow,Khandwa,3520.27777777778
+Apr,Madhya Pradesh,Yellow,Khargone,3440
+Apr,Madhya Pradesh,Yellow,Mandsaur,3634.375
+Apr,Madhya Pradesh,Yellow,Neemuch,3634.76470588235
+Apr,Maharashtra,Other,Jalgaon,3454.52380952381
+Apr,Maharashtra,Other,Latur,3647.41666666667
+Apr,Maharashtra,Other,Nagpur,3561.44444444444
+Apr,Maharashtra,Yellow,Osmanabad,3624.32
+Apr,Maharashtra,Yellow,Parbhani,3594.04444444444
+Apr,Maharashtra,Yellow,Pune,3611
+Apr,Maharashtra,Yellow,Vashim,3590.96774193548
+Apr,Maharashtra,Yellow,Wardha,3487.87671232877
+Apr,Maharashtra,Yellow,Yavatmal,3535.31666666667
+Apr,Rajasthan,Other,Baran,3611.75
+Apr,Rajasthan,Other,Bhilwara,3588.5
+Apr,Rajasthan,Other,Bundi,3539.42307692308
+Apr,Rajasthan,Other,Chittorgarh,3722.79166666667
+Apr,Rajasthan,Other,Jhalawar,3656.77011494253
+Apr,Rajasthan,Other,Kota,3596.95918367347
+Apr,Rajasthan,Other,Swai Madhopur,3275
+Apr,Rajasthan,Other,Tonk,3000
+Apr,Rajasthan,Other,Udaipur,3325
+Apr,Rajasthan,Yellow,Chittorgarh,3559.73333333333
+Apr,Uttar Pradesh,Soyabeen,Kanpur,4657.14285714286
+Apr,Maharashtra,Yellow,Nashik,3362.5
+Apr,Maharashtra,Yellow,Nandurbar,3300
+Apr,Maharashtra,Yellow,Nanded,3483.73684210526
+Apr,Maharashtra,Yellow,Nagpur,3491.57575757576
+Apr,Maharashtra,Other,Nanded,3591.42857142857
+Apr,Maharashtra,Other,Nandurbar,3500.42857142857
+Apr,Maharashtra,Other,Nashik,3567.97916666667
+Apr,Maharashtra,Other,Osmanabad,3660.15384615385
+Apr,Maharashtra,Other,Parbhani,3471.8
+Apr,Maharashtra,Other,Sholapur,3668.66666666667
+Apr,Maharashtra,Other,Vashim,3563.38095238095
+Apr,Maharashtra,Yellow,Ahmednagar,3450
+Apr,Madhya Pradesh,Yellow,Ashoknagar,3513.95833333333
+Apr,Maharashtra,Yellow,Akola,3532.82608695652
+Apr,Maharashtra,Yellow,Aurangabad,3358.66666666667
+Apr,Maharashtra,Yellow,Beed,3604.82051282051
+Apr,Maharashtra,Yellow,Buldhana,3463.51898734177
+Apr,Maharashtra,Yellow,Chandrapur,3598.08
+Apr,Maharashtra,Yellow,Hingoli,3568.90243902439
+Apr,Maharashtra,Yellow,Jalana,3579.94117647059
+Apr,Maharashtra,Yellow,Jalgaon,3467.5
+Apr,Maharashtra,Yellow,Latur,3614.63157894737
+Apr,Maharashtra,Yellow,Amarawati,3406.15789473684
+Apr,Madhya Pradesh,Soyabeen,Ujjain,353.990909090909
+Apr,Madhya Pradesh,Soyabeen,Tikamgarh,3400
+Apr,Madhya Pradesh,Soyabeen,Sheopur,3405
+Apr,Karnataka,Soyabeen,Belgaum,3560
+Apr,Karnataka,Soyabeen,Bidar,3629.09523809524
+Apr,Karnataka,Soyabeen,Dharwad,3507.53333333333
+Apr,Karnataka,Soyabeen,Gulbarga,3193
+Apr,Karnataka,Soyabeen,Haveri,3608.45833333333
+Apr,Madhya Pradesh,Black,Chhatarpur,3250
+Apr,Madhya Pradesh,Black,Raisen,3250
+Apr,Madhya Pradesh,Black,Rajgarh,3590
+Apr,Madhya Pradesh,Black,Seoni,3425
+Apr,Madhya Pradesh,Black,Shivpuri,3251.5
+Apr,Madhya Pradesh,Black,Tikamgarh,3400.125
+Apr,Madhya Pradesh,Local,Chhindwara,3338.625
+Apr,Madhya Pradesh,Local,Dindori,3345.16666666667
+Apr,Madhya Pradesh,Other,Alirajpur,3441.125
+Apr,Madhya Pradesh,Other,Ashoknagar,3444.5
+Apr,Madhya Pradesh,Other,Badwani,3757
+Apr,Madhya Pradesh,Other,Betul,3551.1
+Apr,Karnataka,Soyabeen,Bangalore,4490
+Apr,Karnataka,Local,Belgaum,3619.33333333333
+Apr,Gujarat,Yellow,Sabarkantha,3475
+Apr,Gujarat,Yellow,Rajkot,3422.85714285714
+Apr,Chattisgarh,Other,Balodabazar,2933.33333333333
+Apr,Chattisgarh,Soyabeen,Rajnandgaon,3399
+Apr,Chattisgarh,Yellow,Durg,3417.5
+Apr,Chattisgarh,Yellow,Kabirdham,3480.11764705882
+Apr,Chattisgarh,Yellow,Mungeli,3364.71428571429
+Apr,Chattisgarh,Yellow,Raipur,3000
+Apr,Chattisgarh,Yellow,Rajnandgaon,3568.92
+Apr,Gujarat,Other,Amreli,3275
+Apr,Madhya Pradesh,Other,Burhanpur,3350
+Apr,Gujarat,Other,Bhavnagar,3290
+Apr,Gujarat,Other,Sabarkantha,3569.33333333333
+Apr,Gujarat,Other,Surat,3366.66666666667
+Apr,Gujarat,Soyabeen,Amreli,3427.5
+Apr,Gujarat,Soyabeen,Dahod,3710.9375
+Apr,Gujarat,Soyabeen,Jamnagar,3025
+Apr,Gujarat,Soyabeen,Junagarh,3345
+Apr,Gujarat,Soyabeen,Rajkot,3150
+Apr,Gujarat,Soyabeen,Vadodara(Baroda),3200
+Apr,Gujarat,Other,Rajkot,3129.375
+Apr,Uttar Pradesh,Yellow,Lalitpur,3330.0625
+Apr,Madhya Pradesh,Other,Chhatarpur,3394.58333333333
+Apr,Madhya Pradesh,Other,Damoh,3400
+Apr,Madhya Pradesh,Other,Tikamgarh,3450
+Apr,Madhya Pradesh,Other,Umariya,3145
+Apr,Madhya Pradesh,Other,Vidisha,3387.25
+Apr,Madhya Pradesh,Soyabeen,Ashoknagar,3366.66666666667
+Apr,Madhya Pradesh,Soyabeen,Bhopal,3363.75
+Apr,Madhya Pradesh,Soyabeen,Chhatarpur,3385.2
+Apr,Madhya Pradesh,Soyabeen,Chhindwara,3050
+Apr,Madhya Pradesh,Soyabeen,Dewas,3506.1935483871
+Apr,Madhya Pradesh,Soyabeen,Dindori,3400
+Apr,Madhya Pradesh,Soyabeen,Guna,3188.66666666667
+Apr,Madhya Pradesh,Soyabeen,Harda,3418.8
+Apr,Madhya Pradesh,Soyabeen,Khargone,3407
+Apr,Madhya Pradesh,Soyabeen,Mandsaur,3583.67857142857
+Apr,Madhya Pradesh,Soyabeen,Rajgarh,3521.53846153846
+Apr,Madhya Pradesh,Soyabeen,Ratlam,3642.5
+Apr,Madhya Pradesh,Soyabeen,Sagar,3403.27272727273
+Apr,Madhya Pradesh,Soyabeen,Sehore,3605
+Apr,Madhya Pradesh,Other,Shivpuri,3530.83333333333
+Apr,Madhya Pradesh,Other,Sheopur,3362.6
+Apr,Madhya Pradesh,Other,Shehdol,3375.25
+Apr,Madhya Pradesh,Other,Shajapur,3538.46739130435
+Apr,Madhya Pradesh,Other,Dewas,3532.41935483871
+Apr,Madhya Pradesh,Other,Dhar,3455.71428571429
+Apr,Madhya Pradesh,Other,Guna,3449.12
+Apr,Madhya Pradesh,Other,Hoshangabad,2950.5
+Apr,Madhya Pradesh,Other,Indore,3480.8
+Apr,Madhya Pradesh,Other,Jhabua,3570
+Apr,Madhya Pradesh,Other,Khargone,3510.15151515151
+Apr,Madhya Pradesh,Other,Mandsaur,3480.34615384615
+Apr,Madhya Pradesh,Other,Chhindwara,3376
+Apr,Madhya Pradesh,Other,Narsinghpur,3459.42857142857
+Apr,Madhya Pradesh,Other,Raisen,3406.75
+Apr,Madhya Pradesh,Other,Rajgarh,3501.3
+Apr,Madhya Pradesh,Other,Ratlam,3591.82222222222
+Apr,Madhya Pradesh,Other,Rewa,3128
+Apr,Madhya Pradesh,Other,Sagar,3328.84615384615
+Apr,Madhya Pradesh,Other,Satna,3039.35294117647
+Apr,Madhya Pradesh,Other,Sehore,3490.28571428571
+Apr,Madhya Pradesh,Other,Seoni,3600
+Apr,Madhya Pradesh,Other,Neemuch,3506.86666666667
+May,Uttar Pradesh,Yellow,Lalitpur,3622.11111111111
+May,Chattisgarh,Local,Rajnandgaon,3537.5
+May,Rajasthan,Yellow,Chittorgarh,3584.75
+May,Madhya Pradesh,Other,Rewa,2999
+May,Madhya Pradesh,Other,Ratlam,3622.70909090909
+May,Madhya Pradesh,Other,Rajgarh,3495.46153846154
+May,Madhya Pradesh,Other,Raisen,3346.64285714286
+May,Madhya Pradesh,Other,Neemuch,3485.125
+May,Madhya Pradesh,Other,Narsinghpur,3408.625
+May,Madhya Pradesh,Other,Mandsaur,3541.45454545455
+May,Madhya Pradesh,Other,Khargone,3574.17142857143
+May,Madhya Pradesh,Other,Khandwa,3392.2
+May,Madhya Pradesh,Other,Indore,3551.88235294118
+May,Madhya Pradesh,Other,Hoshangabad,3195.25
+May,Madhya Pradesh,Other,Gwalior,3550
+May,Madhya Pradesh,Other,Guna,3484.75471698113
+May,Madhya Pradesh,Other,Dhar,3471.78571428571
+May,Madhya Pradesh,Other,Dewas,3581.13888888889
+May,Madhya Pradesh,Other,Damoh,3703.33333333333
+May,Madhya Pradesh,Other,Chhindwara,3384.55555555556
+May,Madhya Pradesh,Other,Sagar,3390.16666666667
+May,Madhya Pradesh,Other,Chhatarpur,3393.07692307692
+May,Madhya Pradesh,Other,Satna,2944.5
+May,Madhya Pradesh,Other,Shajapur,3572.77669902913
+May,Madhya Pradesh,Soyabeen,Sagar,3419
+May,Madhya Pradesh,Soyabeen,Ratlam,3658.625
+May,Madhya Pradesh,Soyabeen,Rajgarh,3558.23529411765
+May,Madhya Pradesh,Soyabeen,Mandsaur,3601.34482758621
+May,Madhya Pradesh,Soyabeen,Khargone,3366.66666666667
+May,Madhya Pradesh,Soyabeen,Harda,3302.23529411765
+May,Madhya Pradesh,Soyabeen,Dindori,3400
+May,Madhya Pradesh,Soyabeen,Dewas,3506.26829268293
+May,Madhya Pradesh,Soyabeen,Chhindwara,3267.5
+May,Madhya Pradesh,Soyabeen,Chhatarpur,3414.68965517241
+May,Madhya Pradesh,Soyabeen,Bhopal,3433.46153846154
+May,Madhya Pradesh,Soyabeen,Ashoknagar,3299.5
+May,Madhya Pradesh,Other,Vidisha,3371.11111111111
+May,Madhya Pradesh,Other,Tikamgarh,3400
+May,Madhya Pradesh,Other,Shivpuri,3586.59459459459
+May,Madhya Pradesh,Other,Sheopur,3331.75
+May,Madhya Pradesh,Other,Shehdol,3393.66666666667
+May,Madhya Pradesh,Other,Sehore,3523
+May,Madhya Pradesh,Other,Bhopal,3609
+May,Madhya Pradesh,Other,Betul,3580
+May,Madhya Pradesh,Other,Badwani,3300
+May,Gujarat,Soyabeen,Dahod,3756.60869565217
+May,Gujarat,Soyabeen,Amreli,3297.5
+May,Gujarat,Other,Surat,3400
+May,Gujarat,Other,Sabarkantha,3730
+May,Gujarat,Other,Rajkot,3302.08333333333
+May,Gujarat,Other,Bhavnagar,3100
+May,Gujarat,Other,Amreli,3325
+May,Chattisgarh,Yellow,Rajnandgaon,3606.91176470588
+May,Chattisgarh,Yellow,Raipur,3000
+May,Chattisgarh,Yellow,Mungeli,3422.81818181818
+May,Chattisgarh,Yellow,Kabirdham,3436.31578947368
+May,Chattisgarh,Yellow,Durg,3225
+May,Chattisgarh,Soyabeen,Rajnandgaon,3399
+May,Chattisgarh,Soyabeen,Raipur,3755
+May,Chattisgarh,Other,Rajnandgaon,3300
+May,Chattisgarh,Other,Balodabazar,3099.1
+May,Uttar Pradesh,Soyabeen,Kanpur,4855.2380952381
+May,Gujarat,Soyabeen,Jamnagar,3120
+May,Gujarat,Soyabeen,Junagarh,3426.5
+May,Gujarat,Soyabeen,Rajkot,3400
+May,Gujarat,Yellow,Rajkot,3422.72727272727
+May,Madhya Pradesh,Other,Ashoknagar,3435.5
+May,Madhya Pradesh,Other,Alirajpur,3398.18181818182
+May,Madhya Pradesh,Local,Mandsaur,3658.75
+May,Madhya Pradesh,Local,Dindori,3400.8125
+May,Madhya Pradesh,Local,Chhindwara,3365
+May,Madhya Pradesh,Local,Betul,3670
+May,Madhya Pradesh,Black,Tikamgarh,3295
+May,Madhya Pradesh,Black,Seoni,3550
+May,Madhya Pradesh,Soyabeen,Sehore,3697.4375
+May,Madhya Pradesh,Black,Raisen,3270
+May,Karnataka,Soyabeen,Haveri,3576.4375
+May,Karnataka,Soyabeen,Gulbarga,3306.42857142857
+May,Karnataka,Soyabeen,Dharwad,3513.64705882353
+May,Karnataka,Soyabeen,Bidar,3645.88888888889
+May,Karnataka,Soyabeen,Belgaum,3700
+May,Karnataka,Soyabeen,Bangalore,4588.88888888889
+May,Karnataka,Local,Belgaum,3618.57142857143
+May,Gujarat,Yellow,Sabarkantha,3420
+May,Madhya Pradesh,Black,Chhatarpur,3290
+May,Madhya Pradesh,Soyabeen,Sheopur,3386.38461538462
+May,Madhya Pradesh,Other,Burhanpur,3571.2
+May,Maharashtra,Yellow,Buldhana,3514.44761904762
+May,Maharashtra,Yellow,Chandrapur,3630.6
+May,Maharashtra,Yellow,Bhandara,4010
+May,Maharashtra,Yellow,Beed,3580.81818181818
+May,Maharashtra,Yellow,Aurangabad,3391
+May,Maharashtra,Yellow,Amarawati,3487.1
+May,Maharashtra,Yellow,Akola,3552.18867924528
+May,Maharashtra,Yellow,Ahmednagar,3310
+May,Maharashtra,Other,Vashim,3556.375
+May,Maharashtra,Other,Sholapur,3683.33333333333
+May,Maharashtra,Other,Parbhani,3550.33333333333
+May,Maharashtra,Other,Osmanabad,3608
+May,Maharashtra,Other,Nandurbar,3549.125
+May,Maharashtra,Other,Nanded,3623.57142857143
+May,Maharashtra,Other,Nagpur,3572.22222222222
+May,Maharashtra,Other,Latur,3878.38461538462
+May,Maharashtra,Other,Jalgaon,3457.75
+May,Maharashtra,Other,Jalana,3677.75
+May,Maharashtra,Yellow,Hingoli,3572.27272727273
+May,Maharashtra,Yellow,Jalana,3607.82352941176
+May,Maharashtra,Yellow,Jalgaon,3551.5
+May,Maharashtra,Yellow,Latur,3640.24637681159
+May,Rajasthan,Other,Udaipur,3425
+May,Madhya Pradesh,Soyabeen,Shivpuri,3440.66666666667
+May,Rajasthan,Other,Swai Madhopur,3455
+May,Rajasthan,Other,Kota,3642.22727272727
+May,Rajasthan,Other,Jhalawar,3676.15151515152
+May,Rajasthan,Other,Chittorgarh,3500.13793103448
+May,Rajasthan,Other,Bundi,3610.77272727273
+May,Rajasthan,Other,Baran,3647.09756097561
+May,Maharashtra,Other,Hingoli,3583.05882352941
+May,Maharashtra,Yellow,Yavatmal,3569.57142857143
+May,Maharashtra,Yellow,Vashim,3600.60975609756
+May,Maharashtra,Yellow,Pune,3275
+May,Maharashtra,Yellow,Parbhani,3571.65
+May,Maharashtra,Yellow,Osmanabad,3664.13636363636
+May,Maharashtra,Yellow,Nashik,3515.66666666667
+May,Maharashtra,Yellow,Nandurbar,3700
+May,Maharashtra,Yellow,Nanded,3434.3125
+May,Maharashtra,Yellow,Nagpur,3457.11764705882
+May,Maharashtra,Yellow,Wardha,3514.91780821918
+May,Maharashtra,Other,Chandrapur,3629.08333333333
+May,Maharashtra,Other,Nashik,3582.5652173913
+May,Maharashtra,Other,Buldhana,3533.33333333333
+May,Madhya Pradesh,Yellow,Khargone,3501.25
+May,Madhya Pradesh,Yellow,Khandwa,3605.4
+May,Madhya Pradesh,Yellow,Jhabua,3535.51428571429
+May,Madhya Pradesh,Yellow,Indore,3653.39473684211
+May,Madhya Pradesh,Yellow,Hoshangabad,3514.04166666667
+May,Madhya Pradesh,Yellow,Harda,3588.33333333333
+May,Madhya Pradesh,Yellow,Dhar,3565.6835443038
+May,Madhya Pradesh,Yellow,Dewas,3575.66666666667
+May,Madhya Pradesh,Yellow,Mandsaur,3687
+May,Madhya Pradesh,Yellow,Datia,2961
+May,Madhya Pradesh,Yellow,Chhindwara,3428.14285714286
+May,Madhya Pradesh,Yellow,Chhatarpur,3457.14285714286
+May,Madhya Pradesh,Yellow,Burhanpur,3531.85714285714
+May,Madhya Pradesh,Yellow,Bhopal,3432.57777777778
+May,Madhya Pradesh,Yellow,Betul,3639.76
+May,Madhya Pradesh,Yellow,Badwani,3514.92307692308
+May,Madhya Pradesh,Yellow,Ashoknagar,3548
+May,Madhya Pradesh,Soyabeen,Ujjain,356.691666666667
+May,Madhya Pradesh,Yellow,Damoh,3492.28
+May,Madhya Pradesh,Yellow,Morena,3190
+May,Madhya Pradesh,Yellow,Gwalior,3325
+May,Madhya Pradesh,Yellow,Neemuch,3687.2
+May,Maharashtra,Other,Beed,3610.72413793103
+May,Madhya Pradesh,Yellow,Narsinghpur,3413.40909090909
+May,Maharashtra,Other,Amarawati,3470.12
+May,Maharashtra,Other,Akola,3500
+May,Maharashtra,Other,Ahmednagar,3508
+May,Madhya Pradesh,Yellow,Vidisha,3449.98333333333
+May,Madhya Pradesh,Yellow,Ujjain,3619.44166666667
+May,Madhya Pradesh,Yellow,Tikamgarh,3456.62962962963
+May,Madhya Pradesh,Yellow,Shivpuri,3568.83333333333
+May,Maharashtra,Other,Aurangabad,3506.66666666667
+May,Madhya Pradesh,Yellow,Seoni,3137
+May,Madhya Pradesh,Yellow,Shajapur,3509.57894736842
+May,Madhya Pradesh,Yellow,Rajgarh,3584.88172043011
+May,Madhya Pradesh,Yellow,Ratlam,3632.52380952381
+May,Madhya Pradesh,Yellow,Rewa,3000
+May,Madhya Pradesh,Yellow,Raisen,3297.4
+May,Madhya Pradesh,Yellow,Sehore,3629.98529411765
+May,Madhya Pradesh,Yellow,Sagar,3486.59649122807
+Jun,Madhya Pradesh,Other,Shehdol,3408
+Jun,Madhya Pradesh,Other,Ratlam,3588.44680851064
+Jun,Madhya Pradesh,Other,Shajapur,3532.53174603175
+Jun,Madhya Pradesh,Other,Sehore,3468.2
+Jun,Madhya Pradesh,Other,Satna,3059.36842105263
+Jun,Madhya Pradesh,Other,Sagar,3326.25
+Jun,Madhya Pradesh,Other,Sheopur,3396
+Jun,Madhya Pradesh,Other,Rewa,3078
+Jun,Madhya Pradesh,Other,Rajgarh,3495.62962962963
+Jun,Madhya Pradesh,Other,Narsinghpur,3427.69230769231
+Jun,Madhya Pradesh,Other,Panna,3156
+Jun,Madhya Pradesh,Other,Neemuch,3481
+Jun,Madhya Pradesh,Other,Mandsaur,3483.83333333333
+Jun,Madhya Pradesh,Other,Khargone,3495.5
+Jun,Madhya Pradesh,Other,Jhabua,3600
+Jun,Madhya Pradesh,Other,Khandwa,3456.66666666667
+Jun,Madhya Pradesh,Other,Shivpuri,3573.44444444444
+Jun,Madhya Pradesh,Other,Indore,3553.21212121212
+Jun,Madhya Pradesh,Other,Raisen,3348.66666666667
+Jun,Madhya Pradesh,Other,Umariya,3500
+Jun,Madhya Pradesh,Black,Raisen,3367.85714285714
+Jun,Madhya Pradesh,Soyabeen,Ashoknagar,3500
+Jun,Madhya Pradesh,Yellow,Badwani,3462.875
+Jun,Madhya Pradesh,Other,Hoshangabad,3495
+Jun,Madhya Pradesh,Yellow,Ashoknagar,3500.86363636364
+Jun,Madhya Pradesh,Soyabeen,Ujjain,349.036363636364
+Jun,Madhya Pradesh,Soyabeen,Shivpuri,3625
+Jun,Madhya Pradesh,Soyabeen,Sheopur,3450.6
+Jun,Madhya Pradesh,Soyabeen,Sehore,3556.3125
+Jun,Madhya Pradesh,Soyabeen,Sagar,3373.2
+Jun,Madhya Pradesh,Other,Vidisha,3371.6
+Jun,Madhya Pradesh,Soyabeen,Ratlam,3612.89473684211
+Jun,Madhya Pradesh,Soyabeen,Mandsaur,3602.47727272727
+Jun,Madhya Pradesh,Soyabeen,Khargone,3385.46666666667
+Jun,Madhya Pradesh,Soyabeen,Harda,3497.93548387097
+Jun,Madhya Pradesh,Soyabeen,Guna,3641.5
+Jun,Madhya Pradesh,Soyabeen,Dewas,3538.0487804878
+Jun,Madhya Pradesh,Soyabeen,Chhindwara,3256.5
+Jun,Madhya Pradesh,Soyabeen,Chhatarpur,3421
+Jun,Madhya Pradesh,Soyabeen,Bhopal,3466.11111111111
+Jun,Madhya Pradesh,Soyabeen,Rajgarh,3556.47058823529
+Jun,Madhya Pradesh,Other,Guna,3474.52631578947
+Jun,Madhya Pradesh,Black,Dewas,3600
+Jun,Madhya Pradesh,Other,Dewas,3509.75862068966
+Jun,Gujarat,Other,Sabarkantha,2639.66666666667
+Jun,Gujarat,Other,Surat,3325
+Jun,Gujarat,Soyabeen,Amreli,3200
+Jun,Gujarat,Soyabeen,Dahod,3695.47619047619
+Jun,Gujarat,Soyabeen,Jamnagar,3350
+Jun,Gujarat,Soyabeen,Junagarh,3425.35714285714
+Jun,Gujarat,Soyabeen,Rajkot,3550
+Jun,Gujarat,Yellow,Rajkot,3446.66666666667
+Jun,Gujarat,Other,Rajkot,3345
+Jun,Gujarat,Yellow,Sabarkantha,3456.25
+Jun,Karnataka,Soyabeen,Bangalore,4560
+Jun,Karnataka,Soyabeen,Belgaum,3500
+Jun,Karnataka,Soyabeen,Bidar,3692
+Jun,Karnataka,Soyabeen,Dharwad,3513.72
+Jun,Karnataka,Soyabeen,Gulbarga,3331.5
+Jun,Karnataka,Soyabeen,Haveri,3604.15384615385
+Jun,Madhya Pradesh,Black,Chhatarpur,3177.5
+Jun,Madhya Pradesh,Yellow,Betul,3539.88235294118
+Jun,Karnataka,Local,Belgaum,3574.61538461538
+Jun,Madhya Pradesh,Other,Dhar,3425.85
+Jun,Chattisgarh,Yellow,Rajnandgaon,3532.84375
+Jun,Chattisgarh,Yellow,Kabirdham,3326.8
+Jun,Madhya Pradesh,Other,Chhindwara,3400.93333333333
+Jun,Madhya Pradesh,Other,Chhatarpur,3355.55555555556
+Jun,Madhya Pradesh,Other,Burhanpur,3428
+Jun,Madhya Pradesh,Other,Badwani,3150
+Jun,Madhya Pradesh,Other,Ashoknagar,3399.5
+Jun,Madhya Pradesh,Other,Alirajpur,3425
+Jun,Madhya Pradesh,Local,Mandsaur,3655
+Jun,Madhya Pradesh,Local,Dindori,3371.25
+Jun,Chattisgarh,Yellow,Mungeli,3358.47368421053
+Jun,Madhya Pradesh,Local,Chhindwara,3190.2
+Jun,Chattisgarh,Local,Rajnandgaon,3592.66666666667
+Jun,Chattisgarh,Other,Balodabazar,3160.66666666667
+Jun,Chattisgarh,Other,Rajnandgaon,3300
+Jun,Chattisgarh,Soyabeen,Narayanpur,2900
+Jun,Chattisgarh,Soyabeen,Raipur,3649
+Jun,Chattisgarh,Soyabeen,Rajnandgaon,3399
+Jun,Chattisgarh,Yellow,Bemetara,3400
+Jun,Chattisgarh,Yellow,Durg,3466.66666666667
+Jun,Madhya Pradesh,Black,Tikamgarh,2900
+Jun,Madhya Pradesh,Yellow,Bhopal,3493
+Jun,Rajasthan,Yellow,Chittorgarh,3565.375
+Jun,Madhya Pradesh,Yellow,Chhatarpur,3450
+Jun,Maharashtra,Yellow,Nashik,3253.66666666667
+Jun,Maharashtra,Yellow,Nanded,3494.47058823529
+Jun,Maharashtra,Yellow,Nagpur,3380.58139534884
+Jun,Maharashtra,Yellow,Latur,3607.75581395349
+Jun,Maharashtra,Yellow,Jalgaon,3350.33333333333
+Jun,Maharashtra,Yellow,Jalana,3530.12765957447
+Jun,Maharashtra,Yellow,Hingoli,3532.11111111111
+Jun,Maharashtra,Yellow,Chandrapur,3569.35714285714
+Jun,Maharashtra,Yellow,Osmanabad,3624.14814814815
+Jun,Maharashtra,Yellow,Buldhana,3469.60833333333
+Jun,Maharashtra,Yellow,Aurangabad,3379.2
+Jun,Maharashtra,Yellow,Amarawati,3443.69047619048
+Jun,Maharashtra,Yellow,Akola,3477.84615384615
+Jun,Maharashtra,Yellow,Ahmednagar,3316.66666666667
+Jun,Maharashtra,Other,Vashim,3554.17307692308
+Jun,Maharashtra,Other,Sholapur,3406.66666666667
+Jun,Maharashtra,Other,Satara,3750
+Jun,Maharashtra,Other,Parbhani,3446.2
+Jun,Maharashtra,Yellow,Beed,3530.22448979592
+Jun,Maharashtra,Other,Osmanabad,3611.82352941176
+Jun,Maharashtra,Yellow,Parbhani,3438.4
+Jun,Maharashtra,Yellow,Vashim,3550
+Jun,Madhya Pradesh,Black,Rajgarh,3275
+Jun,Uttar Pradesh,Yellow,Lalitpur,3770.95238095238
+Jun,Uttar Pradesh,Soyabeen,Kanpur,5107.14285714286
+Jun,Rajasthan,Other,Udaipur,3616.66666666667
+Jun,Rajasthan,Other,Tonk,3050
+Jun,Rajasthan,Other,Swai Madhopur,3555
+Jun,Rajasthan,Other,Kota,3605.89552238806
+Jun,Rajasthan,Other,Jhalawar,3619.93805309735
+Jun,Maharashtra,Yellow,Pune,3538.66666666667
+Jun,Rajasthan,Other,Chittorgarh,3528.875
+Jun,Rajasthan,Other,Bhilwara,3750
+Jun,Rajasthan,Other,Baran,3575.40740740741
+Jun,Manipur,Other,Thoubal,7000
+Jun,Manipur,Other,Imphal West,6000
+Jun,Manipur,Other,Imphal East,7500
+Jun,Manipur,Other,Bishnupur,7400
+Jun,Maharashtra,Yellow,Yavatmal,3507.79310344828
+Jun,Maharashtra,Yellow,Wardha,3456.44827586207
+Jun,Rajasthan,Other,Bundi,3522.47142857143
+Jun,Madhya Pradesh,Yellow,Burhanpur,3480.72727272727
+Jun,Maharashtra,Other,Nashik,3528.40677966102
+Jun,Maharashtra,Other,Nanded,3537.875
+Jun,Madhya Pradesh,Yellow,Ratlam,3600.79545454545
+Jun,Madhya Pradesh,Yellow,Rajgarh,3558.9801980198
+Jun,Madhya Pradesh,Yellow,Raisen,3204.41379310345
+Jun,Madhya Pradesh,Yellow,Neemuch,3560.10526315789
+Jun,Madhya Pradesh,Yellow,Narsinghpur,3326.96774193548
+Jun,Madhya Pradesh,Yellow,Morena,3491
+Jun,Madhya Pradesh,Yellow,Mandsaur,3585
+Jun,Madhya Pradesh,Yellow,Khargone,3430.52631578947
+Jun,Madhya Pradesh,Yellow,Sagar,3444.87719298246
+Jun,Madhya Pradesh,Yellow,Khandwa,3537.19047619048
+Jun,Madhya Pradesh,Yellow,Indore,3586.02941176471
+Jun,Madhya Pradesh,Yellow,Hoshangabad,3500.6875
+Jun,Madhya Pradesh,Yellow,Harda,3524.06060606061
+Jun,Madhya Pradesh,Yellow,Gwalior,3401
+Jun,Madhya Pradesh,Yellow,Dhar,3547.61538461538
+Jun,Madhya Pradesh,Yellow,Dewas,3506.87179487179
+Jun,Madhya Pradesh,Yellow,Damoh,3481.11111111111
+Jun,Madhya Pradesh,Yellow,Chhindwara,3405.33333333333
+Jun,Madhya Pradesh,Yellow,Jhabua,3509.17391304348
+Jun,Maharashtra,Other,Nandurbar,3439.30769230769
+Jun,Madhya Pradesh,Yellow,Sehore,3524.9014084507
+Jun,Madhya Pradesh,Yellow,Shajapur,3510.5
+Jun,Maharashtra,Other,Nagpur,3520.86666666667
+Jun,Maharashtra,Other,Latur,3633.9375
+Jun,Maharashtra,Other,Jalgaon,3428.375
+Jun,Maharashtra,Other,Jalana,3366.66666666667
+Jun,Maharashtra,Other,Hingoli,3483.9
+Jun,Maharashtra,Other,Chandrapur,3586.64285714286
+Jun,Maharashtra,Other,Buldhana,3455.90909090909
+Jun,Maharashtra,Other,Bhandara,3400
+Jun,Madhya Pradesh,Yellow,Seoni,2863
+Jun,Maharashtra,Other,Beed,3517.34210526316
+Jun,Maharashtra,Other,Amarawati,3410.6
+Jun,Maharashtra,Other,Akola,3832.8
+Jun,Maharashtra,Other,Ahmednagar,3510.02
+Jun,Maharashtra,Black,Hingoli,3660
+Jun,Madhya Pradesh,Yellow,Vidisha,3454.53333333333
+Jun,Madhya Pradesh,Yellow,Ujjain,3589.14173228346
+Jun,Madhya Pradesh,Yellow,Tikamgarh,3433.5
+Jun,Madhya Pradesh,Yellow,Shivpuri,3568.96774193548
+Jun,Maharashtra,Other,Aurangabad,3544.8
+Jun,Madhya Pradesh,Black,Seoni,3405
+Jul,Maharashtra,Yellow,Jalgaon,3332.33333333333
+Jul,Uttar Pradesh,Soyabeen,Kanpur,5170
+Jul,Madhya Pradesh,Other,Sagar,3201.77777777778
+Jul,Madhya Pradesh,Other,Rewa,2991.25
+Jul,Madhya Pradesh,Other,Ratlam,3490.92307692308
+Jul,Madhya Pradesh,Other,Rajgarh,3394.7619047619
+Jul,Madhya Pradesh,Other,Raisen,3296.89655172414
+Jul,Madhya Pradesh,Other,Panna,3340
+Jul,Madhya Pradesh,Other,Neemuch,3327.23076923077
+Jul,Madhya Pradesh,Other,Narsinghpur,3304.35714285714
+Jul,Madhya Pradesh,Other,Mandsaur,3394.13888888889
+Jul,Madhya Pradesh,Other,Khargone,3519.17647058824
+Jul,Madhya Pradesh,Other,Khandwa,3431.8
+Jul,Madhya Pradesh,Other,Indore,3456.925
+Jul,Madhya Pradesh,Other,Hoshangabad,3080.85714285714
+Jul,Madhya Pradesh,Other,Guna,3407.11494252874
+Jul,Madhya Pradesh,Other,Dhar,3125.25
+Jul,Madhya Pradesh,Other,Dewas,3444.09523809524
+Jul,Madhya Pradesh,Other,Damoh,3625
+Jul,Madhya Pradesh,Other,Satna,3026.40909090909
+Jul,Madhya Pradesh,Other,Sehore,3437.41176470588
+Jul,Madhya Pradesh,Other,Seoni,3300
+Jul,Madhya Pradesh,Other,Shajapur,3441.12213740458
+Jul,Madhya Pradesh,Soyabeen,Sehore,3515.31578947368
+Jul,Madhya Pradesh,Soyabeen,Sagar,3345.86111111111
+Jul,Madhya Pradesh,Soyabeen,Ratlam,3526.16666666667
+Jul,Madhya Pradesh,Soyabeen,Rajgarh,3484.36363636364
+Jul,Madhya Pradesh,Soyabeen,Panna,3241
+Jul,Madhya Pradesh,Soyabeen,Mandsaur,3501.8275862069
+Jul,Madhya Pradesh,Soyabeen,Khargone,3320.38461538461
+Jul,Madhya Pradesh,Soyabeen,Harda,3457.54545454545
+Jul,Madhya Pradesh,Other,Chhindwara,3403.5625
+Jul,Madhya Pradesh,Soyabeen,Guna,3342.66666666667
+Jul,Madhya Pradesh,Soyabeen,Chhindwara,2965
+Jul,Madhya Pradesh,Soyabeen,Chhatarpur,3340.15789473684
+Jul,Madhya Pradesh,Soyabeen,Bhopal,3400.26315789474
+Jul,Madhya Pradesh,Soyabeen,Ashoknagar,3299.66666666667
+Jul,Madhya Pradesh,Other,Vidisha,3265.76470588235
+Jul,Madhya Pradesh,Other,Shivpuri,3418.81818181818
+Jul,Madhya Pradesh,Other,Sheopur,3236
+Jul,Madhya Pradesh,Other,Shehdol,3352.63636363636
+Jul,Madhya Pradesh,Soyabeen,Dewas,3422.14285714286
+Jul,Madhya Pradesh,Soyabeen,Sheopur,3358.26666666667
+Jul,Madhya Pradesh,Other,Chhatarpur,3399.41176470588
+Jul,Madhya Pradesh,Other,Bhopal,3570
+Jul,Gujarat,Soyabeen,Junagarh,3330.29411764706
+Jul,Gujarat,Soyabeen,Jamnagar,3650
+Jul,Gujarat,Soyabeen,Dahod,3590.04761904762
+Jul,Gujarat,Soyabeen,Amreli,3242.5
+Jul,Gujarat,Other,Surat,2808.33333333333
+Jul,Gujarat,Other,Sabarkantha,2722
+Jul,Gujarat,Other,Rajkot,3133.75
+Jul,Chattisgarh,Yellow,Rajnandgaon,3530.02777777778
+Jul,Chattisgarh,Yellow,Raipur,3000
+Jul,Chattisgarh,Yellow,Mungeli,3375.82352941176
+Jul,Chattisgarh,Yellow,Kabirdham,3440.13636363636
+Jul,Chattisgarh,Yellow,Bemetara,3333.33333333333
+Jul,Chattisgarh,Soyabeen,Raipur,3556
+Jul,Chattisgarh,Other,Rajnandgaon,3099.8
+Jul,Chattisgarh,Other,Balodabazar,3139.75
+Jul,Chattisgarh,Local,Rajnandgaon,3505.66666666667
+Jul,Uttar Pradesh,Yellow,Lalitpur,3604.21052631579
+Jul,Gujarat,Soyabeen,Rajkot,3183.33333333333
+Jul,Gujarat,Yellow,Rajkot,3350.625
+Jul,Gujarat,Yellow,Sabarkantha,3296.875
+Jul,Karnataka,Local,Belgaum,3518.33333333333
+Jul,Madhya Pradesh,Other,Badwani,3375
+Jul,Madhya Pradesh,Other,Ashoknagar,3413.78571428571
+Jul,Madhya Pradesh,Other,Alirajpur,3285
+Jul,Madhya Pradesh,Local,Mandsaur,3700
+Jul,Madhya Pradesh,Local,Dindori,3295.27272727273
+Jul,Madhya Pradesh,Local,Chhindwara,3263.75
+Jul,Madhya Pradesh,Black,Ujjain,3445
+Jul,Madhya Pradesh,Black,Tikamgarh,3320
+Jul,Madhya Pradesh,Other,Burhanpur,3397.66666666667
+Jul,Madhya Pradesh,Black,Seoni,3465
+Jul,Madhya Pradesh,Black,Raisen,3315.90909090909
+Jul,Madhya Pradesh,Black,Chhatarpur,3200
+Jul,Karnataka,Soyabeen,Haveri,3598.95
+Jul,Karnataka,Soyabeen,Gulbarga,3335.8
+Jul,Karnataka,Soyabeen,Dharwad,3505.81578947368
+Jul,Karnataka,Soyabeen,Bidar,3587.22222222222
+Jul,Karnataka,Soyabeen,Belgaum,3350
+Jul,Karnataka,Soyabeen,Bangalore,4508.33333333333
+Jul,Madhya Pradesh,Black,Rajgarh,3200
+Jul,Madhya Pradesh,Soyabeen,Shivpuri,3550
+Jul,Chattisgarh,Yellow,Durg,3425
+Jul,Madhya Pradesh,Soyabeen,Ujjain,340.085
+Jul,Maharashtra,Yellow,Chandrapur,3467.33333333333
+Jul,Maharashtra,Yellow,Buldhana,3454.87692307692
+Jul,Maharashtra,Yellow,Beed,3498.6
+Jul,Maharashtra,Yellow,Aurangabad,3497.5
+Jul,Maharashtra,Yellow,Amarawati,3357.92682926829
+Jul,Maharashtra,Yellow,Akola,3474.71212121212
+Jul,Maharashtra,Yellow,Ahmednagar,3240
+Jul,Maharashtra,Other,Vashim,3504.05660377358
+Jul,Maharashtra,Other,Sholapur,3599.75
+Jul,Maharashtra,Other,Parbhani,3470.2
+Jul,Maharashtra,Other,Osmanabad,3602
+Jul,Maharashtra,Other,Nashik,3522.73333333333
+Jul,Maharashtra,Other,Nandurbar,3447.5625
+Jul,Maharashtra,Other,Nanded,3473.57142857143
+Jul,Maharashtra,Other,Nagpur,3480.23076923077
+Jul,Maharashtra,Other,Latur,3652.3125
+Jul,Maharashtra,Other,Jalgaon,3395.65217391304
+Jul,Maharashtra,Yellow,Hingoli,3523
+Jul,Maharashtra,Other,Jalana,3370
+Jul,Maharashtra,Yellow,Jalana,3524.4693877551
+Jul,Maharashtra,Yellow,Nagpur,3384.04761904762
+Jul,Madhya Pradesh,Soyabeen,Tikamgarh,3300
+Jul,Rajasthan,Yellow,Chittorgarh,3447.41176470588
+Jul,Rajasthan,Other,Udaipur,3450
+Jul,Rajasthan,Other,Swai Madhopur,3318
+Jul,Rajasthan,Other,Jhalawar,3497.90322580645
+Jul,Rajasthan,Other,Chittorgarh,3412.51724137931
+Jul,Rajasthan,Other,Bundi,3453.84285714286
+Jul,Rajasthan,Other,Bhilwara,3587.5
+Jul,Rajasthan,Other,Baran,3452.73493975904
+Jul,Maharashtra,Yellow,Yavatmal,3498.16981132075
+Jul,Maharashtra,Yellow,Wardha,3436.45901639344
+Jul,Maharashtra,Yellow,Vashim,3523.7
+Jul,Maharashtra,Yellow,Pune,3400
+Jul,Maharashtra,Yellow,Parbhani,3524.45
+Jul,Maharashtra,Yellow,Osmanabad,3589.96875
+Jul,Maharashtra,Yellow,Nashik,3373.33333333333
+Jul,Maharashtra,Yellow,Nanded,3326.45
+Jul,Maharashtra,Yellow,Latur,3583.77108433735
+Jul,Maharashtra,Other,Hingoli,3481.38461538461
+Jul,Rajasthan,Other,Kota,3495.88888888889
+Jul,Maharashtra,Other,Buldhana,3475.76923076923
+Jul,Madhya Pradesh,Yellow,Khandwa,3480.63157894737
+Jul,Madhya Pradesh,Yellow,Katni,3325
+Jul,Madhya Pradesh,Yellow,Jhabua,3380.09090909091
+Jul,Madhya Pradesh,Yellow,Jabalpur,2600
+Jul,Madhya Pradesh,Yellow,Indore,3506.94594594595
+Jul,Madhya Pradesh,Yellow,Hoshangabad,3479.65714285714
+Jul,Madhya Pradesh,Yellow,Harda,3480.56756756757
+Jul,Madhya Pradesh,Yellow,Gwalior,2900
+Jul,Madhya Pradesh,Yellow,Dhar,3501.33027522936
+Jul,Madhya Pradesh,Yellow,Dewas,3449.81395348837
+Jul,Madhya Pradesh,Yellow,Damoh,3429.16666666667
+Jul,Madhya Pradesh,Yellow,Chhindwara,3345
+Jul,Madhya Pradesh,Yellow,Chhatarpur,3475
+Jul,Madhya Pradesh,Yellow,Burhanpur,3428.71428571429
+Jul,Madhya Pradesh,Yellow,Betul,3480.25
+Jul,Madhya Pradesh,Yellow,Badwani,3413.5
+Jul,Maharashtra,Other,Chandrapur,3580.375
+Jul,Madhya Pradesh,Yellow,Khargone,3251.5625
+Jul,Madhya Pradesh,Yellow,Mandsaur,3448.33333333333
+Jul,Madhya Pradesh,Yellow,Bhopal,3422.44736842105
+Jul,Madhya Pradesh,Yellow,Ashoknagar,3398.10256410256
+Jul,Maharashtra,Other,Aurangabad,3467.625
+Jul,Madhya Pradesh,Yellow,Morena,3161
+Jul,Maharashtra,Other,Amarawati,3462.48148148148
+Jul,Maharashtra,Other,Akola,3442.25
+Jul,Maharashtra,Other,Ahmednagar,3440.90909090909
+Jul,Madhya Pradesh,Yellow,Vidisha,3378.46052631579
+Jul,Madhya Pradesh,Yellow,Ujjain,3497.25396825397
+Jul,Madhya Pradesh,Yellow,Tikamgarh,3448.25
+Jul,Madhya Pradesh,Yellow,Shivpuri,3471.72727272727
+Jul,Maharashtra,Other,Beed,3537.16666666667
+Jul,Madhya Pradesh,Yellow,Sehore,3452.62195121951
+Jul,Madhya Pradesh,Yellow,Sagar,3413.19178082192
+Jul,Madhya Pradesh,Yellow,Rewa,3000
+Jul,Madhya Pradesh,Yellow,Ratlam,3509
+Jul,Madhya Pradesh,Yellow,Rajgarh,3444.56074766355
+Jul,Madhya Pradesh,Yellow,Narsinghpur,3365.1935483871
+Jul,Madhya Pradesh,Yellow,Raisen,3364.33333333333
+Jul,Madhya Pradesh,Yellow,Shajapur,3416.640625
+Jul,Madhya Pradesh,Yellow,Neemuch,3498.46666666667
+Aug,Madhya Pradesh,Yellow,Ratlam,3595
+Aug,Madhya Pradesh,Yellow,Sagar,3434.45454545455
+Aug,Madhya Pradesh,Yellow,Sehore,3524.46428571429
+Aug,Madhya Pradesh,Yellow,Shajapur,3459.66666666667
+Aug,Madhya Pradesh,Yellow,Shivpuri,3497.63636363636
+Aug,Madhya Pradesh,Yellow,Tikamgarh,3536.33333333333
+Aug,Maharashtra,Other,Akola,3347
+Aug,Madhya Pradesh,Yellow,Vidisha,3430.375
+Aug,Maharashtra,Other,Ahmednagar,3495.61111111111
+Aug,Maharashtra,Other,Amarawati,3428.66666666667
+Aug,Maharashtra,Other,Aurangabad,3590
+Aug,Maharashtra,Other,Beed,3555.46153846154
+Aug,Madhya Pradesh,Yellow,Rajgarh,3531.54054054054
+Aug,Maharashtra,Other,Chandrapur,3580.85714285714
+Aug,Maharashtra,Other,Hingoli,3542.71428571429
+Aug,Madhya Pradesh,Yellow,Ujjain,3580.56756756757
+Aug,Maharashtra,Other,Buldhana,3438.88888888889
+Aug,Madhya Pradesh,Yellow,Bhopal,3324.27272727273
+Aug,Madhya Pradesh,Yellow,Neemuch,3728.75
+Aug,Madhya Pradesh,Yellow,Burhanpur,3358
+Aug,Madhya Pradesh,Yellow,Chhatarpur,3400
+Aug,Maharashtra,Other,Jalana,3499.66666666667
+Aug,Madhya Pradesh,Yellow,Chhindwara,3376.66666666667
+Aug,Madhya Pradesh,Yellow,Damoh,3422.25
+Aug,Madhya Pradesh,Yellow,Datia,3360
+Aug,Madhya Pradesh,Yellow,Dewas,3438.30769230769
+Aug,Madhya Pradesh,Yellow,Dhar,3500.34482758621
+Aug,Madhya Pradesh,Yellow,Gwalior,3500
+Aug,Madhya Pradesh,Yellow,Harda,3471.33333333333
+Aug,Madhya Pradesh,Yellow,Hoshangabad,3516.1
+Aug,Madhya Pradesh,Yellow,Jhabua,3445.61538461538
+Aug,Madhya Pradesh,Yellow,Khandwa,3490.4
+Aug,Madhya Pradesh,Yellow,Khargone,3474
+Aug,Madhya Pradesh,Yellow,Mandsaur,3502.5
+Aug,Madhya Pradesh,Yellow,Morena,3175
+Aug,Madhya Pradesh,Yellow,Narsinghpur,3403.33333333333
+Aug,Madhya Pradesh,Yellow,Raisen,3323.14285714286
+Aug,Madhya Pradesh,Yellow,Indore,3563.41666666667
+Aug,Maharashtra,Yellow,Jalana,3539.71428571429
+Aug,Maharashtra,Other,Latur,3617.75
+Aug,Maharashtra,Yellow,Nashik,3113
+Aug,Maharashtra,Yellow,Osmanabad,3586.76923076923
+Aug,Maharashtra,Yellow,Parbhani,3525.76470588235
+Aug,Maharashtra,Yellow,Pune,3517
+Aug,Maharashtra,Yellow,Vashim,3544.41176470588
+Aug,Maharashtra,Yellow,Wardha,3439.87878787879
+Aug,Maharashtra,Yellow,Yavatmal,3479.1935483871
+Aug,Maharashtra,Yellow,Nanded,3348.57142857143
+Aug,Rajasthan,Other,Baran,3525.54166666667
+Aug,Rajasthan,Other,Bundi,3483.15
+Aug,Rajasthan,Other,Chittorgarh,3487.09090909091
+Aug,Rajasthan,Other,Jhalawar,3583.89189189189
+Aug,Rajasthan,Other,Kota,3553.1
+Aug,Madhya Pradesh,Yellow,Betul,3499.5
+Aug,Rajasthan,Other,Swai Madhopur,3291
+Aug,Rajasthan,Other,Udaipur,3500
+Aug,Rajasthan,Other,Bhilwara,3750
+Aug,Maharashtra,Other,Jalgaon,3397
+Aug,Maharashtra,Yellow,Nagpur,3398.125
+Aug,Maharashtra,Yellow,Jalgaon,2925
+Aug,Maharashtra,Other,Nagpur,3491.25
+Aug,Maharashtra,Other,Nanded,3470.5
+Aug,Maharashtra,Other,Nandurbar,3460
+Aug,Maharashtra,Other,Nashik,3555.15
+Aug,Maharashtra,Other,Osmanabad,3604.75
+Aug,Maharashtra,Other,Parbhani,3440.5
+Aug,Maharashtra,Other,Sholapur,3598.75
+Aug,Maharashtra,Yellow,Latur,3576.15625
+Aug,Maharashtra,Other,Vashim,3525.11111111111
+Aug,Maharashtra,Yellow,Akola,3455.05263157895
+Aug,Maharashtra,Yellow,Amarawati,3376.15789473684
+Aug,Maharashtra,Yellow,Aurangabad,3000
+Aug,Maharashtra,Yellow,Beed,3541
+Aug,Maharashtra,Yellow,Buldhana,3447.51111111111
+Aug,Maharashtra,Yellow,Chandrapur,3508.16666666667
+Aug,Maharashtra,Yellow,Hingoli,3498.52941176471
+Aug,Maharashtra,Yellow,Ahmednagar,3350
+Aug,Madhya Pradesh,Yellow,Badwani,3468.14285714286
+Aug,Madhya Pradesh,Other,Dhar,3057.375
+Aug,Madhya Pradesh,Soyabeen,Ujjain,355.8
+Aug,Karnataka,Soyabeen,Bidar,3643.75
+Aug,Karnataka,Soyabeen,Dharwad,3491.42857142857
+Aug,Karnataka,Soyabeen,Gulbarga,3326
+Aug,Karnataka,Soyabeen,Haveri,3578.71428571429
+Aug,Madhya Pradesh,Black,Raisen,3235
+Aug,Madhya Pradesh,Black,Rajgarh,3280
+Aug,Madhya Pradesh,Black,Seoni,3600
+Aug,Karnataka,Soyabeen,Belgaum,3700
+Aug,Madhya Pradesh,Black,Shivpuri,3125
+Aug,Madhya Pradesh,Local,Dindori,3287.6
+Aug,Madhya Pradesh,Local,Mandsaur,3500
+Aug,Madhya Pradesh,Other,Alirajpur,3356.81818181818
+Aug,Madhya Pradesh,Other,Anupur,4500
+Aug,Madhya Pradesh,Other,Ashoknagar,3488.4
+Aug,Madhya Pradesh,Other,Badwani,3197.66666666667
+Aug,Madhya Pradesh,Other,Chhatarpur,3418
+Aug,Madhya Pradesh,Black,Tikamgarh,3185
+Aug,Madhya Pradesh,Other,Chhindwara,3355.75
+Aug,Karnataka,Soyabeen,Bangalore,4425
+Aug,Gujarat,Yellow,Sabarkantha,3412.5
+Aug,Chattisgarh,Local,Rajnandgaon,3565
+Aug,Rajasthan,Yellow,Chittorgarh,3547
+Aug,Chattisgarh,Other,Rajnandgaon,3300
+Aug,Chattisgarh,Yellow,Durg,3387.5
+Aug,Chattisgarh,Yellow,Kabirdham,3382.2
+Aug,Chattisgarh,Yellow,Mungeli,3328
+Aug,Chattisgarh,Yellow,Rajnandgaon,3551.25
+Aug,Karnataka,Local,Belgaum,3584
+Aug,Gujarat,Other,Amreli,2722.5
+Aug,Gujarat,Other,Rajkot,2955
+Aug,Gujarat,Other,Sabarkantha,3568.33333333333
+Aug,Gujarat,Other,Surat,3212.5
+Aug,Gujarat,Soyabeen,Dahod,3630
+Aug,Gujarat,Soyabeen,Jamnagar,3050
+Aug,Gujarat,Soyabeen,Junagarh,3441.66666666667
+Aug,Gujarat,Yellow,Rajkot,3386.25
+Aug,Gujarat,Other,Bhavnagar,2725
+Aug,Madhya Pradesh,Yellow,Ashoknagar,3428.76923076923
+Aug,Madhya Pradesh,Other,Dewas,3475.1
+Aug,Madhya Pradesh,Other,Hoshangabad,3151.5
+Aug,Madhya Pradesh,Soyabeen,Ashoknagar,3200
+Aug,Madhya Pradesh,Soyabeen,Bhopal,3432
+Aug,Madhya Pradesh,Soyabeen,Chhatarpur,3347
+Aug,Madhya Pradesh,Soyabeen,Chhindwara,3250
+Aug,Madhya Pradesh,Soyabeen,Dewas,3486.23076923077
+Aug,Madhya Pradesh,Soyabeen,Dindori,3400
+Aug,Madhya Pradesh,Soyabeen,Harda,3465.77777777778
+Aug,Madhya Pradesh,Other,Vidisha,3366.125
+Aug,Madhya Pradesh,Soyabeen,Khargone,3435.2
+Aug,Madhya Pradesh,Soyabeen,Rajgarh,3466.66666666667
+Aug,Madhya Pradesh,Soyabeen,Ratlam,3626.66666666667
+Aug,Madhya Pradesh,Soyabeen,Sagar,3407.41666666667
+Aug,Madhya Pradesh,Soyabeen,Sehore,3560.25
+Aug,Madhya Pradesh,Soyabeen,Sheopur,3353.2
+Aug,Madhya Pradesh,Soyabeen,Shivpuri,3650
+Aug,Madhya Pradesh,Soyabeen,Tikamgarh,3510
+Aug,Madhya Pradesh,Soyabeen,Mandsaur,3569.45454545455
+Aug,Madhya Pradesh,Other,Guna,3462.54166666667
+Aug,Madhya Pradesh,Other,Umariya,3105
+Aug,Madhya Pradesh,Other,Sheopur,3100.5
+Aug,Madhya Pradesh,Other,Indore,3501.66666666667
+Aug,Madhya Pradesh,Other,Khandwa,3250
+Aug,Madhya Pradesh,Other,Khargone,3492.57142857143
+Aug,Madhya Pradesh,Other,Mandsaur,3401.15384615385
+Aug,Madhya Pradesh,Other,Narsinghpur,3350.5
+Aug,Madhya Pradesh,Other,Neemuch,3344.28571428571
+Aug,Madhya Pradesh,Other,Panna,3015
+Aug,Madhya Pradesh,Other,Shivpuri,3477.28571428571
+Aug,Madhya Pradesh,Other,Raisen,3400
+Aug,Madhya Pradesh,Other,Ratlam,3650.46153846154
+Aug,Madhya Pradesh,Other,Rewa,3278.33333333333
+Aug,Madhya Pradesh,Other,Sagar,3403.33333333333
+Aug,Madhya Pradesh,Other,Satna,3091.66666666667
+Aug,Madhya Pradesh,Other,Sehore,3450
+Aug,Madhya Pradesh,Other,Shajapur,3487.62162162162
+Aug,Madhya Pradesh,Other,Shehdol,3424
+Aug,Madhya Pradesh,Other,Rajgarh,3322.2
+Aug,Uttar Pradesh,Soyabeen,Kanpur,4731.25
+Aug,Gujarat,Soyabeen,Rajkot,3350
+Aug,Uttar Pradesh,Yellow,Lalitpur,3362.5
+Sep,Madhya Pradesh,Other,Shehdol,3348
+Sep,Madhya Pradesh,Other,Shajapur,3465.62068965517
+Sep,Madhya Pradesh,Other,Sehore,3400
+Sep,Madhya Pradesh,Other,Satna,3130.42857142857
+Sep,Madhya Pradesh,Other,Sagar,3236
+Sep,Madhya Pradesh,Other,Rewa,3112.5
+Sep,Madhya Pradesh,Other,Ratlam,3586.75
+Sep,Madhya Pradesh,Other,Rajgarh,3478.25
+Sep,Madhya Pradesh,Other,Raisen,3282.4
+Sep,Madhya Pradesh,Other,Panna,3042
+Sep,Madhya Pradesh,Other,Neemuch,3447.75
+Sep,Madhya Pradesh,Other,Narsinghpur,3356.66666666667
+Sep,Madhya Pradesh,Other,Mandsaur,3407.66666666667
+Sep,Madhya Pradesh,Other,Khargone,3514.33333333333
+Sep,Madhya Pradesh,Other,Khandwa,3440
+Sep,Madhya Pradesh,Other,Sheopur,3330.33333333333
+Sep,Madhya Pradesh,Other,Indore,3497.14285714286
+Sep,Madhya Pradesh,Other,Shivpuri,3491.66666666667
+Sep,Madhya Pradesh,Other,Vidisha,3383.16666666667
+Sep,Madhya Pradesh,Yellow,Ashoknagar,3460.875
+Sep,Madhya Pradesh,Soyabeen,Ujjain,354.025
+Sep,Madhya Pradesh,Soyabeen,Sheopur,3431.4
+Sep,Madhya Pradesh,Soyabeen,Sehore,3520.66666666667
+Sep,Madhya Pradesh,Soyabeen,Sagar,3410.55555555556
+Sep,Madhya Pradesh,Soyabeen,Ratlam,3564.25
+Sep,Madhya Pradesh,Soyabeen,Rajgarh,3475
+Sep,Madhya Pradesh,Soyabeen,Panna,3405
+Sep,Madhya Pradesh,Soyabeen,Mandsaur,3549.16666666667
+Sep,Madhya Pradesh,Soyabeen,Khargone,3844.8
+Sep,Madhya Pradesh,Soyabeen,Harda,3435
+Sep,Madhya Pradesh,Soyabeen,Dewas,3492.22222222222
+Sep,Madhya Pradesh,Soyabeen,Chhatarpur,3453.55555555556
+Sep,Madhya Pradesh,Soyabeen,Bhopal,3376.25
+Sep,Madhya Pradesh,Soyabeen,Ashoknagar,3100
+Sep,Madhya Pradesh,Other,Umariya,3105
+Sep,Madhya Pradesh,Other,Hoshangabad,2911
+Sep,Madhya Pradesh,Other,Guna,3400.76923076923
+Sep,Madhya Pradesh,Other,Dhar,3455.5
+Sep,Gujarat,Soyabeen,Rajkot,3250
+Sep,Gujarat,Soyabeen,Junagarh,3433.33333333333
+Sep,Gujarat,Soyabeen,Dahod,3640
+Sep,Gujarat,Soyabeen,Amreli,3500
+Sep,Gujarat,Other,Surat,3287.5
+Sep,Gujarat,Other,Sabarkantha,2606.5
+Sep,Gujarat,Other,Rajkot,3187.5
+Sep,Gujarat,Other,Bhavnagar,3105
+Sep,Chattisgarh,Yellow,Rajnandgaon,3534.57142857143
+Sep,Chattisgarh,Yellow,Mungeli,3338
+Sep,Chattisgarh,Yellow,Kabirdham,3411.14285714286
+Sep,Chattisgarh,Yellow,Durg,3400
+Sep,Chattisgarh,Other,Balodabazar,2952.5
+Sep,Chattisgarh,Local,Rajnandgaon,3293.2
+Sep,Uttar Pradesh,Soyabeen,Kanpur,4605.83333333333
+Sep,Gujarat,Yellow,Rajkot,3373.75
+Sep,Gujarat,Yellow,Sabarkantha,4587.5
+Sep,Karnataka,Local,Belgaum,3597.5
+Sep,Karnataka,Soyabeen,Belgaum,3700
+Sep,Madhya Pradesh,Other,Dewas,3432.22222222222
+Sep,Madhya Pradesh,Other,Chhindwara,3245.66666666667
+Sep,Madhya Pradesh,Other,Chhatarpur,3383.33333333333
+Sep,Madhya Pradesh,Other,Badwani,3311
+Sep,Madhya Pradesh,Other,Ashoknagar,3430.5
+Sep,Madhya Pradesh,Other,Alirajpur,3350
+Sep,Madhya Pradesh,Local,Mandsaur,3670
+Sep,Madhya Pradesh,Yellow,Badwani,3482.125
+Sep,Madhya Pradesh,Local,Dindori,3293.75
+Sep,Madhya Pradesh,Black,Tikamgarh,3309
+Sep,Madhya Pradesh,Black,Shivpuri,3115
+Sep,Madhya Pradesh,Black,Raisen,3460
+Sep,Karnataka,Soyabeen,Haveri,3553.75
+Sep,Karnataka,Soyabeen,Gulbarga,3291.2
+Sep,Karnataka,Soyabeen,Dharwad,3444.09090909091
+Sep,Karnataka,Soyabeen,Bidar,3637.42857142857
+Sep,Madhya Pradesh,Local,Chhindwara,3250.5
+Sep,Madhya Pradesh,Yellow,Betul,3540.75
+Sep,Uttar Pradesh,Yellow,Lalitpur,3584
+Sep,Madhya Pradesh,Yellow,Burhanpur,3525
+Sep,Maharashtra,Yellow,Chandrapur,3399.2
+Sep,Maharashtra,Yellow,Buldhana,3450.80487804878
+Sep,Maharashtra,Yellow,Beed,3525.92307692308
+Sep,Maharashtra,Yellow,Amarawati,3380.58333333333
+Sep,Maharashtra,Yellow,Akola,3471.8
+Sep,Maharashtra,Yellow,Ahmednagar,3450
+Sep,Maharashtra,Other,Vashim,3528.6875
+Sep,Maharashtra,Other,Sholapur,3685.5
+Sep,Maharashtra,Other,Satara,3750
+Sep,Maharashtra,Other,Parbhani,3447
+Sep,Maharashtra,Other,Osmanabad,3676
+Sep,Maharashtra,Other,Nashik,3542.73333333333
+Sep,Maharashtra,Other,Nandurbar,3496.2
+Sep,Maharashtra,Other,Nanded,3560.5
+Sep,Maharashtra,Other,Nagpur,3450
+Sep,Maharashtra,Yellow,Hingoli,3525.38461538462
+Sep,Maharashtra,Yellow,Jalgaon,3437.33333333333
+Sep,Maharashtra,Yellow,Latur,3599.8275862069
+Sep,Maharashtra,Yellow,Nagpur,3422.85714285714
+Sep,Madhya Pradesh,Yellow,Bhopal,3365.8
+Sep,Rajasthan,Yellow,Chittorgarh,3548.25
+Sep,Rajasthan,Other,Udaipur,3550
+Sep,Rajasthan,Other,Swai Madhopur,3505.5
+Sep,Rajasthan,Other,Kota,3515.6
+Sep,Rajasthan,Other,Jhalawar,3564.13793103448
+Sep,Rajasthan,Other,Chittorgarh,3439.83333333333
+Sep,Maharashtra,Other,Latur,3621.83333333333
+Sep,Rajasthan,Other,Bundi,3509.34615384615
+Sep,Maharashtra,Yellow,Yavatmal,3497.77272727273
+Sep,Maharashtra,Yellow,Wardha,3442.70833333333
+Sep,Maharashtra,Yellow,Vashim,3556.66666666667
+Sep,Maharashtra,Yellow,Parbhani,3538
+Sep,Maharashtra,Yellow,Osmanabad,3591.9
+Sep,Maharashtra,Yellow,Nashik,3180
+Sep,Maharashtra,Yellow,Nanded,3480.11111111111
+Sep,Rajasthan,Other,Baran,3471.68181818182
+Sep,Maharashtra,Other,Jalgaon,3394.57142857143
+Sep,Maharashtra,Yellow,Jalana,3534.4375
+Sep,Maharashtra,Other,Chandrapur,3577
+Sep,Madhya Pradesh,Yellow,Morena,3365.5
+Sep,Madhya Pradesh,Yellow,Mandsaur,3468.33333333333
+Sep,Madhya Pradesh,Yellow,Khargone,3325
+Sep,Madhya Pradesh,Yellow,Khandwa,3523.125
+Sep,Madhya Pradesh,Yellow,Jhabua,3484.44444444444
+Sep,Madhya Pradesh,Yellow,Indore,3563.1
+Sep,Madhya Pradesh,Yellow,Hoshangabad,3408.33333333333
+Sep,Madhya Pradesh,Yellow,Harda,3420.75
+Sep,Madhya Pradesh,Yellow,Gwalior,3000
+Sep,Madhya Pradesh,Yellow,Dhar,3484.88
+Sep,Madhya Pradesh,Yellow,Dewas,3449.625
+Sep,Madhya Pradesh,Yellow,Datia,3345
+Sep,Madhya Pradesh,Yellow,Damoh,3443.57142857143
+Sep,Maharashtra,Other,Hingoli,3490.71428571429
+Sep,Madhya Pradesh,Yellow,Chhindwara,3370
+Sep,Madhya Pradesh,Yellow,Narsinghpur,3299.5
+Sep,Madhya Pradesh,Yellow,Neemuch,3611.66666666667
+Sep,Madhya Pradesh,Yellow,Jabalpur,2520
+Sep,Madhya Pradesh,Yellow,Chhatarpur,3433.33333333333
+Sep,Maharashtra,Other,Buldhana,3505
+Sep,Madhya Pradesh,Yellow,Raisen,3365
+Sep,Maharashtra,Other,Aurangabad,3562.5
+Sep,Maharashtra,Other,Amarawati,3421
+Sep,Maharashtra,Other,Akola,3550
+Sep,Maharashtra,Other,Ahmednagar,3517
+Sep,Madhya Pradesh,Yellow,Vidisha,3415.41176470588
+Sep,Madhya Pradesh,Yellow,Ujjain,3550.29166666667
+Sep,Maharashtra,Other,Beed,3674.11111111111
+Sep,Madhya Pradesh,Yellow,Shivpuri,3470.71428571429
+Sep,Madhya Pradesh,Yellow,Shajapur,3465.2
+Sep,Madhya Pradesh,Yellow,Sehore,3515.52631578947
+Sep,Madhya Pradesh,Yellow,Sagar,3430
+Sep,Madhya Pradesh,Yellow,Rewa,2950
+Sep,Madhya Pradesh,Yellow,Ratlam,3550
+Sep,Madhya Pradesh,Yellow,Tikamgarh,3411.71428571429
+Sep,Madhya Pradesh,Yellow,Rajgarh,3503.9696969697
+Oct,Madhya Pradesh,Other,Rewa,2461
+Oct,Madhya Pradesh,Other,Ratlam,3426.18181818182
+Oct,Madhya Pradesh,Other,Rajgarh,3400.5
+Oct,Madhya Pradesh,Other,Raisen,3351.85714285714
+Oct,Madhya Pradesh,Other,Panna,3205
+Oct,Madhya Pradesh,Other,Neemuch,3497.75
+Oct,Madhya Pradesh,Other,Narsinghpur,3327.5
+Oct,Madhya Pradesh,Other,Khandwa,3350
+Oct,Madhya Pradesh,Other,Khargone,3462.36363636364
+Oct,Madhya Pradesh,Other,Indore,3468.33333333333
+Oct,Madhya Pradesh,Other,Hoshangabad,2869
+Oct,Madhya Pradesh,Other,Guna,3401.73333333333
+Oct,Madhya Pradesh,Other,Dhar,2853.83333333333
+Oct,Madhya Pradesh,Other,Dewas,3469.875
+Oct,Madhya Pradesh,Other,Sagar,3181.25
+Oct,Madhya Pradesh,Other,Mandsaur,3297.1
+Oct,Madhya Pradesh,Other,Satna,3127.66666666667
+Oct,Madhya Pradesh,Soyabeen,Ratlam,3542
+Oct,Madhya Pradesh,Other,Shajapur,3519
+Oct,Madhya Pradesh,Other,Chhindwara,3390.5
+Oct,Madhya Pradesh,Soyabeen,Sagar,3425
+Oct,Madhya Pradesh,Soyabeen,Rajgarh,3461.25
+Oct,Madhya Pradesh,Soyabeen,Mandsaur,3555.4
+Oct,Madhya Pradesh,Soyabeen,Khargone,3243.66666666667
+Oct,Madhya Pradesh,Soyabeen,Harda,3267.14285714286
+Oct,Madhya Pradesh,Soyabeen,Guna,3398
+Oct,Madhya Pradesh,Other,Sehore,3420
+Oct,Madhya Pradesh,Soyabeen,Dewas,3405.77777777778
+Oct,Madhya Pradesh,Soyabeen,Chhatarpur,3337.33333333333
+Oct,Madhya Pradesh,Soyabeen,Bhopal,3320
+Oct,Madhya Pradesh,Soyabeen,Ashoknagar,3200
+Oct,Madhya Pradesh,Other,Vidisha,3429.2
+Oct,Madhya Pradesh,Other,Shivpuri,3433.33333333333
+Oct,Madhya Pradesh,Other,Sheopur,3306
+Oct,Madhya Pradesh,Other,Shehdol,3415
+Oct,Madhya Pradesh,Soyabeen,Chhindwara,2800
+Oct,Madhya Pradesh,Other,Chhatarpur,3378
+Oct,Chattisgarh,Other,Rajnandgaon,3300
+Oct,Madhya Pradesh,Other,Betul,3550
+Oct,Gujarat,Soyabeen,Junagarh,3365
+Oct,Gujarat,Soyabeen,Jamnagar,3200
+Oct,Gujarat,Soyabeen,Dahod,3640
+Oct,Gujarat,Soyabeen,Amreli,3500
+Oct,Gujarat,Other,Surat,3000
+Oct,Gujarat,Other,Sabarkantha,3445
+Oct,Gujarat,Other,Rajkot,3232.5
+Oct,Gujarat,Soyabeen,Rajkot,3300
+Oct,Gujarat,Other,Bhavnagar,2820
+Oct,Chattisgarh,Yellow,Mungeli,3347
+Oct,Chattisgarh,Yellow,Kabirdham,3389.75
+Oct,Chattisgarh,Yellow,Durg,3290
+Oct,Chattisgarh,Soyabeen,Rajnandgaon,3399
+Oct,Madhya Pradesh,Soyabeen,Sehore,3571.6
+Oct,Chattisgarh,Other,Balodabazar,2930
+Oct,Chattisgarh,Local,Rajnandgaon,3531
+Oct,Chattisgarh,Yellow,Rajnandgaon,3511.33333333333
+Oct,Madhya Pradesh,Other,Burhanpur,3400
+Oct,Gujarat,Yellow,Rajkot,3455
+Oct,Karnataka,Local,Belgaum,3592.5
+Oct,Madhya Pradesh,Other,Badwani,3218.5
+Oct,Madhya Pradesh,Other,Ashoknagar,3555
+Oct,Madhya Pradesh,Other,Alirajpur,3401.875
+Oct,Madhya Pradesh,Local,Dindori,3246
+Oct,Madhya Pradesh,Local,Chhindwara,3357
+Oct,Madhya Pradesh,Black,Tikamgarh,3234
+Oct,Madhya Pradesh,Black,Shivpuri,3141
+Oct,Gujarat,Yellow,Sabarkantha,3225
+Oct,Madhya Pradesh,Black,Rajgarh,3456.66666666667
+Oct,Karnataka,Soyabeen,Karwar(Uttar Kannad),3650
+Oct,Karnataka,Soyabeen,Haveri,3515
+Oct,Karnataka,Soyabeen,Gulbarga,3192.33333333333
+Oct,Karnataka,Soyabeen,Dharwad,3449.125
+Oct,Karnataka,Soyabeen,Bidar,3570.5
+Oct,Karnataka,Soyabeen,Belgaum,3672
+Oct,Karnataka,Soyabeen,Bangalore,4600
+Oct,Madhya Pradesh,Black,Raisen,3325
+Oct,Madhya Pradesh,Soyabeen,Sheopur,3378.5
+Oct,Maharashtra,Other,Chandrapur,3519.25
+Oct,Madhya Pradesh,Yellow,Ashoknagar,3466
+Oct,Maharashtra,Yellow,Jalana,3533.77777777778
+Oct,Maharashtra,Yellow,Hingoli,3479.58333333333
+Oct,Maharashtra,Yellow,Chandrapur,3554.66666666667
+Oct,Maharashtra,Yellow,Buldhana,3423.45714285714
+Oct,Maharashtra,Yellow,Bhandara,3560
+Oct,Maharashtra,Yellow,Beed,3485.33333333333
+Oct,Maharashtra,Yellow,Amarawati,3366.1
+Oct,Maharashtra,Yellow,Akola,3465.76923076923
+Oct,Maharashtra,Other,Vashim,3540.83333333333
+Oct,Maharashtra,Other,Sholapur,3543
+Oct,Maharashtra,Other,Parbhani,3400
+Oct,Maharashtra,Other,Osmanabad,3582.4
+Oct,Maharashtra,Other,Nashik,3537.38888888889
+Oct,Maharashtra,Other,Nandurbar,3505.25
+Oct,Maharashtra,Other,Nanded,3471.66666666667
+Oct,Maharashtra,Yellow,Jalgaon,3526
+Oct,Maharashtra,Yellow,Latur,3578.04347826087
+Oct,Maharashtra,Yellow,Nagpur,3336.86666666667
+Oct,Maharashtra,Yellow,Nanded,3370.2
+Oct,Uttar Pradesh,Yellow,Lalitpur,3535
+Oct,Uttar Pradesh,Soyabeen,Kanpur,4830
+Oct,Rajasthan,Yellow,Chittorgarh,3498
+Oct,Rajasthan,Other,Swai Madhopur,3315
+Oct,Rajasthan,Other,Kota,3544.8
+Oct,Rajasthan,Other,Jhalawar,3564.66666666667
+Oct,Rajasthan,Other,Chittorgarh,3489.125
+Oct,Maharashtra,Other,Nagpur,3595.5
+Oct,Rajasthan,Other,Bundi,3541.16666666667
+Oct,Maharashtra,Yellow,Yavatmal,3468.55
+Oct,Maharashtra,Yellow,Wardha,3463.96428571429
+Oct,Maharashtra,Yellow,Vashim,3551.5
+Oct,Maharashtra,Yellow,Pune,3531
+Oct,Maharashtra,Yellow,Parbhani,3537.42857142857
+Oct,Maharashtra,Yellow,Osmanabad,3549.55555555556
+Oct,Maharashtra,Yellow,Nashik,3625
+Oct,Rajasthan,Other,Baran,3498.8125
+Oct,Madhya Pradesh,Soyabeen,Ujjain,355.166666666667
+Oct,Maharashtra,Other,Latur,3611.75
+Oct,Maharashtra,Other,Hingoli,3478.33333333333
+Oct,Madhya Pradesh,Yellow,Khargone,3390
+Oct,Madhya Pradesh,Yellow,Khandwa,3518.5
+Oct,Madhya Pradesh,Yellow,Jhabua,3457.54545454545
+Oct,Madhya Pradesh,Yellow,Indore,3563
+Oct,Madhya Pradesh,Yellow,Hoshangabad,3459.33333333333
+Oct,Madhya Pradesh,Yellow,Harda,3467.33333333333
+Oct,Madhya Pradesh,Yellow,Dhar,3480.45454545455
+Oct,Madhya Pradesh,Yellow,Dewas,3410.88888888889
+Oct,Madhya Pradesh,Yellow,Damoh,3396.66666666667
+Oct,Madhya Pradesh,Yellow,Chhindwara,3051.66666666667
+Oct,Madhya Pradesh,Yellow,Chhatarpur,3500
+Oct,Madhya Pradesh,Yellow,Burhanpur,3485.33333333333
+Oct,Madhya Pradesh,Yellow,Bhopal,3383.33333333333
+Oct,Madhya Pradesh,Yellow,Betul,3487.66666666667
+Oct,Madhya Pradesh,Yellow,Badwani,3501.4
+Oct,Madhya Pradesh,Yellow,Mandsaur,3350
+Oct,Maharashtra,Other,Jalgaon,3343.75
+Oct,Madhya Pradesh,Yellow,Morena,3187
+Oct,Madhya Pradesh,Yellow,Neemuch,3587.4
+Oct,Maharashtra,Other,Buldhana,3467.85714285714
+Oct,Maharashtra,Other,Beed,3551.625
+Oct,Maharashtra,Other,Aurangabad,3512.5
+Oct,Maharashtra,Other,Amarawati,3407.42857142857
+Oct,Maharashtra,Other,Akola,3230
+Oct,Maharashtra,Other,Ahmednagar,3482.6
+Oct,Madhya Pradesh,Yellow,Vidisha,3417.875
+Oct,Madhya Pradesh,Yellow,Narsinghpur,3277.33333333333
+Oct,Madhya Pradesh,Yellow,Ujjain,3552.40740740741
+Oct,Madhya Pradesh,Yellow,Shivpuri,3441.83333333333
+Oct,Madhya Pradesh,Yellow,Shajapur,3444.68421052632
+Oct,Madhya Pradesh,Yellow,Sehore,3498.73684210526
+Oct,Madhya Pradesh,Yellow,Sagar,3420
+Oct,Madhya Pradesh,Yellow,Ratlam,3553.08333333333
+Oct,Madhya Pradesh,Yellow,Rajgarh,3464.36
+Oct,Madhya Pradesh,Yellow,Raisen,3254.2
+Oct,Madhya Pradesh,Yellow,Tikamgarh,3406.33333333333
+Oct,Rajasthan,Other,Udaipur,3550
+Nov,Uttar Pradesh,Yellow,Lalitpur,3534
+Nov,Rajasthan,Yellow,Chittorgarh,3532.4
+Nov,Rajasthan,Other,Swai Madhopur,3591.66666666667
+Nov,Madhya Pradesh,Other,Shehdol,3147
+Nov,Madhya Pradesh,Other,Shajapur,3517.12903225806
+Nov,Madhya Pradesh,Other,Sehore,3660
+Nov,Madhya Pradesh,Other,Satna,3041.2
+Nov,Madhya Pradesh,Other,Sagar,3212.5
+Nov,Madhya Pradesh,Other,Rewa,3161
+Nov,Madhya Pradesh,Other,Ratlam,3621.75
+Nov,Madhya Pradesh,Other,Rajgarh,3464.57142857143
+Nov,Madhya Pradesh,Other,Raisen,3320.25
+Nov,Madhya Pradesh,Other,Neemuch,4001
+Nov,Madhya Pradesh,Other,Narsinghpur,3255.33333333333
+Nov,Madhya Pradesh,Other,Mandsaur,3518.58333333333
+Nov,Madhya Pradesh,Other,Khargone,3481.9375
+Nov,Madhya Pradesh,Other,Khandwa,3475
+Nov,Madhya Pradesh,Other,Indore,3482.30769230769
+Nov,Madhya Pradesh,Other,Sheopur,3325.5
+Nov,Madhya Pradesh,Other,Hoshangabad,3140.5
+Nov,Madhya Pradesh,Other,Shivpuri,3475.05882352941
+Nov,Madhya Pradesh,Other,Vidisha,3345.66666666667
+Nov,Madhya Pradesh,Soyabeen,Sheopur,3398
+Nov,Madhya Pradesh,Soyabeen,Sehore,3519
+Nov,Madhya Pradesh,Soyabeen,Sagar,3334.5
+Nov,Madhya Pradesh,Soyabeen,Ratlam,3589.5
+Nov,Madhya Pradesh,Soyabeen,Rajgarh,3416.66666666667
+Nov,Madhya Pradesh,Soyabeen,Panna,3470
+Nov,Madhya Pradesh,Soyabeen,Mandsaur,3583
+Nov,Madhya Pradesh,Soyabeen,Khargone,3325
+Nov,Madhya Pradesh,Soyabeen,Harda,3409.63636363636
+Nov,Madhya Pradesh,Soyabeen,Guna,3442.5
+Nov,Madhya Pradesh,Soyabeen,Dewas,3465.38461538461
+Nov,Madhya Pradesh,Soyabeen,Chhatarpur,3415.5
+Nov,Madhya Pradesh,Soyabeen,Bhopal,3411.66666666667
+Nov,Madhya Pradesh,Soyabeen,Badwani,3000
+Nov,Madhya Pradesh,Soyabeen,Ashoknagar,3200
+Nov,Madhya Pradesh,Other,Tikamgarh,3414
+Nov,Madhya Pradesh,Soyabeen,Shivpuri,3362.5
+Nov,Madhya Pradesh,Other,Guna,3462.24
+Nov,Madhya Pradesh,Other,Chhindwara,3362.66666666667
+Nov,Gujarat,Soyabeen,Junagarh,3464.28571428571
+Nov,Gujarat,Soyabeen,Jamnagar,3625
+Nov,Gujarat,Soyabeen,Dahod,3684.28571428571
+Nov,Gujarat,Other,Surat,3000
+Nov,Gujarat,Other,Sabarkantha,3445
+Nov,Gujarat,Other,Rajkot,3000
+Nov,Gujarat,Other,Dahod,3200
+Nov,Chattisgarh,Yellow,Rajnandgaon,3633.375
+Nov,Chattisgarh,Yellow,Mungeli,3357.16666666667
+Nov,Chattisgarh,Yellow,Kabirdham,3302.83333333333
+Nov,Chattisgarh,Yellow,Durg,3362.5
+Nov,Chattisgarh,Soyabeen,Rajnandgaon,3399
+Nov,Chattisgarh,Other,Balodabazar,3132
+Nov,Chattisgarh,Local,Rajnandgaon,3359.6
+Nov,Uttar Pradesh,Soyabeen,Kanpur,4710.71428571429
+Nov,Gujarat,Yellow,Rajkot,3455
+Nov,Madhya Pradesh,Other,Dewas,3467
+Nov,Gujarat,Yellow,Sabarkantha,3258.33333333333
+Nov,Karnataka,Soyabeen,Bangalore,4475
+Nov,Madhya Pradesh,Other,Chhatarpur,3462.14285714286
+Nov,Madhya Pradesh,Other,Badwani,3375
+Nov,Madhya Pradesh,Other,Ashoknagar,3467.75
+Nov,Madhya Pradesh,Other,Alirajpur,3349.2
+Nov,Madhya Pradesh,Local,Mandsaur,3600
+Nov,Madhya Pradesh,Local,Dindori,3375
+Nov,Madhya Pradesh,Black,Tikamgarh,3392.5
+Nov,Madhya Pradesh,Black,Rajgarh,3555
+Nov,Madhya Pradesh,Black,Raisen,3350
+Nov,Madhya Pradesh,Black,Datia,3390
+Nov,Karnataka,Soyabeen,Haveri,3593
+Nov,Karnataka,Soyabeen,Gulbarga,3226.4
+Nov,Karnataka,Soyabeen,Dharwad,3489.64285714286
+Nov,Karnataka,Soyabeen,Bidar,3580.125
+Nov,Karnataka,Soyabeen,Belgaum,3700
+Nov,Karnataka,Local,Belgaum,3570
+Nov,Madhya Pradesh,Soyabeen,Ujjain,351.8
+Nov,Madhya Pradesh,Other,Dhar,3538.2
+Nov,Madhya Pradesh,Yellow,Badwani,3581.16666666667
+Nov,Maharashtra,Yellow,Chandrapur,3419.375
+Nov,Maharashtra,Yellow,Buldhana,3467.78048780488
+Nov,Maharashtra,Yellow,Beed,3498.58823529412
+Nov,Maharashtra,Yellow,Amarawati,3373.64705882353
+Nov,Maharashtra,Yellow,Akola,3477.3
+Nov,Maharashtra,Yellow,Ahmednagar,3312.5
+Nov,Maharashtra,Other,Vashim,3521.78571428571
+Nov,Maharashtra,Other,Sholapur,3616.66666666667
+Nov,Maharashtra,Other,Parbhani,3495.5
+Nov,Maharashtra,Other,Osmanabad,3571.5
+Nov,Maharashtra,Other,Nashik,3483.77272727273
+Nov,Maharashtra,Other,Nandurbar,3503.75
+Nov,Maharashtra,Other,Nanded,3554.2
+Nov,Maharashtra,Other,Nagpur,3533.5
+Nov,Maharashtra,Other,Latur,3596
+Nov,Maharashtra,Yellow,Jalana,3547.64285714286
+Nov,Maharashtra,Other,Jalgaon,3478.4
+Nov,Maharashtra,Yellow,Jalgaon,3513.5
+Nov,Maharashtra,Yellow,Nagpur,3398.88888888889
+Nov,Rajasthan,Other,Kota,3530.6
+Nov,Madhya Pradesh,Yellow,Ashoknagar,3517.83333333333
+Nov,Rajasthan,Other,Jhalawar,3572.15151515151
+Nov,Rajasthan,Other,Chittorgarh,3375.55555555556
+Nov,Rajasthan,Other,Bundi,3548.6
+Nov,Rajasthan,Other,Bhilwara,1875
+Nov,Rajasthan,Other,Baran,3665.5652173913
+Nov,Maharashtra,Yellow,Yavatmal,3459.52941176471
+Nov,Maharashtra,Yellow,Wardha,3424.65517241379
+Nov,Maharashtra,Yellow,Vashim,3545.66666666667
+Nov,Maharashtra,Yellow,Pune,3400
+Nov,Maharashtra,Yellow,Parbhani,3530.25
+Nov,Maharashtra,Yellow,Osmanabad,3602.4
+Nov,Maharashtra,Yellow,Nandurbar,3450
+Nov,Maharashtra,Yellow,Nanded,3464.3
+Nov,Maharashtra,Yellow,Latur,3585.5
+Nov,Maharashtra,Other,Jalana,3260.33333333333
+Nov,Maharashtra,Yellow,Hingoli,3539.66666666667
+Nov,Maharashtra,Other,Hingoli,3503.28571428571
+Nov,Madhya Pradesh,Yellow,Mandsaur,3665
+Nov,Madhya Pradesh,Yellow,Khargone,3460
+Nov,Madhya Pradesh,Yellow,Khandwa,3562
+Nov,Madhya Pradesh,Yellow,Jhabua,3419.83333333333
+Nov,Madhya Pradesh,Yellow,Jabalpur,2450
+Nov,Madhya Pradesh,Yellow,Hoshangabad,3450.44444444444
+Nov,Madhya Pradesh,Yellow,Harda,3455.8
+Nov,Madhya Pradesh,Yellow,Dhar,3548.92857142857
+Nov,Madhya Pradesh,Yellow,Dewas,3497.76923076923
+Nov,Madhya Pradesh,Yellow,Damoh,3453
+Nov,Madhya Pradesh,Yellow,Chhindwara,3451.66666666667
+Nov,Madhya Pradesh,Yellow,Chhatarpur,3500
+Nov,Madhya Pradesh,Yellow,Burhanpur,3522
+Nov,Madhya Pradesh,Yellow,Bhopal,3459.33333333333
+Nov,Madhya Pradesh,Yellow,Betul,3507
+Nov,Madhya Pradesh,Yellow,Narsinghpur,3398.125
+Nov,Madhya Pradesh,Yellow,Neemuch,3575
+Nov,Madhya Pradesh,Yellow,Indore,3567.58333333333
+Nov,Maharashtra,Other,Akola,3335
+Nov,Maharashtra,Other,Chandrapur,3561.25
+Nov,Maharashtra,Other,Beed,3559.72727272727
+Nov,Maharashtra,Other,Aurangabad,3562
+Nov,Maharashtra,Other,Amarawati,3412.11111111111
+Nov,Maharashtra,Other,Ahmednagar,3437.38888888889
+Nov,Madhya Pradesh,Yellow,Vidisha,3397.58333333333
+Nov,Madhya Pradesh,Yellow,Raisen,3281.25
+Nov,Madhya Pradesh,Yellow,Ujjain,3567.33333333333
+Nov,Madhya Pradesh,Yellow,Shivpuri,3410.45454545455
+Nov,Madhya Pradesh,Yellow,Shajapur,3469.72727272727
+Nov,Madhya Pradesh,Yellow,Sehore,3491.54166666667
+Nov,Madhya Pradesh,Yellow,Sagar,3320.28
+Nov,Madhya Pradesh,Yellow,Ratlam,3563.36363636364
+Nov,Madhya Pradesh,Yellow,Rajgarh,3507.60714285714
+Nov,Madhya Pradesh,Yellow,Tikamgarh,3469.3
+Nov,Maharashtra,Other,Buldhana,3463.88888888889
+Dec,Madhya Pradesh,Other,Sagar,3400
+Dec,Madhya Pradesh,Other,Satna,3040
+Dec,Madhya Pradesh,Other,Hoshangabad,3180
+Dec,Madhya Pradesh,Other,Shajapur,3528.19230769231
+Dec,Madhya Pradesh,Other,Rewa,2900
+Dec,Madhya Pradesh,Other,Shehdol,3550.5
+Dec,Madhya Pradesh,Other,Sehore,3460
+Dec,Madhya Pradesh,Other,Ratlam,3592.16666666667
+Dec,Madhya Pradesh,Other,Khandwa,3300
+Dec,Madhya Pradesh,Other,Raisen,3370
+Dec,Madhya Pradesh,Other,Neemuch,3468.5
+Dec,Madhya Pradesh,Other,Narsinghpur,3367.5
+Dec,Madhya Pradesh,Other,Mandsaur,3355.09090909091
+Dec,Madhya Pradesh,Other,Khargone,3637.71428571429
+Dec,Madhya Pradesh,Other,Indore,3558
+Dec,Madhya Pradesh,Other,Sheopur,3198.75
+Dec,Madhya Pradesh,Other,Rajgarh,3558
+Dec,Madhya Pradesh,Other,Shivpuri,3499.92307692308
+Dec,Madhya Pradesh,Soyabeen,Sehore,3592.4
+Dec,Madhya Pradesh,Other,Ujjain,3465
+Dec,Madhya Pradesh,Other,Guna,3460.95
+Dec,Madhya Pradesh,Soyabeen,Sheopur,3410.75
+Dec,Madhya Pradesh,Soyabeen,Shivpuri,3620
+Dec,Madhya Pradesh,Soyabeen,Sagar,3375.22222222222
+Dec,Madhya Pradesh,Soyabeen,Ratlam,3606.2
+Dec,Madhya Pradesh,Soyabeen,Rajgarh,3456.66666666667
+Dec,Madhya Pradesh,Soyabeen,Mandsaur,3573.2
+Dec,Madhya Pradesh,Other,Tikamgarh,3400
+Dec,Madhya Pradesh,Soyabeen,Khargone,3297.4
+Dec,Madhya Pradesh,Soyabeen,Guna,3445
+Dec,Madhya Pradesh,Soyabeen,Dewas,3417.57142857143
+Dec,Madhya Pradesh,Soyabeen,Chhindwara,3447
+Dec,Madhya Pradesh,Soyabeen,Chhatarpur,3343.25
+Dec,Madhya Pradesh,Soyabeen,Bhopal,3145
+Dec,Madhya Pradesh,Soyabeen,Ashoknagar,3335.5
+Dec,Madhya Pradesh,Other,Vidisha,3248.83333333333
+Dec,Madhya Pradesh,Soyabeen,Harda,3487.25
+Dec,Madhya Pradesh,Other,Dhar,3372.33333333333
+Dec,Chattisgarh,Yellow,Durg,3395
+Dec,Madhya Pradesh,Other,Damoh,3110
+Dec,Gujarat,Soyabeen,Junagarh,3415
+Dec,Gujarat,Soyabeen,Jamnagar,3275
+Dec,Gujarat,Soyabeen,Dahod,3668.33333333333
+Dec,Gujarat,Soyabeen,Amreli,3375
+Dec,Gujarat,Other,Surat,2250
+Dec,Gujarat,Other,Sabarkantha,3543.5
+Dec,Gujarat,Other,Rajkot,3252.5
+Dec,Gujarat,Soyabeen,Rajkot,3700
+Dec,Gujarat,Other,Dahod,3250
+Dec,Gujarat,Other,Amreli,3070
+Dec,Chattisgarh,Yellow,Rajnandgaon,3535.71428571429
+Dec,Chattisgarh,Yellow,Mungeli,3226.66666666667
+Dec,Chattisgarh,Yellow,Kabirdham,3328.75
+Dec,Chattisgarh,Yellow,Bemetara,3400
+Dec,Chattisgarh,Other,Balodabazar,3450
+Dec,Madhya Pradesh,Soyabeen,Ujjain,351.02
+Dec,Gujarat,Other,Bhavnagar,3175
+Dec,Madhya Pradesh,Other,Dewas,3475.66666666667
+Dec,Gujarat,Yellow,Rajkot,3420
+Dec,Karnataka,Local,Belgaum,3560
+Dec,Madhya Pradesh,Other,Chhindwara,3399.6
+Dec,Madhya Pradesh,Other,Chhatarpur,3458.75
+Dec,Madhya Pradesh,Other,Badwani,3402.5
+Dec,Madhya Pradesh,Other,Ashoknagar,3471.75
+Dec,Madhya Pradesh,Other,Alirajpur,3405.71428571429
+Dec,Madhya Pradesh,Local,Dindori,3325
+Dec,Madhya Pradesh,Local,Chhindwara,3255.5
+Dec,Gujarat,Yellow,Sabarkantha,3358.33333333333
+Dec,Madhya Pradesh,Black,Tikamgarh,3310
+Dec,Madhya Pradesh,Black,Raisen,3500
+Dec,Madhya Pradesh,Black,Chhatarpur,3230
+Dec,Karnataka,Soyabeen,Haveri,3591.66666666667
+Dec,Karnataka,Soyabeen,Gulbarga,3159.2
+Dec,Karnataka,Soyabeen,Dharwad,3565.33333333333
+Dec,Karnataka,Soyabeen,Bidar,3568.57142857143
+Dec,Karnataka,Soyabeen,Bangalore,4433.33333333333
+Dec,Madhya Pradesh,Black,Rajgarh,3460
+Dec,Madhya Pradesh,Yellow,Ashoknagar,3586.44444444444
+Dec,Rajasthan,Other,Tonk,3063
+Dec,Madhya Pradesh,Yellow,Betul,3507.18181818182
+Dec,Maharashtra,Yellow,Hingoli,3555.76923076923
+Dec,Maharashtra,Yellow,Chandrapur,3529.66666666667
+Dec,Maharashtra,Yellow,Buldhana,3447.4375
+Dec,Maharashtra,Yellow,Bhandara,3250
+Dec,Maharashtra,Yellow,Beed,3548.15384615385
+Dec,Maharashtra,Yellow,Aurangabad,3523
+Dec,Maharashtra,Yellow,Amarawati,3381.84210526316
+Dec,Maharashtra,Yellow,Jalana,3527.72727272727
+Dec,Maharashtra,Yellow,Akola,3463.92857142857
+Dec,Maharashtra,Other,Vashim,3510
+Dec,Maharashtra,Other,Sholapur,3485
+Dec,Maharashtra,Other,Parbhani,3600
+Dec,Maharashtra,Other,Osmanabad,3609.66666666667
+Dec,Maharashtra,Other,Nashik,3555.15384615385
+Dec,Maharashtra,Other,Nandurbar,3538
+Dec,Maharashtra,Other,Nanded,3480
+Dec,Maharashtra,Yellow,Ahmednagar,3275
+Dec,Maharashtra,Other,Nagpur,3462.33333333333
+Dec,Maharashtra,Yellow,Latur,3538.27777777778
+Dec,Maharashtra,Yellow,Nanded,3458
+Dec,Uttar Pradesh,Yellow,Lalitpur,3530
+Dec,Uttar Pradesh,Soyabeen,Kanpur,4717.5
+Dec,Rajasthan,Yellow,Chittorgarh,3570
+Dec,Rajasthan,Other,Udaipur,3400
+Dec,Rajasthan,Other,Swai Madhopur,3363
+Dec,Rajasthan,Other,Kota,3536.06666666667
+Dec,Rajasthan,Other,Jhalawar,3571.40740740741
+Dec,Maharashtra,Yellow,Nagpur,3399.16666666667
+Dec,Rajasthan,Other,Chittorgarh,3440.77777777778
+Dec,Rajasthan,Other,Baran,3433.13043478261
+Dec,Maharashtra,Yellow,Yavatmal,3484.13636363636
+Dec,Maharashtra,Yellow,Wardha,3452.21428571429
+Dec,Maharashtra,Yellow,Vashim,3552.72727272727
+Dec,Maharashtra,Yellow,Parbhani,3543.64285714286
+Dec,Maharashtra,Yellow,Osmanabad,3623.28571428571
+Dec,Maharashtra,Yellow,Nashik,3311
+Dec,Rajasthan,Other,Bundi,3483.72222222222
+Dec,Madhya Pradesh,Yellow,Badwani,3584
+Dec,Maharashtra,Other,Latur,3608.2
+Dec,Maharashtra,Other,Jalana,3511
+Dec,Madhya Pradesh,Yellow,Morena,3400
+Dec,Madhya Pradesh,Yellow,Mandsaur,3605
+Dec,Madhya Pradesh,Yellow,Khargone,3396.66666666667
+Dec,Madhya Pradesh,Yellow,Khandwa,3455.14285714286
+Dec,Madhya Pradesh,Yellow,Jhabua,3534.375
+Dec,Madhya Pradesh,Yellow,Indore,3573.22222222222
+Dec,Madhya Pradesh,Yellow,Hoshangabad,3554.5
+Dec,Madhya Pradesh,Yellow,Narsinghpur,3327
+Dec,Madhya Pradesh,Yellow,Harda,3546.33333333333
+Dec,Madhya Pradesh,Yellow,Dewas,3516.90909090909
+Dec,Madhya Pradesh,Yellow,Datia,3000
+Dec,Madhya Pradesh,Yellow,Damoh,3426.11111111111
+Dec,Madhya Pradesh,Yellow,Chhindwara,3392
+Dec,Madhya Pradesh,Yellow,Chhatarpur,3400
+Dec,Madhya Pradesh,Yellow,Burhanpur,3441.2
+Dec,Madhya Pradesh,Yellow,Bhopal,3272
+Dec,Madhya Pradesh,Yellow,Dhar,3541.12
+Dec,Maharashtra,Other,Jalgaon,3450.42857142857
+Dec,Madhya Pradesh,Yellow,Neemuch,3582.2
+Dec,Madhya Pradesh,Yellow,Rajgarh,3519.84375
+Dec,Maharashtra,Other,Hingoli,3530.16666666667
+Dec,Maharashtra,Other,Chandrapur,3543.25
+Dec,Maharashtra,Other,Buldhana,3387.5
+Dec,Maharashtra,Other,Beed,3541.5
+Dec,Maharashtra,Other,Aurangabad,3553.66666666667
+Dec,Maharashtra,Other,Amarawati,3440.42857142857
+Dec,Maharashtra,Other,Akola,3240
+Dec,Madhya Pradesh,Yellow,Raisen,3247.36363636364
+Dec,Maharashtra,Other,Ahmednagar,3477.58333333333
+Dec,Madhya Pradesh,Yellow,Ujjain,3583.21428571429
+Dec,Madhya Pradesh,Yellow,Tikamgarh,3350
+Dec,Madhya Pradesh,Yellow,Shivpuri,3503
+Dec,Madhya Pradesh,Yellow,Shajapur,3466.77272727273
+Dec,Madhya Pradesh,Yellow,Sehore,3492.42857142857
+Dec,Madhya Pradesh,Yellow,Sagar,3470.81818181818
+Dec,Madhya Pradesh,Yellow,Ratlam,3572.45454545455
+Dec,Madhya Pradesh,Yellow,Vidisha,3465.9
+Dec,Chattisgarh,Local,Rajnandgaon,3576.75
